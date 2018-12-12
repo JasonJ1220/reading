@@ -22,15 +22,35 @@
 
 1. My own answer to the contrarian question is that most people think the future of the world will be defined by globalization, but the truth is that technology matters more.
 
- 
+1. Startups operate on the principle that you need to work with other people to get stuff done, but you also need to stay small enough so that you actually can.
 
-2. Startups operate on the principle that you need to work with other people to get stuff done, but you also need to stay small enough so that you actually can.
-
- 
-
-3. A new company’s most important strength is new thinking: even more important than nimbleness, small size affords space to think.
+1. A new company’s most important strength is new thinking: even more important than nimbleness, small size affords space to think.
 
 ---
-- 人们倾向于在什么问题上观点一致？
-- 20世纪90年代的互联网热潮到底带来了什么？
 
+**人们倾向于在什么问题上观点一致？**
+**20世纪90年代的互联网热潮到底带来了什么？**
+
+1. If you can identify a delusional popular belief, you can find what lies hidden behind it: the contrarian truth.
+
+1. But it’s hard to blame people for dancing when the music was playing; irrationality was rational given that appending “.com” to your name could double your value overnight.
+---
+**PayPal如何在互联网泡沫破裂的局面下幸存的？**
+**我们从互联网泡沫破裂的历史中得到了什么教训？**
+
+1. The market high of March 2000 was obviously a peak of insanity; less obvious but more important, it was also a peak of clarity.
+
+2. The most contrarian thing of all is not to oppose the crowd but to think for yourself.
+
+1. The entrepreneurs who stuck with Silicon Valley learned four big lesson from the dot-com crash that still guide business thinking today:
+
+- Make incremental advances.
+- Stayl lean and flexible.
+- Improve on the competition.
+- Focus on product,not sales.
+
+---
+**什么公司才是既前无古人又具有高价值的呢？**
+**竞争和垄断，哪一个才能让公司真正立于不败之地？**
+
+1. The lesson for entrepreneurs is clear: if you want to create and capture lasting value, don’t build an undifferentiated commodity business.
