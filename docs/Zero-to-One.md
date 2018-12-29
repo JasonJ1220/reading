@@ -195,3 +195,26 @@ google's core value:
 1.  Contrarian thinking doesn't make any sense unless the world still has secrets left to give up.
 2.  Every correct answer is necessarily a secret: something important and unknown, something hard to do but doable. If there are many secrets left in the world, there are probably many world-­changing companies yet to be started.
 3.  Why has so much of our society come to believe that there are no hard secrets left? It might start with geography. There are no blank spaces left on the map anymore.
+
+## 2018.12.25
+**哪些社会趋势让人们不再相信世界上存在着未知和秘密？
+世界假如没有任何秘密，将会是什么样的？**
+
+1.  People are scared of secrets because they are scared of being wrong. By definition, a secret hasn't been vetted by the mainstream. If your goal is to never make a mistake in your life, you shouldn't look for secrets.
+2.  Social elites have the most freedom and ability to explore new thinking, but they seem to believe in secrets the least. Why search for a new secret if you can comfortably collect rents on everything that has already been done?
+
+## 2018.12.26
+**我们应该如何发现与寻找秘密？哪些领域可以挖掘出有价值的秘密——从而创造改变世界的企业？
+我们是否应该讲秘密分享给别人呢？**
+1.  Great companies can be built on open but unsuspected secrets about how the world works.
+2.  So when thinking about what kind of company to build, there are two distinct questions to ask: What secrets is nature not telling you? What secrets are people not telling you?
+3.  The best place to look for secrets is where no one else is looking.
+4.  The best entrepreneurs know this: every great business is built around a secret that's hidden from the outside. A great company is a conspiracy to change the world; when you share your secret, the recipient becomes a fellow conspirator.
+
+## 2018.12.27
+**什么是建立一个初创公司的基础？
+初创公司内部不团结的最主要原因是什么？
+初创公司的内部权力主要有哪些？**
+1.  Bad decisions made early on—­if you choose the wrong partners or hire the wrong people, for example—­are very hard to correct after they are made.
+2.  Choosing a co­founder is like getting married, and founder conflict is just as ugly as divorce. Optimism abounds at the start of every relationship. It's unromantic to think soberly about what could go wrong, so people don't.
+3.  You need good people who get along, but you also need a structure to help keep everyone aligned for the long term.
