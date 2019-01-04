@@ -218,3 +218,33 @@ google's core value:
 1.  Bad decisions made early on—­if you choose the wrong partners or hire the wrong people, for example—­are very hard to correct after they are made.
 2.  Choosing a co­founder is like getting married, and founder conflict is just as ugly as divorce. Optimism abounds at the start of every relationship. It's unromantic to think soberly about what could go wrong, so people don't.
 3.  You need good people who get along, but you also need a structure to help keep everyone aligned for the long term.
+
+## 2018.12.28
+**初创公司应慎重地选择董事会成员，雇佣全职员工，且不以现金报酬作为激励员工的主要手段。**
+1.  The potential for conflict increases over time as interests diverge: a board member might want to take a company public as soon as possible to score a win for his venture firm, while the founders would prefer to stay private and grow the business.
+2.  If you're deciding whether to bring someone on board, the decision is binary. Ken Kesey was right: you're either on the bus or off the bus.
+3.  But even so-called incentive pay encourages short-term thinking and value grabbing. Any kind of cash is more about the present than the future.
+
+## 2018.12.29
+**如果现金报酬并非激励员工的最佳选择，那么我们应该如何引导员工创造价值呢？
+理想的创业公司文化应该有着何种内涵？如何打造公司的帮派文化？**
+1.  Anyone who prefers owning a part of your company to being paid in cash reveals a preference for the long term and a commitment to increasing your company’s value in the future.
+2.  Every company is a culture. A startup is a team of people on a mission, and a good culture is just what that looks like on the inside.
+3.  Since time is your most valuable asset, it's odd to spend it working with people who don't envision any long-term future together.
+
+## 2018.12.30
+**初创公司应努力寻找认同公司使命，可以和睦共事，甚至有着相同气质和爱好的员工，并让每个员工只负责一件事情。**
+1.  Just cover the basics like health insurance and then promise what no others can: the opportunity to do irreplaceable work on a unique problem alongside great people.
+2.  The startup uniform encapsulates a simple but essential principle: everyone at your 
+3.  company should be different in the same way—a tribe of like-minded people fiercely devoted to the company’s mission.
+3.  The best thing I did as a manager at PayPal was to make every person in the company responsible for doing just one thing. Every employee’s one thing was unique, and everyone knew I would evaluate him only on that one thing.
+
+## 2018.12.31
+**优秀的初创公司和邪教有什么共同点？又有什么不同？
+销售对于硅谷公司有什么意义？为何硅谷的技术精英往往低估了销售？**
+
+**由于最有效的销售往往是隐形的，因而很多人，特别是硅谷技术精英，难以察觉销售对企业极其重要的作用。**
+
+1.  But advertising doesn't exist to make you buy a product right away; it exists to embed subtle impressions that will drive sales later. Anyone who can't acknowledge its likely effect on himself is doubly deceived.
+2.  All salesmen are actors: their priority is persuasion, not sincerity.
+3.  Like acting, sales works best when hidden.
