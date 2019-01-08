@@ -248,3 +248,86 @@ google's core value:
 1.  But advertising doesn't exist to make you buy a product right away; it exists to embed subtle impressions that will drive sales later. Anyone who can't acknowledge its likely effect on himself is doubly deceived.
 2.  All salesmen are actors: their priority is persuasion, not sincerity.
 3.  Like acting, sales works best when hidden.
+
+## 2019.1.1
+**如何判断推广策略是否有效？
+复杂销售与人员销售各有什么特点？它们的销售策略和增长模式有何不同？**
+
+**销售与推销对于垄断的形成至关重要，而产品的销售预算和方案应与产品的售价与定位有关。**
+
+1.  If you've invented something new but you haven't invented an effective way to sell it, you have a bad business—­no matter how good the product.
+2.  In general, the higher the price of your product, the more you have to spend to make a sale—­and the more it makes sense to spend it.
+3.  Good enterprise sales strategy starts small, as it must: a new customer might agree to become your biggest customer, but they'll rarely be comfortable signing a deal completely out of scale with what you've sold before.
+
+## 2019.1.2
+**小企业销售的盲区和瓶颈包括哪些？
+初创公司应该如何投放广告？投放广告时应该避免哪些误区？
+什么是病毒式营销？病毒式营销如何帮助初创公司快速成长？**
+
+**销售与推销对于垄断的形成至关重要，而产品的销售预算和方案应与产品的售价与定位有关。**
+
+1.  Every entrepreneur envies a recognizable ad campaign, but startups should resist the temptation to compete with bigger companies in the endless contest to put on the most memorable TV spots or the most elaborate PR stunts.
+2.  A product is viral if its core functionality encourages users to invite their friends to become users too.
+3.  Whoever is first to dominate the most important segment of a market with viral potential will be the last mover in the whole market.
+
+## 2019.1.3
+**产品的销售是如何遵守幂次法则的？
+如何将产品推销给员工、投资者和媒体？
+为什么现代技术的发展让不少人恐惧？技术会代替人类吗？**
+
+**初创企业应在各个环节融入销售的智慧，并找到最适合自己的销售手段。
+计算机技术的不断发展也带来了人类即将被机器取代的恐慌，虽然比起机器，人们更有可能被来自其他国家的竞争者所取代。**
+
+1.  Most businesses get zero distribution channels to work: poor sales rather than bad product is the most common cause of failure.
+2.  Everybody has a product to sell—no matter whether you're an employee, a founder, or an investor. It's true even if your company consists of just you and your computer.
+3.  Americans fear technology in the near future because they see it as a replay of the globalization of the near past. But the situations are very different: people compete for jobs and for resources; computers compete for neither.
+
+## 2019.1.4
+**全球化和科技，哪个才会造成人们恐惧的竞争与失业？
+人类和计算机为何不是相互取代的关系，而是互补的关系？**
+
+**全球化意味着竞争和替代，而科技意味着补充。而人类与计算机的互补是创立未来伟大事业的途径。**
+
+
+1.  The stark differences between man and machine mean that gains from working with computers are much higher than gains from trade with other people.
+2.  Properly understood, technology is the one way for us to escape competition in a globalizing world. As computers become more and more powerful, they won't be substitutes for humans: they'll be complements.
+3.  Complementarity between computers and humans isn't just a macro-scale fact. It's also the path to building a great business.
+
+## 2019.1.5
+**为什么那么多人误以为计算机能够代替人类，而忽视了人机互补的必要性？
+计算机是否可能替代人类？**
+
+**“机器学习”和“大数据”等流行概念让人们忽视了人力在技术发展过程中的辅助作用，人类一时半会儿不会被计算机取代，因此这种恐慌不应该阻止我们制定计划、发展技术。**
+
+1.  The very term “machine learning” evokes imagery of replacement, and its boosters seem to believe that computers can be taught to perform almost any task, so long as we feed them enough training data.
+2.  We have let ourselves become enchanted by big data only because we exoticize technology. We're impressed with small feats accomplished by computers alone, but we ignore big achievements from complementarity because the human contribution makes them less uncanny.
+3.  Replacement by computers is a worry for the 22nd century. Indefinite fears about the far future shouldn't stop us from making definite plans today.
+
+## 2019.1.6
+**为什么清洁能源公司的泡沫在2010年后迅速破灭？清洁技术缘何惨遭失败？**
+
+**清洁能源被视为21世纪的朝阳产业，然而近些年来对清洁能源产业的投资徒劳无功，多数清洁能源公司由于未能解决好创业企业面临的七个问题而失败。**
+
+1.  It didn't work. Instead of a healthier planet, we got a massive cleantech bubble.
+2.  Companies must strive for 10x better because merely incremental improvements often end up meaning no improvement at all for the end user.
+3.  Cleantech entrepreneurs' thinking about markets was hopelessly confused. They would rhetorically shrink their market in order to seem differentiated, only to turn around and ask to be valued based on huge, supposedly lucrative markets.
+
+## 2019.1.7
+**清洁能源公司还面临着什么样的人员、销售问题？
+清洁能源公司为何无法持久发展？如何才能成为特定市场的坚守者，而不被竞争者所超越？**
+
+**倒闭的清洁能源公司还面临着严重的人员和销售问题，不仅如此，清洁能源公司也未能做好长远规划，以应对外界的竞争。**
+
+1.  The most obvious clue was sartorial: cleantech executives were running around wearing suits and ties. This was a huge red flag, because real technologists wear T-shirts and jeans. 
+2.  They learned the hard way that the world is not a laboratory: selling and delivering a product is at least as important as the product itself.
+3.  But was competition from Chinese manufacturers really impossible to predict? Cleantech entrepreneurs would have done well to rephrase the durability question and ask: what will stop China from wiping out my business? Without an answer, the result shouldn't have come as a surprise.
+
+## 2019.1.8
+**为什么清洁能源公司的公益理念反而导致了它的失败？
+特斯拉是如何从清洁技术公司中脱颖而出的？它是如何解决清洁技术公司普遍面临的七个问题的？**
+
+清洁能源公司使用普遍认可的观念发展企业，没有去发现秘密，因而在竞争中失败。而特斯拉则解决了清洁能源公司所普遍面临的7个问题，因而取得了成功。
+
+1.  Every cleantech company justified itself with conventional truths about the need for a cleaner world. They deluded themselves into believing that an overwhelming social need for alternative energy solutions implied an overwhelming business opportunity for cleantech companies of all kinds.
+2.  Social entrepreneurs aim to combine the best of both worlds and “do well by doing good.” Usually they end up doing neither.
+3.  Doing something different is what's truly good for society—­and it's also what allows a business to profit by monopolizing a new market.
