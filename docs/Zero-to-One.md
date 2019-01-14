@@ -331,3 +331,61 @@ google's core value:
 1.  Every cleantech company justified itself with conventional truths about the need for a cleaner world. They deluded themselves into believing that an overwhelming social need for alternative energy solutions implied an overwhelming business opportunity for cleantech companies of all kinds.
 2.  Social entrepreneurs aim to combine the best of both worlds and “do well by doing good.” Usually they end up doing neither.
 3.  Doing something different is what's truly good for society—­and it's also what allows a business to profit by monopolizing a new market.
+
+## 2019.1.9
+**特斯拉发现了清洁技术领域的何种秘密？
+特斯拉的成功和其他清洁技术公司的失败给了我们何种启示？未来的清洁能源公司应该如何开始自己的发展？**
+
+**特斯拉的成功启示我们，即使是站在风口的创业公司，也只能通过找准小市场、发现秘密，并拿出最佳解决方案，才能在激烈的市场竞争中生存。**
+
+1.  While generic cleantech companies struggled to differentiate themselves, Tesla built a unique brand around the secret that cleantech was even more of a social phenomenon than an environmental imperative.
+
+2.  The macro need for energy solutions is still real. But a valuable business must start by finding a niche and dominating a small market.
+
+**特斯拉的市场定位和销售策略**
+
+特斯拉一开始的市场定位就非常独特且精准，就是“高端时尚的纯电动轿跑车”，这个定位创造了一个全新的市场空间，也就是作者所说的在“小的利基市场内实现垄断”。
+
+从十九世纪以来，大部分车企推出的主打车型往往都是家用轿车这一受众广泛、技术门槛相对不高、价格也不高的车型，比如我们熟知的福特 T 型车等等。
+
+而这些年来传统车企开发的新能源车型，也以中档乘用车为主，因为续航能力等原因，绝大部分车型都是小型车，比如日产聆风、宝马i3以及比亚迪 F3DM 等等。而特斯拉就成为了唯一一个以高端电动跑车为主打车型的新能源车企。
+
+特斯拉高端时尚且节能的车型定位，可以让它把客户聚焦在高薪人群。这些人群往往接受新事物的能力强，有着较好的环保意识和更强的炫耀欲望，特斯拉完美切合了他们的需求，并颠覆了新的市场。而且从小型的利基市场起家，也有助于特斯拉进行必要的研发，制造价格稍低的Ｓ型汽车。
+
+特斯拉拥有独特的颠覆式的销售模式，例如采取独特的销售渠道：包括体验店和先预定再制造的完整销售链模式。
+
+和传统的通过4S经销商店的营销渠道完全不同，特斯拉通过将装修炫目而时尚的体验专卖店开在大型高端商场的底层，直接进行汽车展示和订购，大大减少了因为经销商的存在而导致汽车价格浮动。
+
+而且体验店里面的销售人员不会像 4S 店里的销售人员不断推销产品，而是像苹果体验店一样让客户更好的体验产品，也有利于维护特斯拉的高端时尚的产品形象。
+
+此外，特斯拉的广告模式也别出心裁。特斯拉采取完全不同于传统广告的“拉动广告”策略，包括使用社交媒体、让人们对这一品牌进行口口相传。例如通过请大量的名人、政客、影星等KOL（Key Opinion Leader，关键意见领袖）作为自己的第一批客户，并通过他们在社交媒体上引发讨论。在销售完成后，他们不仅引导用户在社交媒体上分享驾车体验，同时也把创始人Elon Musk包装成“硅谷钢铁侠”，通过Elon Musk本身在各种镜头前去讲故事并推动口碑。这些价值传播方式是以往任何一个车企都未做过的。
+
+## 2019.1.10
+**为什么成功的创业者往往给人以特立独行的印象？
+创业者的极端形象是天生的？还是被社会和媒体追捧、夸大而成的？**
+
+**神话中的国王、当代名人、公司的创始人往往都表现出矛盾而极端的人格特征。他们的独特个性往往经过人群和媒体的传播，而变得更为极端。**
+
+1.  Startup CEOs can be cash poor but millionaires on paper. They may oscillate between sullen jerkiness and appealing charisma. Almost all successful entrepreneurs are simultaneously insiders and outsiders. And when they do succeed, they attract both fame and infamy.
+2.  The most famous people in the world are founders, too: instead of a company, every celebrity founds and cultivates a personal brand.
+3.  The famous and infamous have always served as vessels for public sentiment: they're praised amid prosperity and blamed for misfortune.
+
+## 2019.1.11
+**为何大众总是津津乐道于名人巨星的陨落？只有早逝的明星才能“封神”？
+著名的创始人为何总是被人攻击，最终不得不离开自己所创造的企业？**
+
+**就如同大众总是喜欢崇拜或贬低名人，他们也十分热衷于神化或攻击企业的创始人，比尔·盖茨和乔布斯都曾因为这种攻击而被逐出企业。**
+
+1.  Perhaps the only way to be a rock god forever is to die an early death.
+2.  Apple's value crucially depended on the singular vision of a particular person. This hints at the strange way in which the companies that create new technology often resemble feudal monarchies rather than organizations that are supposedly more “modern.”
+3.  A unique founder can make authoritative decisions, inspire strong personal loyalty, and plan ahead for decades. Paradoxically, impersonal bureaucracies staffed by trained professionals can last longer than any lifetime, but they usually act with short time horizons.
+
+## 2019.1.12
+**公司应该从比尔·盖茨和乔布斯的案例中吸取哪些教训？
+人类的未来会遵循何种历史发展模式？新技术在历史发展中将承担何种角色？**
+
+**只有创造新技术，才能消解竞争的压力，走向更加美好的未来。而技术创新的前提则是独立思考，重新认识世界。**
+
+1.  The single greatest danger for a founder is to become so certain of his own myth that he loses his mind. But an equally insidious danger for every business is to lose all sense of myth and mistake disenchantment for wisdom.
+2.  The most dramatic version of this outcome is called the Singularity, an attempt to name the imagined result of new technologies so powerful as to transcend the current limits of our understanding.
+3.  Our task today is to find singular ways to create the new things that will make the future not just different, but better—to go from 0 to 1. The essential first step is to think for yourself. Only by seeing our world anew, as fresh and strange as it was to the ancients who saw it first, can we both re-create it and preserve it for the future.
