@@ -39,3 +39,48 @@
 1. Most people think of process and management as boring and dull, whereas startups are dynamic and exciting. But what is actually exciting is to see start-ups succeed and change the world.
 
 ## 2019.1.16
+**初创公司为什么会失败？
+为什么说旧的管理模式不适应新创企业，而我们需要寻找新的管理模式？**
+
+**“精益创业”作为创业综合理论的卓越之处；这个理论下新创企业的成长模式；新创企业的商业计划要像汽车驾驶一样，体现对方向的控制，而不是像准备发射火箭一样，需要细致勾勒每一个动作。**
+
+1. The goal of a startup is to figure out the right thing to build—the thing customers want and will pay for—as quickly as possible.
+
+2. Like Henry Ford's tinkering in his garage, not all of these changes turn out to be improvements.
+
+## 2019.1.17
+**精益创业的理念源自哪里？
+精益创业要求人们用怎样不同的方式衡量生产力？**
+
+**经营新创企业的原则应该像开车，不断完成“开发—测量—认知”的反馈循环。而精益创业的方法论适用于所有新创企业生态系统下的创业者，帮助他们将创业的“必要条件”转变为真实成就。**
+
+1. Entrepreneurs are committed to seeing the start-up through to that destination. Every setback is an opportunity  for  learning  how  to  get  where  they  want  to  go.
+1. Even the most established company faces the imperative to invest in innovation lest it become obsolete.
+
+## 2019.1.18
+**什么才是真正的创业公司？如何从机构、产品、创新和大环境的角度来理解创业公司？
+Snap Tax公司是如何实现创新的？它的故事对我们有何启发？**
+
+**初创公司往往处在极端不确定的环境下，因而在大公司内部也可以搭建初创团队，而创新——特别是“颠覆性创新”是这类企业成功的核心所在。而新的管理范式可以对创新起到催化的作用。**
+
+1. Innovation is a bottoms-up, decentralized, and unpredictable thing, but that doesn’t mean it cannot be managed. It can, but to do so requires a new management discipline。
+
+2. Anything those customers experience from their interaction with a company should be considered part of that company’s product.
+
+## 2019.1.19
+**财捷公司的成功给了我们哪些启示？财捷公司是怎样利用精益创业的技巧实现颠覆式创新的？**
+
+**财捷公司如何精益创业的管理模式不仅转亏为盈，还彻底改变了公司低效、保守的氛围。**
+
+1. modern general managers, who struggle with entrepreneurship every bit as much as do venture capitalists and founders in a garage.
+1. When you have five hundred tests you’re running, then everybody’s ideas can run. And then you create entrepreneurs who run and learn and can retest and relearn as opposed to a society of politicians.
+1. The real issue is with the leaders and the middle managers. There are many business leaders who have been successful because of analysis.
+
+## 2019.1.20
+**什么是“经证实的认知”？它如何让团队发现产品的商业前景？
+IMVU是如何在即时通信市场被几家占据的不利情况下，寻找突破口，实现病毒式增长的？**
+
+**“经证实的认知”会带领新创企业在正确的方向上积累智慧；IMVU在这方面的失败经验。**
+
+1. Unfortunately, “learning” is the oldest excuse in the book for a failure of execution. It’s what managers fall back on when they fail to achieve the results we promised.
+1. We must learn what customers really want, not what they say they want or what we think they should want.
