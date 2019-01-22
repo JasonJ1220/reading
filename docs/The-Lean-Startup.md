@@ -84,3 +84,12 @@ IMVU是如何在即时通信市场被几家占据的不利情况下，寻找突�
 
 1. Unfortunately, “learning” is the oldest excuse in the book for a failure of execution. It’s what managers fall back on when they fail to achieve the results we promised.
 1. We must learn what customers really want, not what they say they want or what we think they should want.
+
+## 2019.1.21
+**IMVU公司一开始进军IM附加软件市场时遇到了哪些困难？
+Eric Ries及其团队使用了什么方法来寻找产品上的问题？**
+
+**IMVU开发的新产品增长极其缓慢，面对停滞的销售数字，作者请到潜在客户试用产品，提出意见。**
+
+1. Our previous failures made us more afraid of another, even worse, outcome than shipping a bad product: building something that nobody wants.
+1. The quantitative targets created the motivation to engage in qualitative inquiry and guided us in the questions we asked.
