@@ -93,3 +93,23 @@ Eric Ries及其团队使用了什么方法来寻找产品上的问题？**
 
 1. Our previous failures made us more afraid of another, even worse, outcome than shipping a bad product: building something that nobody wants.
 1. The quantitative targets created the motivation to engage in qualitative inquiry and guided us in the questions we asked.
+
+## 2019.1.22
+**IM附加软件彻底失败的原因究竟是什么？
+从IM附加软件的失败中，我学到了那些教训？**
+
+**通过与用户面对面的交流，我们发现了IM附加软件的本质问题——于是我发现自己白白浪费了几个月的心血，我们开发产品的流程上存在重大的问题。**
+
+1. If we hadn’t built this first product—mistakes and all—we never would have learned these important insights about customers. We never would have learned that our strategy was flawed.
+1. I was a devotee of the latest in software development methods (known collectively as agile development), which promised to help drive waste out of product development. However, despite that, I had committed the biggest waste of all: building a product that our customers refused to use. That was really depressing.
+
+## 2019.1.23
+**通过与顾客一对一交流，IMVU团队得出了什么结论？
+在精益思维的框架内，如何衡量价值与浪费？如何确定努力的方向？
+在测试产品的过程中，如何证实自己的认知，使得产品向更加健康的方向发展？**
+
+**初创公司需要新的价值定义，而“经证实的认知”则为初创公司提供了新的价值衡量方式。**
+
+1. Lean thinking defines value as providing benefit to the customer; anything else is waste.
+1. We could have conducted an experiment, offering customers the chance to try something and then measuring their behavior.
+1. I’ve come to believe that learning is the essential unit of progress for startups. The effort that is not absolutely necessary for learning what customers want can be eliminated.
