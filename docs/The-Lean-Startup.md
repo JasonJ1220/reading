@@ -113,3 +113,63 @@ Eric Ries及其团队使用了什么方法来寻找产品上的问题？**
 1. Lean thinking defines value as providing benefit to the customer; anything else is waste.
 1. We could have conducted an experiment, offering customers the chance to try something and then measuring their behavior.
 1. I’ve come to believe that learning is the essential unit of progress for startups. The effort that is not absolutely necessary for learning what customers want can be eliminated.
+
+## 2019.1.24
+**“经证实的认知”对IMVU公司的意义是什么？
+精益创业的原理（而非技巧）是否可以应用在各行业中？它的核心问题是什么？**
+
+**“经证实的认知”使IMVU获得了成长。而精益创业的原理而非技巧，适用于所有行业。**
+
+1. The irony is that it is often easier to raise money or acquire other resources when you have zero revenue, zero customers, and zero traction than when you have a small amount. Zero invites imagination, but small numbers invite questions about whether large numbers will ever materialize.
+
+1. The Lean Startup is not a collection of individual tactics. It is a principled approach to new product development. The only way to make sense of its recommendations is to understand the underlying principles that make them work.
+
+创业者筹集资金的形式:
+1. **自筹。** 创业初期，企业贷款能力有限，对大部分创业者来说，这个阶段最快捷有效的方式就是依赖自有资本。所谓“自有资本”，可以是自己的多年积蓄，也可以是向亲朋好友借来的资金。但创业者本人必须确保对自己的事业有主导权，也就是说，他本人只有投入最大的股权，才可能在企业经营过程中避免受制于他人。
+1. **合伙入股。**合伙入股也是一种筹集资金的方式，因为一个人往往势单力薄，几个人凑在一起会更有利于创业资金的筹集。此外，合伙创业还可以充分发挥人才的作用，并且还可以有效地分解风险。不过，这种方式往往也容易引发创始人之间的矛盾，只有在确定投资时明确每个人的投资份额，厘清工作责任，确定做事的行为准则和依据，才能有效避免矛盾。
+1. **银行贷款。**银行贷款是最传统的筹款方式。目前能够为中小企业提供贷款的银行主要包括四大国有商业银行的中小企业信贷部、光大银行、广东发展银行、中信银行等金融机构。从银行申请贷款大大简化了创业者募集资金的过程。根据自身状况合理选择贷款品种，是创业者最普遍的选择。
+4. **寻求风险投资。**之前提过的风险投资是只是融资形式的一种，对处于创业期和成长期的中小企业进行股权或债权投资，并参与企业管理。如果企业运转良好，风投者也会收益颇丰。我国目前专业从事风险投资的金融机构有47家，如此前提过的红杉资本，诸如腾讯、阿里一类的大企业、大集团也在进行风险投资。
+5. **争取政策性扶持资金。**中小企业是国民经济的重要组成部分，但往往受限于资金和规模，在发展过程中遇到各种困难。各地政府每年都有专门的企业拨款支持这些中小企业。
+
+投资人评估一家企业的前景的方式：
+ 1. **“天花板”**——指企业的产品或服务趋于饱和、供大于求的状态。投资方要对企业及其所在行业的天花板有明确的把握，并且根据不同状态，选择不同的投资方式和支持策略。
+比如，对于已经达到天花板，极度饱和的行业，投资方更看重的是，它具有一定垄断经营能力，能够低成本兼并劣势企业，扩大市场份额，从而进一步构筑市场壁垒，获得产品的定价权。对于天花板尚不明确的行业——特别是那些处在新兴行业领域，需求正在形成，未来的市场容量也难以估计的行业，投资方重点评估的是其未来发展的潜力，投资者会仔细挖掘这些新兴行业里有领军潜力的企业。
+2. **商业模式**，简而言之，商业模式就是企业用赚取利润的途径和手段，标志着企业的变现能力。一些初创公司尽管已经有了不错的流量，但商业模式尚不成熟，无法证明自己的盈利能力，在这种情况下，投资者也会更加谨慎。
+3. **企业的核心竞争力**也是评估中的重要一项：商业模式是可以模仿的，但是成功者却永远是少数，作为优秀企业，关键是具备实现其商业模式的能力，也就是核心竞争力。核心竞争力的内容包含：股东结构，领军人物，团队，研发，专业性，业务管理模式，信息技术应用，财务策略等等。
+1. **“护城河”**是一种比喻，通常用来形容企业抵御竞争者的诸多保障措施。上面讲到的“核心竞争力”就是护城河的重要组成部分，但不是全部，还可以通过企业的回报率、产品服务的转化成本、销售手段、成本构成、品牌效应来评估这道“护城河”是否可以信赖。商业模式、核心竞争力和“护城河”三位一体，构成公司未来的投资价值。
+1. **成长性**这一标准侧重的是企业未来的愿景，需要定性分析。对于新兴行业来说，历史数据的参考意义不大；而对于成熟行业来说，较长时间的历史数据（涵盖一个完整的经济周期）能够提供一些线索，可以作为参考。
+
+## 2019.1.25
+**要获得“经证实的认知”，应该怎样进行实验？
+以Zappos的实验网站和惠普的“志愿工作项目”可以给创业者哪些启发？**
+
+**一项真正的实验运用的是科学的方法：在一个清晰的假设前提下，预测将要发生的事件，接着再用实证法进行验证。初创企业的实验将企业的愿景作为指导，每个实验的目标都是建立一项围绕愿景的可持续业务。**
+
+1. If you cannot fail, you cannot learn.
+2. The Lean Startup methodology reconceives a startup’s efforts as experiments that test its strategy to see which parts are brilliant and which are crazy.
+
+## 2019.1.26
+**如何把宏大的愿景分解为具体的、可验证的假设？
+什么是最小化可行产品（minimum viable product）？这一产品可以实现哪些目的？**
+
+**宏大的愿景可以被分解为具体的、可验证的假设，使用最小化可行产品的方法，提前获得反馈和认知，进而在较短时间内对项目作出调整。** 
+
+1. The point is not to find the average customer but to find early adopters: the customers who feel the need for the product most acutely.
+1. If the numbers from such early experiments don’t look promising, there is clearly a problem with the strategy. That doesn’t mean it’s time to give up; on the contrary, it means it’s time to get some immediate qualitative feedback about how to improve the program.
+
+## 2019.1.27
+**如何将实验打造为第一项产品，并寻找用户真正需要解决的问题？**
+
+**通过柯达影廊和乡村洗衣服务公司（VLS）两个案例，展示了怎样在反复实验中厘清顾客的真正需求。**
+
+1. In the Lean Startup model, an experiment is more than just a theoretical inquiry; it is also a first product.
+1. Success is not delivering a feature; success is learning how to solve the customer’s problem.
+
+## 2019.1.28
+**精益创业理念如何在政府部门中发挥作用？**
+
+**政府机构CFPB在创立之初采用了精益创业的方式，以实验测试假设；对于需要创新的机构来说，不应依靠完备的计划，而要使用“实验测试假设”的方式适应市场的变化。**
+
+1. As we’ve seen, even the seasoned managers and executives at the world’s best-run companies struggle to consistently develop and launch innovative new products.
+1. Remember, planning is a tool that only works in the presence of a long and stable operating history. And yet, do any of us feel that the world around us is getting more and more stable every day?
+
