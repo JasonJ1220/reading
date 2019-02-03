@@ -173,3 +173,57 @@ Eric Ries及其团队使用了什么方法来寻找产品上的问题？**
 1. As we’ve seen, even the seasoned managers and executives at the world’s best-run companies struggle to consistently develop and launch innovative new products.
 1. Remember, planning is a tool that only works in the presence of a long and stable operating history. And yet, do any of us feel that the world around us is getting more and more stable every day?
 
+## 2019.1.29
+**精益创业理念如何在政府部门中发挥作用？**
+
+**政府机构CFPB在创立之初采用了精益创业的方式，以实验测试假设；对于需要创新的机构来说，不应依靠完备的计划，而要使用“实验测试假设”的方式适应市场的变化。**
+
+1. As we’ve seen, even the seasoned managers and executives at the world’s best-run companies struggle to consistently develop and launch innovative new products.
+1. Remember, planning is a tool that only works in the presence of a long and stable operating history. And yet, do any of us feel that the world around us is getting more and more stable every day?
+
+
+## 2019.1.30
+**“开发-测量-认知”这一三段式反馈流程是如何帮助我们迭代产品，创建可持续商业认知的？**
+**本章中详述了怎样具体操作“开发—测试—认知”循环中的每一步，并把总时间缩至最短。而今天的内容则是本章内容的概览。**
+
+1. The products a startup builds are really experiments; the learning about how to build a sustainable business is the outcome of those experiments.
+2. To apply the scientific method to a startup, we need to identify which hypotheses to test. I call the riskiest elements of a startup’s plan.
+
+## 2019.1.31
+**Facebook是如何解答“信念飞跃”式的问题，并实现高速增长的？它的成功给我们带来了怎样的启示？
+创业者所提出的假设与传统产业的假设有什么区别？
+初创公司应该如何根据听众身份的不同修正其对假设的阐述？**
+
+**创业者可以使用类比和反证来验证当时提出自己的核心假设，而为了避免为了短期利益而牺牲公司长远价值的做法，初创公司可以采取创新核算的模式。**
+
+1. There is nothing intrinsically wrong with basing strategy on comparisons to other companies and industries.
+1. The successful entrepreneurs had the foresight, the ability, and the tools to discover which parts of their plans were working brilliantly and which were misguided, and adapt their strategies accordingly.
+
+## 2019.2.1
+**要如何将战略决策建立在对顾客的第一手理解上？仅基于数据的决策有何劣势？
+如何寻找“典型顾客”，从而获得对用户行为的理解？
+什么是“分析瘫痪症”？**
+
+**在验证“信念飞跃”式的假设时，要警惕数据和感觉，重视与每一位真实顾客的接触。但也要避免陷入无休止的分析。**
+
+1. All successful sales models depend on breaking down the monolithic view of organizations into the disparate people that make them up.
+1. No amount of design can anticipate the many complexities of bringing a product to life in the real world.
+
+## 2019.2.2
+**创造最小化可行产品（MVP）的目的是什么？
+为什么创业者的第一个产品总是不完美的？**
+
+**一个最小化可行产品（MVP）有助于创业者今早开启学习和认知的历程。它用最快的方式，以最少的精力完成“开发—测量—认知”的反馈循环。**
+1. Early adopters use their imagination to fill in what a product is missing. They prefer that state of affairs, because what they care about above all is being the first to use or adopt a new product or technology.
+2. It’s often about gaining a competitive advantage by taking a risk with something new that competitors don’t have yet.
+3. Any additional features or polish beyond what early adopters demand is a form of wasted resources and time.
+
+
+## 2019.2.3
+**最小化可行产品究竟应该达到何种复杂程度？具备哪些功能？
+什么是视频式最小化可行产品？如何向潜在客户和投资者展示自己的产品理念？**
+
+**尽管很难用确定的公式规定最小化可行产品的复杂程度，但我们往往高估了其所需要具备的功能，因而应以尽可能化繁为简的方式制作最小化可行产品。**
+
+1. Deciding exactly how complex an MVP needs to be cannot be done formulaically. It requires judgment.
+1. If it turns out that we’re building something nobody wants, the whole exercise will be an avoidable expense of time and money.
