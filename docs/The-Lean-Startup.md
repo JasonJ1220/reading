@@ -227,3 +227,21 @@ Eric Ries及其团队使用了什么方法来寻找产品上的问题？**
 
 1. Deciding exactly how complex an MVP needs to be cannot be done formulaically. It requires judgment.
 1. If it turns out that we’re building something nobody wants, the whole exercise will be an avoidable expense of time and money.
+
+## 2019.2.11
+**什么是贵宾式最小化可行产品？初创公司应该如何对待最小化可行产品的最初用户？
+最初的个人化服务是如何帮助企业实现最终增长的？**
+
+**贵宾式最小化可行产品是创建MVP产品的另一种方式，初创公司通过个人化的服务，可以得到关于客户的宝贵认知。**
+
+1. Each customer they brought on made it easier to get the next one.
+2. Along the way, their product development team was always focused on scaling something that was working rather than trying to invent something that might work in the future.
+
+## 2019.2.12
+**假如我们提出了解决一个问题的多种假设，如何确定可能的最优解？
+低效粗糙的的“即时反映测试向导”（Wizard of Oz testing）在测试之初有何优势？**
+
+**Aardvark在开发—测量—认知的反馈循环中不断转型，最终明确了产品愿景。**
+
+1. Ask, “What’s a good place to go out for a drink after the ball game in my city?” and the technology fails. What’s interesting about this class of queries is that they are relatively easy for a person to answer.
+2. Unlike factual queries, because these subjective questions have no single right answer, today’s technology struggles to answer them.
