@@ -265,3 +265,72 @@ Eric Ries及其团队使用了什么方法来寻找产品上的问题？**
 1. Part of the special challenge of being a startup is the near impossibility of having your idea, company, or product be noticed by anyone, let alone a competitor.
 2. Sooner or later, a successful startup will face competition from fast followers. A head start is rarely large enough to matter, and time spent in stealth mode—away from customers—is unlikely to provide a head start. The only way to win is to learn faster than anyone else.
 
+## 2019.2.15
+**何时应该决定要放弃一个失败的产品？
+评估创新产品是否成功，应该采取哪种核算方式？有没有一种对于各个行业初创公司均可使用的核算框架？
+什么是创新核算？分为哪几个步骤？**
+
+**对于初创公司而言，“创新核算”是一种评估企业进步的好方法。创新核算的实施可以分为三个步骤：确立基准线、调整增长引擎、决定转型还是坚持。**
+
+1. Most products—even the ones that fail—do not have zero traction. Most products have some customers, some growth, and some positive results.
+2. …the myth of perseverance is so dangerous. We all know stories of epic entrepreneurs who managed to pull out a victory when things seemed incredibly bleak. Unfortunately, we don’t hear stories about the countless nameless others who persevered too long, leading their companies to failure.
+
+## 2019.2.16
+**在商业计划的多个假设中，应该率先选择怎样的假设进行测试？第一个完整的原型产品有着怎样特殊的地位和功能？
+在确立基准线后，产品开发、营销和其他活动的目标应该是怎样的？我们如何判断产品已经无法维系现状，已经到了转型的时刻？**
+
+**实施创新核算分为三个步骤，对应三个阶段性认知目标（Learning Milestone）：确定基准线；调整引擎；确定是否转型。**
+
+1. A smoke test measures only one thing: whether customers are interested in trying a product. By itself, this is insufficient to validate an entire growth model.
+2. When one is choosing among the many assumptions in a business plan, it makes sense to test the riskiest assumptions first.
+
+## 2019.2.17
+**如何通过追踪用户行为，调整引擎？有哪些特别值得关注的用户行为？
+如何判断产品的某次改良是否有用，并通过认知循环不断优化产品？**
+
+**IMVU使用创新核算的模式，引导自己改善增长引擎，一步一步走上正确的转型之路。
+酸性测试在这一语境中指的不是化学上对酸碱度的测试，而是指一个可以衡量公司是否有实力偿还债务的有力方式。
+酸性测试比率=（现金 + 应收账款 +短期投资）/流动负债
+**
+
+1. Every time, we told ourselves we were making the product better, but that subjective confidence was put to the acid test of real numbers.
+2. Once we knew what to look for, genuine understanding came much faster.
+
+## 2019.2.18
+**为何优化产品常常不能解决产品的根本问题？创新核算如何协调优化与认知之间的矛盾？
+为什么总指标“增长势头良好”往往会阻碍我们认识产品的真实困境？**
+
+初创公司应该坚持创新核算模式，而避免使用虚荣指标判断企业增长，以确保走在正确的道路上。
+
+1. Companies of any size that have a working engine of growth can come to rely on the wrong kind of metrics to guide their actions.
+2. Energy invested in success theater is energy that could have been used to help build a sustainable business.
+
+
+## 2019.2.19
+**在衡量公司总体进展时，应该避免哪些问题？
+什么是敏捷开发？敏捷开发有什么特征和重点？**
+
+**Grockit看不到客户有足够增长，业务判断现有的做法是否正确，因为使用了错误的衡量指标。**
+
+1. There were plenty of multi-billion-dollar organizations in the education space, and I don’t think they were innovating in the way that we needed them to and I didn’t think we needed them anymore.
+2. Let’s forget educational design up until now, let’s forget what’s possible and just redesign learning with today’s students and today’s technology in mind.
+
+## 2019.2.20
+**什么是敏捷开发？敏捷开发有什么特征和可能存在的问题？
+如何找到有效的衡量指标，以评估公司是否取得进步？**
+
+**Grockit放弃虚荣指标，采取“同期群”和“对比测试”的方法找到了顾客对产品的真实诉求。**
+
+1. Unlike many visionaries, who cling to their original vision no matter what, Farb was willing to put his vision to the test.
+2. This was part of the grand bargain of agile development: engineers agree to adapt the product to the business’s constantly changing requirements but are not responsible for the quality of those business decisions.
+
+## 2019.2.21
+**怎样通过“看板管理原则”实践对产品功能的假设测试？
+通过同期群分析，Grockit得出了怎样的结论，最终为公司带来了进展？**
+
+**1.可以采用“看板管理原则”，实践对产品功能的假设验证、得出经证实的认知， 并以此衡量团队的生产效率。
+2.Grockit采用同期群的方法对它们的核心假设——懒惰注册功能进行了测试，得出了改进产品的有效认知。**
+
+1. A solid process lays the foundation for a healthy culture, one where ideas are evaluated by merit and not by job title.
+2. It was considered absolutely obvious that all features should be routinely tested, no matter who was commissioning them.
+
