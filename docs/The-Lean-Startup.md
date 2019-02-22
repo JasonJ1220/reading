@@ -245,3 +245,23 @@ Eric Ries及其团队使用了什么方法来寻找产品上的问题？**
 
 1. Ask, “What’s a good place to go out for a drink after the ball game in my city?” and the technology fails. What’s interesting about this class of queries is that they are relatively easy for a person to answer.
 2. Unlike factual queries, because these subjective questions have no single right answer, today’s technology struggles to answer them.
+
+## 2019.2.13
+**MVP产品怎样看待“质量”问题？低质量的MVP是否和高质量的产品服务矛盾？
+在开发MVP的过程中，哪些功能和流程是可以舍弃的？判断的标准是什么？**
+
+1. If we do not know who the customer is, we do not know what quality is.
+2. The Lean Startup method is not opposed to building high-quality products, but only in service of the goal of winning over customers.
+
+极限编程（Extreme Programming，简称XP）的基础和价值观是交流、简约、反馈和勇气；即，任何一个软件项目都可以从四个方面入手进行改善：加强交流；从简单做起；寻求反馈；勇于实事求是。极限编程的主要目标在于降低因需求变更而带来的成本。
+
+## 2019.2.14
+**在开发MVP产品的过程中，容易遇到哪些外部的阻碍？
+制作MVP的团队，通常需要克服哪些恐惧？**
+
+**开发最小化可行产品具有风险，最常见的是法律问题、对竞争对手的恐惧、品牌风险，以及对士气的影响。
+创新核算是精益创业模式的核心所在，我们需要这种系统的方法，来确定是否取得了进展以及有没有真正获得经证实的认知。**
+
+1. Part of the special challenge of being a startup is the near impossibility of having your idea, company, or product be noticed by anyone, let alone a competitor.
+2. Sooner or later, a successful startup will face competition from fast followers. A head start is rarely large enough to matter, and time spent in stealth mode—away from customers—is unlikely to provide a head start. The only way to win is to learn faster than anyone else.
+
