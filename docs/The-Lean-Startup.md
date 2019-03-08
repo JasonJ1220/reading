@@ -300,7 +300,7 @@ Eric Ries及其团队使用了什么方法来寻找产品上的问题？**
 **为何优化产品常常不能解决产品的根本问题？创新核算如何协调优化与认知之间的矛盾？
 为什么总指标“增长势头良好”往往会阻碍我们认识产品的真实困境？**
 
-初创公司应该坚持创新核算模式，而避免使用虚荣指标判断企业增长，以确保走在正确的道路上。
+**初创公司应该坚持创新核算模式，而避免使用虚荣指标判断企业增长，以确保走在正确的道路上。**
 
 1. Companies of any size that have a working engine of growth can come to rely on the wrong kind of metrics to guide their actions.
 2. Energy invested in success theater is energy that could have been used to help build a sustainable business.
@@ -328,9 +328,99 @@ Eric Ries及其团队使用了什么方法来寻找产品上的问题？**
 **怎样通过“看板管理原则”实践对产品功能的假设测试？
 通过同期群分析，Grockit得出了怎样的结论，最终为公司带来了进展？**
 
-**1.可以采用“看板管理原则”，实践对产品功能的假设验证、得出经证实的认知， 并以此衡量团队的生产效率。
-2.Grockit采用同期群的方法对它们的核心假设——懒惰注册功能进行了测试，得出了改进产品的有效认知。**
+**1.可以采用“看板管理原则”，实践对产品功能的假设验证、得出经证实的认知， 并以此衡量团队的生产效率。**
+**2.Grockit采用同期群的方法对它们的核心假设——懒惰注册功能进行了测试，得出了改进产品的有效认知。**
 
 1. A solid process lays the foundation for a healthy culture, one where ideas are evaluated by merit and not by job title.
 2. It was considered absolutely obvious that all features should be routinely tested, no matter who was commissioning them.
 
+## 2019.2.22
+**怎样通过“看板管理原则”实践对产品功能的假设测试？
+通过同期群分析，Grockit得出了怎样的结论，最终为公司带来了进展？**
+
+**1. 可以采用“看板管理原则”，实践对产品功能的假设验证、得出经证实的认知， 并以此衡量团队的生产效率。**
+**2. Grockit采用同期群的方法对它们的核心假设——懒惰注册功能进行了测试，得出了改进产品的有效认知**
+
+1. A solid process lays the foundation for a healthy culture, one where ideas are evaluated by merit and not by job title.
+2. It was considered absolutely obvious that all features should be routinely tested, no matter who was commissioning them.
+
+## 2019.2.23
+**一个可以执行的衡量指标应该有哪些特点？
+制定合理的衡量指标可以为企业和团队带来哪些价值？**
+
+**一个产品的成绩报告需要具备三个衡量指标：“可执行、可使用、可审查”。**
+
+1. The report deals with people and their actions, which are far more useful than piles of data points.
+2. This is why cohort-based reports are the gold standard of learning metrics: they turn complex actions into people-based reports.
+
+## 2019.2.24
+**如何快速而科学地通过假设测试，来验证企业是否需要转型，需要何种类型的转型？
+哪些认知上的储备可以帮助创业者摆脱“进退维谷”的处境？**
+
+**选民网在测试产品假设、探索有效增长模式的过程中不断转型。**
+
+1. The goal of creating learning milestones is not to make the decision easy; it is to make sure that there is relevant data in the room when it comes time to decide.
+2. Failure is a prerequisite to learning. The problem with the notion of shipping a product and then seeing what happens is that you are guaranteed to succeed—at seeing what happens.
+
+## 2019.2.25
+
+**@2gov此后又经历了哪些重要转型？为什么需要转型？
+为什么@2gov推出的MVP产品的开发周期越来越短？开发的加速能为企业带来哪些好处？**
+
+**@2gov在不断实践MVP假设测试、发现问题、转型、假设测试……的循环中，最终找到了合适的增长模式，获得了成功。**
+
+1. He did this not by working harder but by working smarter, taking his product development resources and applying them to a new and different product.
+2. All this time, David was learning and gaining feedback from his potential customers, but he was in an unsustainable situation. You can’t pay staff with what you’ve learned, and raising money at that juncture would have escalated the problem. Raising money without early traction is not a certain thing.
+
+## 2019.2.26
+**怎样理解“能实现的转型数量决定初创公司的跑道”？如何衡量“跑道”的长短？如何尽可能地延长创业跑道？
+为什么说转型需要勇气？阻碍转型的原因有哪些？**
+
+**初创公司能够承担的转型次数决定了其“跑道”的长短，然而很多企业因为种种原因耽误了转型的时机。**
+
+1. When people are forced to change against their better judgment, the process is harder, takes longer, and leads to a less decisive outcome.
+2. Ironically, this fear drives up the risk because testing doesn’t occur until the vision is fully represented.
+
+## 2019.2.27
+**怎样缓解转型的决定带给企业的压力？
+如何通过有效的讨论决定是否转型？**
+
+**“转型还是坚持”的会议可以帮助企业有效探讨转型决定。
+实例——财富前沿公司是如何决定转型并付诸行动的。**
+
+1. Any student of disruptive innovation would have looked on approvingly: they were following that system perfectly by initially serving customers who were unable to participate in the mainstream market.
+2. The team worked valiantly to find ways to improve the product, but none showed any particular promise. It was time for a pivot or persevere meeting.
+
+
+## 2019.2.28
+**财富前沿是如何转型成功的？
+在将最小化可行产品推向主流大众市场时，可能出现什么问题？主流用户与最初的极客用户在需求方面有哪些区别？
+开发低质量最小化可行产品的初衷是什么？初创公司在不断“实验”的过程中，容易陷入哪些误区？**
+
+**财富前沿在摸索中成功转型；而IMVU却陷入了初创公司的典型陷阱，忽视了顾客细分市场的改变。**
+
+1. If it had not launched its current product, the team never would have learned what it needed to know to pivot. In fact, the experience taught them something essential about their vision.
+2. It is not necessary to throw out everything that came before and start over. Instead, it’s about repurposing what has been built and what has been learned to find a more positive direction.
+
+## 2019.3.1
+**转型与“改变”有何不同？什么是转型的本质？
+常见的转型模式有哪些？哪类转型是为了寻求更快速、更高利润的增长？**
+
+**转型是一种特殊的改变，有各种各样常见的形式。**
+
+1. Often, changes to the way a company captures value can have far-reaching consequences for the rest of the business, product, and marketing strategies.
+2. It is precisely because of its destructive effect on sales channels that the Internet has had such a disruptive influence in industries that previously required complex sales and distribution channels, such as newspaper, magazine, and book publishing.
+
+## 2019.3.2
+
+## 2019.3.3
+
+## 2019.3.4
+
+## 2019.3.5
+
+## 2019.3.6
+
+## 2019.3.7
+
+## 2019.3.8
