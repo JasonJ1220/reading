@@ -412,15 +412,84 @@ Eric Ries及其团队使用了什么方法来寻找产品上的问题？**
 2. It is precisely because of its destructive effect on sales channels that the Internet has had such a disruptive influence in industries that previously required complex sales and distribution channels, such as newspaper, magazine, and book publishing.
 
 ## 2019.3.2
+**为什么说转型本质上是一个战略假设？
+精益管理的首先要解决的问题是什么？**
+
+**转型是一种有组织有条理验证商业模式和增长引擎假设的方式。
+而精益生产要回答的主要问题，就是区分创造价值与造成浪费的活动。**
+
+1. Pivots are a permanent fact of life for any growing business. Even after a company achieves initial success, it must continue to pivot.
+2. A pivot is not just an exhortation to change. Remember, it is a special kind of structured change designed to test a new fundamental hypothesis about the product, business model, and engine of growth. It is the heart of the Lean Startup method.
+
 
 ## 2019.3.3
+**什么是单件流？为什么有时单件流的效率反而比流水线更高？
+丰田的小批量生产方式是如何运作的？这种方式的核心理念与优势是什么？**
+
+**早期的丰田工厂采用了小批量生产方式，证实了这种方式更有效率，而且能更快发现问题。**
+
+1. Even if the amount of time that each process took was exactly the same, the small batch production approach still would be superior, and for even more counterintuitive reasons.
+2. The small-batch approach produces a finished product every few seconds, whereas the large-batch approach must deliver all the products at once, at the end. Imagine what this might look like if the time horizon was hours, days, or weeks.
 
 ## 2019.3.4
+**小批量生产方式怎样应用于初创公司？
+怎样贯彻小批量生产的核心理念，才能提高测试效率？更快地获取关于产品和市场的认知？**
+
+**小批量的生产方式能大幅提升初创公司获取经证实的认知的速度。**
+
+1. In contrast, in the Lean Startup the goal is not to produce more stuff efficiently. It is to—as quickly as possible—learn how to build a sustainable business.
+2. Working in small batches ensures that a startup can minimize the expenditure of time, money, and effort that ultimately turns out to have been wasted.
 
 ## 2019.3.5
+**软件业之外的行业如何实现“持续部署（continuous deployment）”？
+初创公司如何将小批量生产付诸实践？**
+
+**三种趋势推动软件业之外的行业实现持续部署、加速设计生产流程。
+SGW设计公司帮助初创公司通过小批量实现精密实体仪器的快速生产。**
+
+1. The latest phones and tablet computers are little more than a screen connected to the Internet. Almost all of their value is determined by their software.
+2. The essential lesson is not that everyone should be shipping fifty times per day but that by reducing batch size, we can get through the Build-Measure-Learn feedback loop more quickly than our competitors can. The ability to learn faster from customers is the essential competitive advantage that startups must possess.
 
 ## 2019.3.6
+**教育产品如何实验小批量方式？
+大批量带来“死亡螺旋”的原理是什么？**
+
+**在教育中可以针对学生的需求、储备程度和学习模式为其设计个性化课表，实现“小批量教学”。
+大批量工作方式中，要把批量向前推进往往会导致额外的工作、返工、延误和干扰。从而，大批量很容易随着工作时间延长而增长，为工作成员带来额外负担，导致工作进程陷入“死亡螺旋（death spiral）”。**
+
+1. From the point of view of individual efficiency, working in large batches makes sense. It also has other benefits. At least that’s the theory. Unfortunately, reality seldom works out that way.
+2. So strong is the instinct to work in large batches, that even when a large batch system is malfunctioning, we have a tendency to blame ourselves.
 
 ## 2019.3.7
+**在产品生产领域，为什么要拉动，不要推动？
+精益创业中的产品开发流程如何被拉动？**
+
+**无论是工厂还是新创企业都能够使用拉动策略实现小批量生产。但是，精益创业不等于精益生产。
+新创企业中，制造产品的目的是为了进行实验，从而学到如何建立一项可持续的业务。因此精益创业中产品开发的流程是以进行实验的需求拉动，从而做出响应，这才是正确的理解。**
+
+1. Almost every Lean Startup technique we’ve discussed so far works its magic in two ways: by converting push methods to pull and reducing batch size. Both have the net effect of reducing WIP.
+2. The right way to think about the product development process in a Lean Startup is that it is responding to pull requests in the form of experiments that need to be run.
 
 ## 2019.3.8
+**字母能源公司（Alphabet Energy）怎样用小批量拉动式的方法找到用户的需求点？
+企业实践精益技巧的基础是什么？**
+
+**拉动式思维在新创公司中的应用：字母能源公司借助已有基础设施开发热电材料，通过不断假设测验定位客户需求，从而顺利赢得融资、将产品推向市场。
+只有建立起适应性强的组织架构、持续贯彻正确的方针和流程，新创公司才有可能将精益创业技巧付诸实践、获得长期稳定的发展。**
+
+1. The Toyota Production System is probably the most advanced system of management in the world, but even more impressive is the fact that Toyota has built the most advanced learning organization in history.
+2. Although lean production techniques are powerful, they are only a manifestation of a high-functioning organization that is committed to achieving maximum performance by employing the right measures of progress over the long term.
+
+## 2019.3.9
+**初创公司如何实现可持续增长的？
+增长引擎的选择为什么如此重要？一个合理的增长引擎，可以为初创公司带来哪些好处？**
+
+**初创公司可以通过老顾客-新顾客的良性循环实现可持续增长，其方式有四种：口碑相传、产品使用带来的衍生效应、有资金来源的广告和重复购买或使用。
+以上四种方式可以触发反馈循环，作者将这些循环称为 “增长引擎”。选择合适的增长引擎能帮助初创公司把注意力锁定在重要的衡量指标上。**
+
+1. Most businesses employ advertising to entice new customers to use their products. For this to be a source of sustainable growth, the advertising must be paid for out of revenue, not one-time sources such as investment capital.
+2. Each is like a combustion engine, turning over and over. The faster the loop turns, the faster the company will grow.
+
+## 2019.3.10
+
+
