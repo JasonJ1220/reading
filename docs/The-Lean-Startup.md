@@ -491,5 +491,11 @@ SGW设计公司帮助初创公司通过小批量实现精密实体仪器的快�
 2. Each is like a combustion engine, turning over and over. The faster the loop turns, the faster the company will grow.
 
 ## 2019.3.10
+**什么是黏着式增长引擎（sticky engine of growth）？
+黏着式引擎该如何启动？**
 
+**通过分析上一篇中两个公司出现的问题，作者提出引动黏着式增长引擎的关键：提高顾客保留率（customer retention rate）。**
+
+1. The rules that govern the sticky engine of growth are pretty simple: if the rate of new customer acquisition exceeds the churn rate, the product will grow. The speed of growth is determined by what I call the rate of compounding, which is simply the natural growth rate minus the churn rate.
+2. Once it is modeled this way, the good news should be apparent: there are plenty of new customers coming in the door. The way to find growth is to focus on existing customers for the product even more engaging to them.
 
