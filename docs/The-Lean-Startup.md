@@ -499,3 +499,68 @@ SGW设计公司帮助初创公司通过小批量实现精密实体仪器的快�
 1. The rules that govern the sticky engine of growth are pretty simple: if the rate of new customer acquisition exceeds the churn rate, the product will grow. The speed of growth is determined by what I call the rate of compounding, which is simply the natural growth rate minus the churn rate.
 2. Once it is modeled this way, the good news should be apparent: there are plenty of new customers coming in the door. The way to find growth is to focus on existing customers for the product even more engaging to them.
 
+## 2019.3.11
+**病毒式增长引擎（the viral engine of growth）的传播规律是什么？如何构建和实现病毒式增长引擎?
+什么是付费式增长引擎（the paid engine of growth）？**
+
+**病毒式增长引擎利用客户社交网络实现增长，通过增长病毒系数促进病毒循环是其关键。
+付费式增长引擎旨在通过不断增加招徕新顾客的边际利润来实现增长，核心在于找到长期可持续的扩大收益、降低成本的方法。**
+
+1.  In the viral engine of growth, monetary exchange does not drive new growth; it is useful only as an indicator that customers value the product enough to pay for it.
+2.  It may make up the difference with one-time tactics such as using invested capital or publicity stunts, but those tactics are not sustainable. This was the fate of many failed companies.
+
+## 2019.3.12
+**为什么新创公司应该每次只专注一种增长引擎？
+初创企业如何利用增长引擎评估产品/市场契合度？
+初创企业的增长过程有何隐患？**
+
+**初创公司应该在充分了解顾客的基础上找到一种增长引擎，并每次只关注这一种。
+因为每种引擎都可以量化定义（例如病毒式增长引擎的病毒系数），所以它们均可被用作一个严谨的新创企业当前的产品/市场契合度评估指标。
+初创企业还要培育创新后备，挖掘新的增长来源，及早预防增长引擎停滞。**
+
+1. In a great market—a market with lots of real potential customers—the market pulls product out of the startup.
+2. Getting a startup’s engine of growth up and running is hard enough, but the truth is that every engine of growth eventually runs out of gas.
+
+## 2019.3.13
+**什么是自适应组织？
+为什么要建立自适应组织？
+企业发展速度和产品/服务质量该如何取舍？**
+
+**初创公司要建立自己的自适应组织，找准最佳工作节奏。公司发展无需过快，以免因为想尽快完成反馈循环而忽视问题，反而使公司发展放缓。**
+
+1. I’ve lived through the overarchitecture failure, in which attempting to prevent all the various kinds of problems that could occur wound up delaying the company from putting out any product.
+2. If the boss tends to split the difference, the best way to influence the boss and get what you want is to take the most extreme position possible.
+
+## 2019.3.14
+**怎样用“五个为什么（Five Whys）”打造自适应组织？
+错误使用“五个为什么”会有何后果，公司应该如何应对？**
+
+**“五个为什么”是一种分析问题的流程，它促进初创企业找到问题的根源（root cause），并有效率地采取行动；同时，它也起到自动速度调节器（automatic speed regulator）的作用，有助于企业保持“最佳步速（optimal pace）”。
+若未正确使用“五个为什么”系统，它即可能变成“五大罪状（Five Blames）”。在此情况下，企业应号召所有相关人员分析问题，鼓励全员参与到解决问题、改良系统的进程当中。**
+
+1. At the root of every seemingly technical problem is a human problem. Five Whys provides an opportunity to discover what that human problem might be.
+2. The Five Whys approach acts as a natural speed regulator. The more problems you have, the more you invest in solutions to those problems.
+
+## 2019.3.15
+**怎样启动“五个为什么”的尝试更合适？
+在追问的过程中容易出现什么问题？**
+
+**在创业初期，公司应该将“五个为什么”化繁为简，从较为浅显的病灶入手，在合适的领导者的带领下逐渐培养挖掘问题根源的思维。
+在具体实施过程中，IGN娱乐公司（IGN Entertainment）遇到了目标不明确、必要人物未出席会议、“五个为什么”没有被恰当地执行等问题。**
+
+1. Most mistakes are caused by flawed systems, not bad people.
+2. Building an adaptive organization, in other words, requires executive leadership to sponsor and support the process.
+
+## 2019.3.16
+**为什么IGN在最初实践“五个为什么”的过程中失败了？
+大批量运作的QuickBooks在瞬息万变的商业环境中遇到了什么问题？**
+
+**以IGN为例，讲述了他们在使用“五个为什么”的过程中从失败到成功的过程。
+QuickBooks的瀑布模型无法适应当下商业环境，需要转向小批量的工作方式。**
+
+1. On the surface, Five Whys seems to be about technical problems and preventing mistakes, but as teams drive out these superficial wastes, they develop a new understanding of how to work together.
+2. The Five Whys transcends root cause analysis by revealing information that brings your team closer through a common understanding and perspective.
+
+## 2019.3.17
+
+## 2019.3.18
