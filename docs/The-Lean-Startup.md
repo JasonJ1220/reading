@@ -562,5 +562,72 @@ QuickBooks的瀑布模型无法适应当下商业环境，需要转向小批量�
 2. The Five Whys transcends root cause analysis by revealing information that brings your team closer through a common understanding and perspective.
 
 ## 2019.3.17
+**QuickBooks如何完成从传统大批量发布到自适应小批量方式的转型？
+转变生产流程，建立新创企业式的自适应组织从根本上需要什么？**
+
+**QuickBooks改变开发方式、调整流程产品、投资新科技、跟进客户反馈，通过逐步探索深入，从瀑布模型的开发方法转型为自适应组织的小批量开发方式。
+建立有效的自适应组织离不开持续的沟通和对新科技的投入，为了找到新的增长来源，企业还需实现突破性的创新。**
+
+1. As Lean Startups grow, they can use adaptive techniques to develop more complex processes without giving up their core advantage: speed through the Build-Measure-Learn feedback loop.
+2. One of the primary benefits of using techniques that are derived from lean manufacturing is that Lean Startups, when they grow up, are well positioned to develop operational excellence based on lean principles.
 
 ## 2019.3.18
+**怎样培养企业颠覆式创新的能力？
+如何建立并维持企业的产品实验平台？**
+
+**为了培养颠覆式创新，企业需具备“管理组合式”的思维（portfolio thinking），而转变的要素包括正确的架构和实验平台的支持。**
+
+1. Structure is merely a prerequisite—it does not guarantee success. But getting the structure wrong can lead to almost certain failure.
+2. The parent organization has to make it clear who the innovator is and make sure the innovator receives credit for having brought the new product to life—if it is successful.
+
+## 2019.3.19
+**如何更好地保护上级组织？
+为企业搭建适合实验创新的平台还有哪些do’s & don’ts？**
+
+**上级组织可能会对创新产生合理恐惧，而此时绝不可因此把创新藏进“黑匣子”里。
+建立“创新沙盒（innovation sandbox）”有助于企业形成可持续的创新氛围。创新沙盒成本较低、成败易于判断且可以实现高速迭代。
+企业内部的创新团队也需要有完整的问责制度，且能随着开发进展逐渐融入到整个公司的产品/服务构成当中。**
+
+1. In my experience, people defend themselves when they feel threatened, and no innovation can flourish if defensiveness is given free rein.
+2. Whenever possible, the innovation team should be crossfunctional and have a clear team leader, like the Toyota shusa.
+
+## 2019.3.20
+**企业内部创新会经过哪四个阶段？
+创新者应该如何实现从沙盒（sandbox）到现状（status quo）的过渡？**
+
+**企业创新会经过“投入研发（R&D）——规模扩大（growth in scale）——市场运营（operational excellence）——成为现状（becoming the status quo）”四个阶段。
+创新团队在经历以上每个阶段时，需要按工作特点调整人才结构、适应角色转换、优化决策方法、根据理论找到真正适合公司的战略。**
+
+1. In fact, entrepreneurship should be considered a viable career path for innovators inside large organizations.
+2. … switching to validated learning feels worse before it feels better. That’s the case because the problems caused by the old system tend to be intangible, whereas the problems of the new system are all too tangible. Having the benefit of theory is the antidote to these challenges.
+
+## 2019.3.21
+**泰勒的科学管理原理对我们现在的工作方式有什么影响？
+当代企业面临的巨大浪费是什么、解决之道又为何？**
+
+**泰勒的科学管理理论以系统化思维见长（如何用科学和实验手段改善工作？），即使在今天也有许多可借鉴之处。但是，他的理论易被当代企业误读或滥用，反而给企业的发展带来了阻碍。
+当代企业盲目追求高效率，却往往事倍功半，甚至南辕北辙。这样的无用功极大地浪费了企业的人才资源。企业应该对精益思想有更加明晰的认识。**
+
+1. The big question of our time is not Can it be built? but Should it be built? This places us in an unusual historical moment: our future prosperity depends on the quality of our collective imaginations.
+2. In every industry we see endless stories of failed launches, ill-conceived projects, and large-batch death spirals. I consider this misuse of people’s time a criminally negligent waste of human creativity and potential.
+
+## 2019.3.22
+**泰勒的科学管理理论为精益创业一代带来了哪些警醒和启示？**
+
+**靠直觉、片面的数据和不切实际的蓝图（文中success theater指沉醉于成功的愿景之中而不实际付诸行动）来进行项目决策是一种伪科学，而现今许多创意团队深陷其中。
+随着精益创业理论不断发展，它也很有可能会遭遇时代和思维的局限性，被当代的“偏见”误读曲解，就像泰勒的科学管理理论那样。作者建议所有创业者审慎思考，避免精益创业落入相同的命运。
+借鉴泰勒主义的求知精神，作者倡议当代科研机构和创业群体建立“新创企业实验室（startup testing labs）”，在精益方法的指导下，对多种创新创业方式进行求证。**
+
+1. Science came to stand for the victory of routine work over creative work, mechanization over humanity, and plans over agility. Later movements had to be spawned to correct those deficiencies.
+2. As gratifying as it is for me to see the Lean Startup movement gain fame and recognition, it is far more important that we be right in our prescriptions.
+
+
+## 2019.3.23
+**长期股票交易中心（LTSE）有何特征和作用？
+作者对精益思想指导下的企业未来有何寄望？**
+
+**LTSE旨在鼓励企业的长期可持续发展，而非纯粹追求短期利益。这有助于初创企业的成长，构建起崭新的创业生态系统。
+精益思想的核心是消除浪费，帮助企业缩短不必要的工作时间，同时取得高质量的商业成果。**
+
+1. As a movement, the Lean Startup must avoid doctrines and rigid ideology. We must avoid the caricature that science means formula or a lack of humanity in work.
+2. We would look to eliminate waste not to build quality castles in the sky but in the service of agility and breakthrough business results.
