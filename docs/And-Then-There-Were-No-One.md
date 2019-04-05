@@ -107,3 +107,19 @@ Until now television had fought shy of covering by-elections.
 
 15. St. Petersburg is actually a really hard place to put your finger on. 
 圣彼得堡是一个让人挑不出什么毛病的地方。
+
+![](https://i.imgur.com/X2Aj0P1.png)
+
+## 2019.4.5
+1. The ploughed earth looked rich and dark and fertile.
+耕过的土地看起来黑油油的，非常肥沃。
+2. He can be rather trying at times.
+他有时很难缠。
+3. He had already clipped his hair close to the skull.
+他已经把头发剪得贴头皮了。
+4. She knew that he was looking at her, sizing her up. 
+她知道他在盯着她看，打量她。 
+5. He took the plunge into the deep end. 
+他跳入深水区。
+6. He spent years knocking around the Far East before World War One.
+第一次世界大战前，他在远东漫游了多年。
