@@ -197,3 +197,111 @@ Until now television had fought shy of covering by-elections.
 你要吃一点午饭吗？
 
 ## 2019.4.10
+1. He collapsed in the street and died two hours later. 
+他昏倒在大街上，两小时后便去世了。 
+2. He stroked her hair affectionately. 
+他深情地抚摩着她的头发。
+3. I don't drink whisky or brandy or any other spirits. 
+我不喝威士忌和白兰地，也不喝其他烈性酒。
+4. I feel a funny turn.
+我感到一阵眩晕。
+5. We must take the initiative in the struggle to end the war.
+为尽早结束战争，我们必须抢先行动。
+6. Don't you think talking to her would do some good? 
+你不觉得和她谈一谈会有用吗？ 
+7. I know I read it somewhere... Here we are! It's at the bottom of page 78.
+我知道我在哪里读到过它...找到了！在第78页下面。
+8. To build the tunnel they had to bore through solid rock.
+为了修建这条隧道，他们得打通坚硬的岩石。
+9. Inspectors were appointed to inquire into the affairs of the company.
+督查员受委派调查该公司的事务。
+10. The revelation gave me quite a turn.
+曝光的新闻让我大吃一惊。 
+
+## 2019.4.11
+1. The scandal caused/created quite a stir at the time.
+那件丑闻在当时引起了极大轰动。
+2. Police forces across the country are pooling resources in order to solve this crime. 
+全国各地警方通力合作以侦破这宗罪案。
+3. They wired back a long list of books.
+他们用电报发回了一长串书单。
+4. 我总是叫自己“亨尼”，因为它不像“亨丽埃塔”那么拗口。
+I've always called myself 'Henny' because it's less of a mouthful than 'Henrietta'.
+5. I never got to the bottom of this!
+这件事我从来都没有弄明白！
+6. Police have asked witnesses of the accident to come forward. 
+警方呼吁事故的目击者出来提供线索。 
+7. She never let her dislike for him come out into the open. 
+她从不公开表露对他的反感。
+8. The first reporters rolled up to the laboratory within minutes.
+第一批记者在几分钟之内就涌到了实验室。
+9. I was trying to keep the party a secret, but Mel went and let the cat out of the bag.
+我尽力守住要举办聚会这个秘密，可是梅尔一去就说漏了嘴。
+10. I vowed never to set foot in the place again. 
+我发誓再不去那个地方了。 
+
+## 2019.4.12
+1. They made a handsome profit on their house.
+他们利用自己的房子赚了一大笔钱。
+2. The gang entered the building posing as workmen. 
+这伙匪徒冒充工人混进了大楼。 
+3. He's dead against the idea. 
+他坚决反对这个想法。
+4. His mind wandered, and he lost the thread of what she was saying.
+他走神了，跟不上她的思路。 
+5. The sentence was reduced to three years on appeal.
+通过上诉，刑期减为三年。
+6. She took up the story where Tim had left off. 
+她接着讲蒂姆未讲完的故事。 
+7. Milton regarded her comment as a slur on his country.
+米尔顿把她的话看作是对他祖国的诋毁。
+8. 'Ian can't come because he's tired.' 'Tired my foot! Lazy more like!' 
+“伊恩不能来,因为他累了。” “累个屁！说懒还差不多！”
+9. He pulled at his ear as he spoke.
+他说话时扯着自己的耳朵。1
+10. Do you see what I am getting at?
+您明白我的意思了吗？
+
+## 2019.4.13
+1 .The last couple of years have been difficult.
+最近的几年一直是困难重重。 
+2. My landlord's given me a week to clear out of my flat.
+我的房东给了我一周时间搬出公寓。
+3. He was run over and killed by a bus.
+他被一辆公共汽车压死了。
+4. The phone is out of order. 
+电话坏了。
+5. He drew himself up and said, 'This has gone far enough'.
+他直起身子说道：“这已经够了。”
+6. When her son finally left home, Emily felt completely at a loss.
+儿子终于离开了家，埃米莉茫然若失。
+7. She was dying to say something sarcastic to him, but held/bit her tongue and stayed silent. 
+她很想对他说些挖苦的话，但还是忍住，保持了沉默。
+
+## 2019.4.14
+1. He waited for Dora to come to her senses and return.
+他盼着多拉冷静下来后回来。
+2. These flowers are long past their prime.
+这些花的鼎盛花期早过了。
+3. He went to the window and peered out. 
+他走到窗前仔细往外瞧。 
+4. Use this product only in accordance with the manufacturer's instructions.
+必须依照厂商说明书使用本产品。
+5. There was a chorus of agreement from the committee.
+委员会里一片赞同声。
+6. It's been difficult for reporters to ferret out the facts in this case.
+记者很难查出这件事的真相。
+7. At my time of life, you can't take too many shocks like that.
+在我这个年纪，接受不了太多那样的打击。
+8. They're all for saving money where they can. 
+他们想尽一切办法存钱。 
+9. I heard this song on the radio and it just took my breath away.
+我是从收音机里听到这首歌的，它令我惊叹不已。
+10. I had to read the letter twice before I could take it all in.
+我读了两遍，才把整封信看懂。
+11. It's a tragedy that these young people were struck down in their prime.
+这些年轻人英年早逝，真令人痛心。
+12. She discovered it in the midst of sorting out her father's things. 
+她在整理父亲的东西时发现了它。 
+
+## 2019.4.15
