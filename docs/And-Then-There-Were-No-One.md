@@ -305,3 +305,25 @@ I've always called myself 'Henny' because it's less of a mouthful than 'Henriett
 她在整理父亲的东西时发现了它。 
 
 ## 2019.4.15
+1. The room was flooded with evening light.
+室内一片暮色。
+2. The meal gave the occasion an almost festive air.
+这一餐使整个场合有了近乎节日般的喜庆氛围。
+3. It was a joke, of course, but surely a rum sort of joke?
+这当然是个玩笑，但是这个玩笑也太奇怪了吧？
+4. She was about thirty, ten years older than the youngsters ragging her.
+她大概有30岁，比那些嘲弄她的年轻人大10岁。
+5. I wanted to ask her out, but I lost my nerve and couldn't go through with it.
+我曾想约她出来，但我失去了勇气，说不出口。
+6. It was one of those old-fashioned gramophones that winds up. 
+那是一台上弦的老式留声机。 
+7. He said that what they were up to would cook Krasky's goose. 
+他说他们暗中进行的阴谋可能会使克拉斯基的计划流产。
+8. My children turn their noses up at home cooking.
+我的孩子都看不上家里做的饭菜。
+9. After he left I just tried to carry on as normal.
+他离开后，我只管尽力像往常一样继续干。
+
+## 2019.4.16
+
+## 2019.4.17
