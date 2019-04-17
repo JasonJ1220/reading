@@ -325,5 +325,37 @@ I've always called myself 'Henny' because it's less of a mouthful than 'Henriett
 他离开后，我只管尽力像往常一样继续干。
 
 ## 2019.4.16
+1. We sat and watched the waves breaking on the shore.
+我们坐着看海浪拍击海岸。
+2. I've taken to waking up very early. 
+我已形成习惯，醒得很早。
+3. She managed to keep a stiff upper lip even as everything fell apart.
+即使所有的一切都垮掉了，她也要沉着而不外露。
+4. He'll come into the money when he comes of age.
+他到了法定年龄就可以继承这笔钱。
 
 ## 2019.4.17
+1. I'm feeling a bit better today, Sister.
+我今天感觉好些了，护士长。
+2. A good night's sleep will soon put you right.
+你好好睡一宿，很快就会恢复的。
+3. You gave me quite a start! 
+你吓了我一大跳！ 
+4. She was thin and spare, with a sharply intelligent face.
+她又高又瘦，一副精明过人的模样。
+5. Which doctor is attending you?
+哪一个医生为你看病?
+6. You need to be extra careful not to make any mistakes. 
+你要格外小心，别犯错误。
+7. One of the night-duty nuns gave her a sleeping draught.
+一个值夜班的修女给了她一剂安眠药水。
+8. She pursed her lips in disapproval.
+她撅起嘴唇，表示不赞成。
+9. Offers of help poured in from all over the country.
+全国各地纷纷伸出援助之手。
+10. We hung back in fear.
+我们都吓得畏缩不前。
+11. The school's fairly well off for books these days.
+这所学校近来有相当多图书。
+12. Sarah hoped he'd take the hint and leave her alone. 
+萨拉希望他能明白她的意思，不来打扰她。
