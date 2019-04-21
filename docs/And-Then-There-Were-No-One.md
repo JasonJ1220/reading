@@ -421,6 +421,28 @@ I've always called myself 'Henny' because it's less of a mouthful than 'Henriett
 Since then I've had a variety of jobs in my own line of country—deep drilling in Brazil, and I've been up the Gulf with an oil concern. 
 
 ## 2019.4.21
+1. He has gone completely gaga. 
+他完全老糊涂了。
+2. The ground dropped sheer away at our feet. 
+在我们脚下，地势陡降。
+3. I skirted around the field and crossed the bridge.
+我沿着田边走，又绕过了那座桥。
+4. 喇叭裤今年夏天又铺天盖地再度流行起来。
+Flared trousers are back with a vengeance this summer.
+5. I'd like to take up the point you raised earlier. 
+我想继续谈一谈你早些时候提出的问题。
+6. The escaped prisoners are still at large.
+越狱囚犯依然在逃。
+7. The problem has come to the fore again in recent months. 
+近几个月来这个问题又成为热点。 
+8. Denise roped me into selling tickets.
+丹尼丝拉我去卖票。
+9. There's space for three people. Four at a pinch.
+有三个人的空间，必要时可以挤四个人。
+10. Exercise can make a big difference to your state of health.
+运动会极大地改善你的健康状况。
+11. They are beating up and down for chasing the truth.
+他们为寻求真理而东奔西忙。
 
 ## 2019.4.22
 
