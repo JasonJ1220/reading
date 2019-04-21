@@ -359,3 +359,69 @@ I've always called myself 'Henny' because it's less of a mouthful than 'Henriett
 这所学校近来有相当多图书。
 12. Sarah hoped he'd take the hint and leave her alone. 
 萨拉希望他能明白她的意思，不来打扰她。
+
+## 2019.4.18
+1. He had plenty to say for himself, and said it in an off-hand and amusing manner.
+他有不少话要说，并且立即用一种逗人笑的方式说出来了。
+2. The episode has brought home to me the pointlessness of this war.
+这段经历让我充分意识到这场战争是毫无意义的。
+3. He was polished off with a shotgun blast to the face.
+他被猎枪击中面部身亡。
+4. I tried to get him to tell me what he knew, but he refused to spill the beans.
+我试着让他告诉我他知道的，但他拒绝透露秘密。
+5. The threat of redundancy was still hanging over us.
+失业的威胁依然笼罩在我们心头。
+6. He was like a cat on hot bricks during the test.
+考试期间他都如坐针毡。
+7. She's always raking up the past quarrel.
+她老翻旧帐，提起以前的那次争吵。
+8. She knew she could either admit the truth or brazen it out.
+她心里明白，她要么承认事实，要么厚着脸皮撑到底。
+
+## 2019.4.19
+1. She was trembling and her mouth was working.
+她颤抖着，嘴唇也在哆嗦。
+2. Payment was part and parcel of carrying on insurance business within the UK.
+赔付是在英国开展保险业务必不可少的一部分。
+3. I was a little taken aback at the directness of the question.
+问题问得如此直接，令我有点吃惊。
+4. 'Is that the only way out of here?' he asked, jerking a thumb at the door.
+“那是离开这里的唯一出口吗？”他用拇指指了指门口问道。
+5. I'm not a cook myself but I am interested in nutrition and all that.
+我本人不是厨师，但对营养之类的事很感兴趣。
+6. He fought down his disgust. 
+他强忍住心里的厌恶。 
+7. I know I was a naive fool to trust him but he is a real charmer who totally took me in.
+我知道我当初幼稚无知，竟然信任他，可是他真是迷人，完全把我给骗了。
+8. It was a possible explanation, but it didn't quite ring true.
+这也许是个理由，但听上去不像是真的。
+9. He scrambled to his feet as we came in.
+我们进来时，他慌忙站起身。
+
+## 2019.4.20
+1. Is an actress who strips off in public necessarily a loose woman in private?
+在公众面前宽衣解带的女演员私下里就一定是荡妇吗？
+2. The consequences will be very grave if nothing is done. 
+如果不采取任何措施后果将会是非常严重的。 
+3. She was left to reflect on the implications of her decision. 
+由她负责考虑她这个决定会牵扯哪些问题。 
+4. The doctors held a consultation to decide whether an operation was necessary.
+医生们会诊以决定是否需要动手术。
+5. He told her a pack of lies, but she swallowed it whole.
+他对她讲了一堆假话，可她全都信以为真。
+6. Her eyes rested on a small wooden box at the back of the shop.
+她的目光落在商店最里面的一个小木盒子上。
+7. That soldier is a man of action. 
+那位士兵是个行动派。
+8. I like to get down to work by 9.
+我喜欢在 9 点之前开始工作。
+9. It's almost impossible to get hold of tickets for the final. 
+几乎不可能搞到决赛的门票。 
+10. 自那以后，我在自己熟悉的一行（在巴西钻探石油）里干了好多种工作，现在我已跟着一个石油公司来到了海湾地区。
+Since then I've had a variety of jobs in my own line of country—deep drilling in Brazil, and I've been up the Gulf with an oil concern. 
+
+## 2019.4.21
+
+## 2019.4.22
+
+## 2019.4.23
