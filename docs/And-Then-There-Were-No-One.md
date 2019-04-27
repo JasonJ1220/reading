@@ -445,5 +445,132 @@ Flared trousers are back with a vengeance this summer.
 他们为寻求真理而东奔西忙。
 
 ## 2019.4.22
+1. The room has a recess designed to hold bookshelves.
+这个房间有个壁凹，是为放书架而设计的。
+2. Three defendants stood in the dock.
+三名被告站在被告席上。
+3. Both countries have massed troops along the border.
+两个国家都在边界集结了军队。
+4. She felt excited and quite gay.
+她感到既兴奋又高兴。
+5. We had the devil of a job/time trying to find this place!
+我们找这个地方可费了不少周折／时间！
+6. "He hit me!" "It serves you right. You shouldn't have been rude to him."
+“他打了我！”“活该。你不该对他那么粗鲁。” 
 
 ## 2019.4.23
+1. We weren't doing anything wrong!
+我们没有做任何不正当的事！
+2. What price a glorious repeat of last week's triumph?
+还有可能再次上演上周的辉煌胜利吗？
+3. She certainly has her hands full with four kids in the house. 
+家里养着四个孩子，她当然忙得团团转。 
+4. We will contact your former employer as a matter of course.
+我们将按正常做法和你以前的雇主联系。
+5. Many families are up against it, unable to afford even basic items.
+很多家庭陷入困境，连基本生活用品都买不起。
+6. She had meant to make a discreet entrance, but conversation stopped dead.
+她本打算悄悄进去，但谈话却突然中断了。
+7. Be quiet and get on with your work. 
+安静下来,继续干你的事。
+8. She knew that something good was sure to happen, she could feel it in her bones.
+她觉得肯定有好事要发生了，她有这样的预感。
+
+## 2019.4.24
+1. Her paintings capture the subtle hues of the countryside in autumn. 
+她的油画捕捉住了秋天乡村的微妙色调。  
+2. this preparation will cleanse and tighten the skin.
+这种制剂会彻底清洁收紧肌肤。
+3. The program will prompt you to enter data where required. 
+这个程序在必要时将提醒你输入数据。 
+4. There is cold ham and cold tongue.
+这里有些冷的火腿和口条。
+5. I won’t mince matters: I think it’s a stupid idea. 
+我实话实说， 这是个愚蠢的主意。
+6. I saw her in the shop every once in a while.
+有时我在商店里看到她。
+7. I've been having a spot of bother with my car.
+我的汽车出了点问题。
+8. Be careful not to run into debt. 
+小心不要背上债务。
+9. Don't hold out on me - I need to know who did it.
+别瞒着我——我需要知道是谁做的。
+10. What did he say, then? Come on, out with it!
+那他是怎么说的？快点，说吧！
+11. Keep an eye open for rabbits in the field.
+要密切注意田里的兔子。
+12. Far from lying low, Kuti became more outspoken than ever.
+库蒂不但没暂避风头，而且较以往更加直言不讳。
+13. Before giving evidence, witnesses in court have to take the oath.
+作证之前，证人必须当庭宣誓据实作证。
+14. Water supplies won't hold out much longer.
+供水维持不了多久了。
+15. He wasn't able to cope with the stresses and strains of the job. 
+对付这项工作的紧张与压力，他无能为力。
+
+## 2019.4.25
+1. Her paintings capture the subtle hues of the countryside in autumn. 
+她的油画捕捉住了秋天乡村的微妙色调。  
+2. this preparation will cleanse and tighten the skin.
+这种制剂会彻底清洁收紧肌肤。
+3. The program will prompt you to enter data where required. 
+这个程序在必要时将提醒你输入数据。 
+4. There is cold ham and cold tongue.
+这里有些冷的火腿和口条。
+5. I won’t mince matters: I think it’s a stupid idea. 
+我实话实说， 这是个愚蠢的主意。
+6. I saw her in the shop every once in a while.
+有时我在商店里看到她。
+7. I've been having a spot of bother with my car.
+我的汽车出了点问题。
+8. Be careful not to run into debt. 
+小心不要背上债务。
+9. Don't hold out on me - I need to know who did it.
+别瞒着我——我需要知道是谁做的。
+10. What did he say, then? Come on, out with it!
+那他是怎么说的？快点，说吧！
+11. Keep an eye open for rabbits in the field.
+要密切注意田里的兔子。
+12. Far from lying low, Kuti became more outspoken than ever.
+库蒂不但没暂避风头，而且较以往更加直言不讳。
+13. Before giving evidence, witnesses in court have to take the oath.
+作证之前，证人必须当庭宣誓据实作证。
+14. Water supplies won't hold out much longer.
+供水维持不了多久了。
+15. He wasn't able to cope with the stresses and strains of the job. 
+对付这项工作的紧张与压力，他无能为力。
+
+## 2019.4.26
+1. They failed to arrest the company's decline. 
+他们未能阻止公司的衰落。 
+2. What were his grounds for wanting a divorce? 
+他要离婚的理由是什么？ 
+3. You don't have to lie to me. I know the score.
+你不必瞒我。我知道是怎么回事。 
+4. The city was subjected to heavy bombing. 
+那座城市遭受猛烈轰炸。
+5. The scandal seemed to have struck a mortal blow to the government's chances of re-election.
+这一丑闻似乎给了政府连任的希望致命一击。
+6. Local detectives have ruled out foul play.
+当地的侦探已经排除了他杀的可能性。
+
+## 2019.4.27
+1. Bottles of lemonade doctored with rat poison were discovered in the kitchen.
+厨房里发现了几瓶掺了老鼠药的柠檬汁。
+2. They have established that his injuries were caused by a fall. 
+他们已经证实他是摔伤的。
+3. We must bring all our energies to bear upon the task. 
+我们必须全力以赴不辱使命。 
+4. I was paying the rent and the bills and all the rest of it.
+我要付房租及账单等等。
+5. If I refused, it would in all likelihood mean I'd lose my job.
+如果我拒绝，那我十有八九会丢掉工作。
+6. I couldn't stop because I was on an errand.
+我没法停下来，因为我有差事在身。
+7. He didn't approve of the plan and said so in as many words. 
+他明确地说他不同意这计划。 
+8. Evidence bears out the idea that students learn best in small groups.
+有证据显示，学生以小组方式学习效果最佳。
+9. What the hell was that noise?
+那到底是甚么声音？
+
