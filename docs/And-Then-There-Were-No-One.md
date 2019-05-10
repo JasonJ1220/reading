@@ -574,3 +574,197 @@ Flared trousers are back with a vengeance this summer.
 9. What the hell was that noise?
 那到底是甚么声音？
 
+## 2019.4.28
+1. The butler always laid the table.
+每次都是男管家把餐具摆好。
+2. Something inside him snapped and he hit her.
+他心里再也控制不住了，于是动手打了她。
+3. In his summing-up, the judge said that it was dangerous to convict on this evidence alone.
+法官在总结中说，单凭这条证据就宣判有罪很不稳妥。
+4. Recent events had no bearing on our decision. 
+近期的事件与我们的决定没有关系。
+5. Children can be difficult as we know only too well. 
+小孩子往往很难对付,对此我们都非常清楚。 
+6. Evaluate one's own circumstances, use common sense, and forewarned is forearmed.
+使用普通常识评价一下自己的情况，有备无患。
+7. I was about to say we should cancel the trip, but she took the words right out of my mouth (= she said it before me). 
+我刚要说我们应该取消这次旅行，但她已抢先说了。
+8. He has staked his political future on an election victory.
+他把自己的政治前途押在竞选获胜上。
+9. Finally we plumped for a bottle of champagne.
+最后我们选了一瓶香槟酒。
+
+## 2019.4.29
+1. She's a real cool customer.
+她是个很冷静的家伙。
+2. His voice dropped to a whisper.
+他的声音已放低到轻声细语了。
+3. Turn that dreadful wailing music off and put on something cheerful.
+把那可怕的哀号似的音乐关掉，放点让人高兴的。
+4. He scored through two names on the list.
+他在名单上划掉了两个名字。
+5. He wanted her at any cost, even if it meant giving up everything he had.
+他不惜一切代价要得到她，即使这意味着放弃他自己所拥有的一切。
+6. I have no complaints as regards my salary.
+对于薪水我没有什么好抱怨的。
+7. What became of that student who used to live with you?
+以前和你住在一起的那个学生后来怎么样了？
+
+## 2019.4.30
+1. I ran out onto the landing.
+我冲出去到了楼梯口。
+2. Why did you let him swear at you like that? 
+你怎么让他那么骂你呢？ 
+3. I don't feel easy about letting the kids go out alone. 
+让这些孩子单独出去我不放心。
+4. a tall, slim athletic girl 
+修长健美的姑娘 
+5. Her hat was an amazing affair with feathers and a huge brim. 
+她的帽子嵌着羽毛，帽檐很宽,真是件奇物。 
+6. We put out from Liverpool. 
+我们从利物浦起航。
+
+## 2019.5.1
+1. After dinner he likes to retire to his study. 
+晚饭后，他喜欢躲到书房里去。  
+2. She raked out the ashes from the boiler.
+她把炉灰从锅炉里面耙了出来。
+3. She's the sort of person who stands out in a crowd.
+她是那种在人群中很显眼的人。
+4. Most people would have been very nervous in that situation, but she never turned a hair.
+大多数人在那种情况下会很紧张，但是他镇定自若。
+5. After trying to catch up with my work, I felt as though I was mad as a hatter. 
+在设法赶工作进度后，我觉得自己彷佛快抓狂了。
+
+## 2019.5.2
+1. The sight of the stiff scared him.
+看到尸体把他吓到了。
+2. It must have cost a tidy sum. 
+这准花了相当大的一笔钱。
+3. I take my hat off to Mr Clarke for taking this action. 
+我很钦佩克拉克先生的这一举动。
+4. Jackson cut short his trip to Africa.
+杰克逊提前结束了他的非洲之行。
+5. I expect Shelly to run rings around her competition in the pool today. 
+我觉得萨莉会在今天的游泳比赛中轻松胜出。
+6. It's not difficult once you get the hang of it. 
+你掌握了要领就不难了。
+
+## 2019.5.3
+1. We ran for cover as shells dropped all around us.
+周围都有炮弹落下，我们奔跑着寻找地方躲避。
+2. She was kind and domestic and put her family before her part-time job.
+她人很好也顾家，把家庭看得比兼职工作更为重要。
+3. My eyes were riveted on the figure lying in the road.
+我眼睛盯着躺在路上的人。
+4. As the author of the proposal I cannot agree with you. 
+我作为提案的发起人不能同意你的意见。
+5. The news really took us aback.
+这消息着实令我们吃了一惊。
+6. He was filled with remorse for not believing her. 
+他因为没有相信她而懊悔不已。
+7 .You must be off your head if you think that.
+如果你那样想肯定是疯了。
+
+## 2019.5.4
+1. Don's few personal effects were in a suitcase under the bed.
+唐的几件个人物品在床下的手提箱里。
+2. You're a surprisingly strong swimmer for one of such a slight build.
+你这么瘦小的个子，想不到是游泳高手。
+3. The police found a set of prints on the car door.
+警方在车门上发现了一组指纹。
+4. That's all to the good, but what do I get out of it? 
+这确实是有益于多数人的，但是我能得到什么呢。
+5. Their marriage has been fraught with difficulties.
+他们的婚姻困难重重。
+6. He can't fool me—I've got him taped. 
+他休想骗我，我把他的底细摸得一清二楚。
+
+## 2019.5.5
+1. The visitors were herded into two large halls.
+游客们被集中在两个大厅里。
+2. He licked his lips in an unpleasantly reptilian way. 
+他用一种令人厌恶的方式舔着他的嘴唇。
+3. It really galled him to see Anita doing so well now.
+看到安妮塔现在干得那么好，他心里实在恼火。
+4. We need a candidate who can keep his or her head even when clients get aggressive.
+我们需要一位即使客户暴躁发怒也能保持头脑冷静的人选。
+5. Set the oven to come on at six.
+把烤箱设定在六点钟开始烘烤。
+6. Don't worry— I'll see to it.
+别担心——这事儿我来处理。
+
+## 2019.5.6
+1. There was a throbbing in her temples.
+她的太阳穴直跳。
+2. Oscar stood stock-still and listened.
+奥斯卡站在那儿一动不动地听着。
+3. He noticed that the instruments had been tampered with.
+他注意到仪器被人动过了。
+4. You scared the life out of me, hiding like that! 
+你这样藏起来，吓死我了！
+5. I nearly passed out when I saw all the blood.
+看到那么多血我差点昏过去。
+
+## 2019.5.7
+1. She pronounced him the winner of the competition. 
+她宣布他是竞赛的优胜者。
+2. Don't trust him any more. He is a double cross. 
+别再信他。他是个反复无常的骗子。
+3. Come and sit down, you must be dead beat.
+过来坐下吧，你肯定累死了。
+4. Fran was studying the menu. 
+弗兰在仔细地看菜单。 
+5. The lawyer's apparently innocent question was designed to catch the witness off his guard.
+律师看似不经意的问题是为了使证人措手不及。
+6. The students have barricaded themselves into their dormitory building.
+学生们把自己关在了宿舍楼里。
+
+## 2019.5.8
+1. I couldn't even summon the energy to get out of bed. 
+我甚至连下床的力气都没有。
+2. Thanks for buying me lunch; you really are a good egg. 
+谢谢你为我买午餐，你真是个大好人。
+3. Now that everyone knew the truth, the only thing to do was to brazen it out.
+既然大家都知道真相了,只好硬着头皮撑过去。
+4. I'm so glad the mid-term exams are over and done with.
+我很高兴期中考试总算结束了。
+5. They spent much of the time reminiscing about the war, as old soldiers are wont to do
+像老兵们常做的那样，他们把大部分时间用来回忆那场战争。
+6. We live within easy reach of the shops.
+我们住得离商店都很近。
+7. Those kids are always up to no good. 
+那些孩子尽会恶作剧。 
+
+## 2019.5.9
+1. The report examines teaching methods employed in the classroom.
+这个报告探讨了课堂教学方法。
+2. It is easier to think in concrete terms rather than in the abstract.
+结合具体的事物来思考要比抽象思考容易些。
+3. tennis was not his pigeon.
+打网球不是他的爱好。
+4. The light of the setting sun tinges the buildings with delicate colours.
+落日的余晖给建筑物染上一抹柔和的色彩。
+5. We can get six people round this table at a pinch. 
+必要时，这张桌子可以坐六个人。 
+
+## 2019.5.10
+1. After a quietus of twenty years she returned. 
+二十年后又东山再起
+2. He took a pot at the neighbour's cat with his air rifle. 
+他用气枪向邻居的猫打了一枪。
+3. He won't last out the night.
+他活不过今天晚上。
+4. Five Asian countries lay claim to the islands.
+5个亚洲国家声称对那些岛屿拥有主权。
+5. I'm not going to put myself at the mercy of the bank. 
+我不想任由银行摆布。
+
+## 2019.5.11
+
+## 2019.5.12
+
+## 2019.5.13
+
+## 2019.5.14
+
