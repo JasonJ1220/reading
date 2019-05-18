@@ -761,10 +761,121 @@ Flared trousers are back with a vengeance this summer.
 我不想任由银行摆布。
 
 ## 2019.5.11
+1. FRED(with a catch in his voice): Thank you for coming back to me.
+弗莱德（哽咽地）：谢谢你回到我身边。（FRED）
+2. When he spoke his voice was jumpy.
+他说话的时候声音听起来很紧张。
+3. She was cleared of all charges against her. 
+对她的所有指控均已撤销。 
+4. She can't get over her shyness. 
+她无法克服羞怯心理。
+5. The files are locked up and I can't get at them. 
+文件资料锁起来了，我取不出来。 
 
 ## 2019.5.12
+1. I don't go along with all his theories but there's probably something in it.
+我不同意他所有的理论，但其中也许还是有点道理的。
+2. 'I don't think I'll go.' 'Okay, please yourself.'
+“我想我不会去。”“好吧，随你的便。”
+3. Clouds enveloped the mountain tops. 
+云雾笼罩着山顶。 
+4. We have gone through the evidence with a fine-tooth comb.
+我们已经仔细地检查过证据。
 
 ## 2019.5.13
+1. The boy made a spring over the fence. 
+那个男孩跳过了围栏。
+2. The pain was quite exquisite.
+疼痛得剧烈难忍。
+3. We had a glorious time in the south of France last summer.
+去年夏天，我们在法国南部度过了一段非常愉快的日子。
+4. I had been lulled into thinking the publicity would be a trivial matter.
+我错误地相信了媒体的报道只是小事一桩。
+5. You need a cool head and nerves of steel.
+你需要有冷静的头脑、坚强的意志。
+6. She turned the tables on her rival with allegations of corruption.
+她指控对手腐败，从而扭转了对自己不利的局面。
+7. He is behind the times.
+他很落伍。
 
 ## 2019.5.14
+1. The contract can be terminated by either party with three months' notice. 
+合同的任何一方如提前三个月通知，均可终止本合同。 
+2. The sea was very rough. 
+海上风急浪高。 
+3. Though Lloyd George's behavior seemed curious, Haig still did not smell a rat.
+尽管劳埃德·乔治的行为古怪，黑格仍然没有任何怀疑。
+4. The surprise made her eyes pop out. 
+惊讶使她瞪大了眼睛。
+5. The prosecution was able to establish beyond reasonable doubt that the woman had been lying.
+公诉人确切无疑地证实这个女人一直在撒谎。 
 
+## 2019.5.15
+1. For failing to report the accident, his licence was endorsed.
+由于发生事故未能报告，他的驾驶执照被注明违章。
+2. Offenders will be liable to a heavy fine.
+违者须付巨额罚金。 
+3. There have been reports of widespread enemy action in the area.
+据报敌人在该地区开展大规模行动。   
+4. I did three lots of exams last summer.
+去年夏天我参加了三组考试。
+5. As his illness progressed, he made fewer entries in his diary.
+随着病情加重，他日记记得越来越少。 
+6. All I knew about were Antony's own financial dealings, which were always above board.
+据我所知，安东尼经手的金融交易一直是公开透明的。
+7. I knew someone who was mixed up in that corruption scandal.
+我认识的某个人与那件贪污丑闻有牵连。
+8. Nobody gets away with insulting me like that. 
+这样侮辱我的人我决不会善罢甘休。 
+9. Somehow the prisoners managed to spirit news out to the world outside.
+囚犯们不知用什么办法把消息送出了监狱。
+10. She arrived at the meeting as much in the dark as everyone else. 
+她到会时与其他人一样毫不知情。 
+11. I think this new student is a bad hat .
+我想这个新学生是一个坏学生。
+
+## 2019.5.16
+1. He pushed the smaller child over.
+他推倒了那个小孩。
+2. That is true, but only up to a point.
+说得有道理，不过只限于某种程度上。
+3. It's time we tidied up the office.
+我们该收拾收拾办公室了。
+4. There was a mass of people around the club entrance.
+俱乐部门口聚集着一大群人。
+5. It never fails to rain(=it always rains)when I plan to take a day off.
+我准备休假时总是下雨。
+
+## 2019.5.17
+1. She wanted to tell him the whole truth but she checked herself—it wasn't the right moment. 
+她本想告诉他全部真相，但是又忍住了——当时还不是时候。 
+2. The moon waxes and wanes every month.
+月亮每个月都有圆缺。
+3. Further details will be announced in due course.
+更多的细节将在适当的时候公布。
+4. After the oil spill, thousands of fishermen stand to lose their livelihoods.
+石油泄漏发生后，许多渔民很可能会失去生计。
+
+## 2019.5.18
+1. She's been involved in some shady deals.
+她参与了一些不正当的事情。
+2. Voting is the coping stone of democracy – but it is flanked and buttressed by much more. 
+投票权是民主的基石——但它还需要许多其他东西的支持和协助。
+3. We are not prepared to compromise on safety standards. 
+我们不愿在安全标准问题上放松。 
+4. Vitamins in solution are more affected than those in solid foods.
+溶液里的维生素比固体食物里的维生素受到的影响更大。
+5. Some coffee should sober you up.
+喝点咖啡能帮助你醒酒。
+6. They think that any legislation that involved putting down dogs was wrong.
+他们认为任何涉及捕杀狗的立法都是错误的。
+7. No one knows exactly how or where he met his end.
+没有人知道他究竟是如何或在何处丢掉性命的。
+
+## 2019.5.19
+1. He has already intimated (that) he intends to retire. 
+他已经暗示他打算退休。
+2. The curtains twitched as she rang the bell. 
+她按铃时窗帘被猛地拉动了一下。
+3. A gust of wind knocked him off balance and he fell face down in the mud.
+一阵大风刮得他失去平衡，脸朝下摔在泥里。
