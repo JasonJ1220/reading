@@ -123,15 +123,210 @@
 爬了一天的山以后，没什么比得上好好泡个热水澡了。
 
 ## 2019.5.25
+1 At the meeting the finance director produced the figures for the previous year. 
+会上，财务总监出示了前一年的数字。  
+
+2 I fancied (that) I saw something moving in the corner.
+我想我看见角落里有东西在动。
+
+3 This train goes straight through to York. 
+这列火车直达约克。   
+
+4 Name your price.
+给个价吧。
+
+5 Could you oblige me with a pen and a piece of paper, please?
+劳驾，请给我一支笔和一张纸，好吗？
+
+6 She was taken on as a trainee. 
+她受聘当实习生。 
+
+7 The discussion resolved itself into an argument.
+讨论到后来变成了争论。
+
+8 The security services were clearly caught napping.
+保安工作明显有漏洞。 
+
+9 Transport workers are holding out for a 20% pay rise.
+运输业工人坚持要求加薪 20%。
+
+10 The train pulled out of the station. 
+列车准时驶出车站。
+
+11 They've broken off their engagement. 
+他们突然解除了婚约。 
+
+12 As far as I can make out, he has never been married.
+据我所知，他一直没有结婚。
 
 ## 2019.5.26
+1 I had a hunch (that) you'd be back. 
+我有预感你会回来。
+
+2 He carried his grip onto the plane with him.
+他拿着他的手提包上了飞机。
+
+3 Your mother will know who's moved in—she doesn't miss much.
+你妈会知道谁搬进来了——很少有她注意不到的。 
+
+4 Don't leave the tap running. 
+别把水龙头开着白白流水。
+
+5 I was so confused that I could hardly compose my thoughts. 
+我心烦意乱难以镇定思绪。
 
 ## 2019.5.27
+1 Enter your name and occupation in the boxes (= on a form).
+将姓名和职业填入（表格的）方框里。
+
+2 She was sitting on a grassy bank.
+她坐在草坡上。
+
+3 My parents couldn't afford the passage to America.
+我父母付不起去美国的船费。
+
+4 She did it herself to save argument. 
+她自己去做了，以免发生争论。 
+
+5 All her children are fair (= they all have fair hair).
+她的孩子们都长着淡色的头发。 
+
+6 He was about to shut the door when an idea came to him.
+他正准备关门，突然想到一个主意。
+
+7 And that" he added thoughtfully, "might be all for the best."
+“要是这样”他意味深长地加了一句，“就再好也没有了。”
 
 ## 2019.5.28
+1 He consulted the manual. 
+他查阅了使用说明书。
+
+2 The government has warned of stormy waters ahead. 
+政府已告诫说，以后的局势将很严峻。
+
+3 He was knocked out by a single blow to the head. 
+他头上只被打了一下便昏过去了。   
+
+4 Her face was screwed up with pain.
+她痛得脸都扭歪了。
+
+5 The bullets glanced off the car.
+子弹擦过汽车。
+
+6 He knew too much, so they bumped him off.
+他知道的太多了，所以他们谋杀了他。
 
 ## 2019.5.29
+1 I'll send a set of plans for the new machine.
+我会寄出一套新机器的设计图。
+
+2 I'll get you for this!
+这事我会找你算账的！
+
+3 If you need anything, I am at your service.
+您要是需要什么，请尽管吩咐。
+
+4 Two days after leaving the hospital she relapsed into a coma. 
+出院两天后，她再度昏迷。
+
+5 I'm at a loss what to do next. 
+我对下一步做什么心里没谱。 
+
+6 He had a row with his son.
+他跟儿子吵了一架。 
+
+7 If you find yourself at a loose end, you could always clean the bathroom.
+如果闲着没事，你总还可以去打扫一下浴室嘛。
 
 ## 2019.5.30
+1 Detectives are working on a theory that he knew his murderer.
+侦探们假设他认识谋杀他的凶手，并以此展开侦破工作。
+
+2 他谴责领导人无视党的宣言。 
+ He accused the leader of tearing up the party's manifesto (= of ignoring it).
+
+3 It's not a pleasant feeling to discover you've been taken for a ride by someone you trusted. 
+发现被你信任的人骗了，心里很不是滋味。 
+
+4 The demonstration passed off peacefully. 
+示威游行始终和平地进行。 
+
+5 I had no idea that you and he were on such good terms.
+我还不知道你和他的关系这么好。 
+
+6 He was a quiet man who kept himself to himself.
+他是个喜欢安静、不爱与人来往的人。
 
 ## 2019.5.31
+1 The evidence is still under examination (= being examined).
+仍然在对那些证据进行调查。
+
+2 He delivered a strong warning about the dangers facing the government.
+他发出了强烈警告，说政府正面临危险。
+
+3 My object was to explain the decision simply.
+我的宗旨是要简洁地说明这一决定。
+
+4 You need to suit the action to the word.
+你要说到做到。
+
+5 Britain is still in the grip of recession.
+英国依然没有摆脱经济衰退。
+
+## 2019.6.1
+1 A mark left by the burning butt is on his left hand .
+他的左手上有个被烟蒂烫伤的疤。
+
+2 They sat on a flat stone to rest for a while. 
+他们坐在一块平坦的石头上休息了一会儿。
+
+3 This teddy bear feels furry. 
+这只泰迪熊摸起来毛茸茸的。
+
+4 It's too dark here. Do please strike the match and light the candle. 
+请擦亮火柴，点亮蜡烛，这实在太黑了。 
+
+5 a case of wine
+一箱葡萄酒 
+
+6 She is determined to clear all things up.
+她坚决想搞清楚一切事情。
+
+7 It was a stroke of luck that you were at home when I called you.
+幸好我打电话的时候你还没出门。
+
+## 2019.6.2
+
+## 2019.6.3
+
+## 2019.6.4
+
+## 2019.6.5
+
+## 2019.6.6
+
+## 2019.6.7
+
+## 2019.6.8
+
+## 2019.6.9
+
+## 2019.6.10
+
+## 2019.6.11
+
+## 2019.6.12
+
+## 2019.6.13
+
+## 2019.6.14
+
+## 2019.6.15
+
+## 2019.6.16
+
+## 2019.6.17
+
+## 2019.6.18
+
+## 2019.6.19
