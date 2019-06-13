@@ -296,22 +296,153 @@
 幸好我打电话的时候你还没出门。
 
 ## 2019.6.2
+1 Most people in Magellan's day believed that the earth is flat.
+在麦哲伦的时代，人们相信地球是平的。
+
+2 She broke up with him in a fit of despair.
+她在绝望下与他分了手。
+
+3 Adequate exercise would be benefical to expecting women.
+怀孕时适当的锻炼是有好处的。 
+
+4 The priest flattened out the folds of his gown.
+牧师弄平了他长袍上的褶皱。
+
+5 The police are still on the trail of the escaped prisoner.
+警方仍在追捕逃犯。
+
+6 One looks pretty well by means of lipsticks.
+口红可以让人显得有气色。
 
 ## 2019.6.3
+1 She entered the stage, brightening.
+她走上舞台，看上去很快活。
+
+2 All the people retried late yesterday evening.
+昨天所有人都睡的很晚。
+
+3 His brother went to prison, which reflected on him.
+他的兄弟进了监狱，他也受到了牵连。
+
+4 Please put yourself at ease and say whatever you like.
+别紧张，说你想说的吧。
+
+5 The movie was so boring that I nearly dozed off.
+这电影太无聊了，我差点睡着了。
 
 ## 2019.6.4
+1 She's not positive about the exact time for the party.
+她不记得聚会的具体时间了。
+
+2 She is out for his blood and wants to send him to the chair.
+她恨不得送他去坐电椅。
+
+3 But who can be the character witnesses for you?
+但是谁能为你的品格担保？
+
+4 It needs the effort on everyone's part to achieve the goal.
+要达到目标，需要所有人的努力。
 
 ## 2019.6.5
+1 It is the love for Niky that decides me to go to New York. 
+是我对尼基的爱让我下定决心去纽约。
+
+2 Why, it's too hard for me.
+唉，这对我来说太困难了。
+
+3Smith doesn't cotton to this suggestion at all.
+史密斯一点儿也不喜欢这个提议。
 
 ## 2019.6.6
+1 Niky is in the habit of eating salad in the evenings.
+尼基习惯晚上吃沙拉。
+
+2 I dare to say that John doesn't much care for him.
+我敢说约翰对他没什么好感。
+
+3 His decision depends, as it were, on Lucy.
+他的决定在一定程度上取决于露西。
+
+4 I believe that the professor could threw light on this question for us.
+关于这个问题，我相信教授可以给我们一个解释。
+
+5 There has been bad blood between one of my collegues and me.
+我和我的一个同事有些不和。
+
+6 She avoids talking about her sister who is in service. 
+她避免谈到她在做仆人的妹妹。
+
+7 On the first day of working, he was in a real state. 
+他第一天上班，感到很兴奋。
 
 ## 2019.6.7
+1. Continue，I pray you. 
+请你继续吧。
+
+2. Niky is not the type of person who always plunges into a long recital of all his or her troubles.
+尼基不是那种一直念叨自己烦心事的人。
+
+3. I asked him to borrow me the dictionary and he gave it to me then and there.
+我问他借词典，他立即给我了。
 
 ## 2019.6.8
+1 The kitten was frozen by the mouse. 
+那只小猫被老鼠吓呆了。
+
+2 He sailed away like a soldier on parade. 
+他像接受检阅的士兵一样走过去了。 
+
+3 She shepherded the kids towards the kindergarten.
+她把孩子送到了幼儿园。
+
+4 I am biased in favor of buying sensible things 
+我偏向于选购实用的东西。
+
+5 She was in quite a taking because of the changing attitude of Nick.
+她因为尼克忽冷忽热的态度而不安。
+
+6 The news that the professor released puts students all in a flutter.
+教授宣布的消息让学生们一阵骚动。 
+
+7 Wait till I get my hands on him! 
+等我抓住他再说！
+
+8 You can bet your bottom dollar that he'll be late. 
+他肯定会迟到。
+
+9 Police finally dragged a confession out of him.
+警方最终迫使他供认了罪行。
 
 ## 2019.6.9
+1 Sort through the letters, would you?
+把信件整理一下吧，好吗？
+
+2 Why don't you state your directions at large?
+你为什么不把要求说清楚一些呢？
+
+3 The men out in the corridor were trying to catch what they said.
+外面走廊里的人竖起耳朵想听他们说些什么。
+
+4 A disciplinary hearing will examine charges of serious professional misconduct against three surgeons.
+纪律听证会将就三名外科医生严重渎职的指控进行调查。
+
+5 I don't know where that old story came from, I've never been able to track it down.
+我不知道这则旧传闻的出处，我从来没能考证出结果。 
 
 ## 2019.6.10
+1 Suddenly, a tide of violent envy of her rose inside me.
+
+我突然涌起了对她强烈的嫉妒之情。
+
+2 The course he employed is most brilliant.
+他采取的方法十分高明。
+
+3 Tim cannot account for the errors in the account.
+
+蒂姆无法解释账目上的错误。
+
+4 Vera is harping on her new love story.
+维拉喋喋不休地谈论她的新恋情。
 
 ## 2019.6.11
 
