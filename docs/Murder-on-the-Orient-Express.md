@@ -445,19 +445,315 @@
 维拉喋喋不休地谈论她的新恋情。
 
 ## 2019.6.11
+1 George gave a detailed account of their first date in his diary.
+乔治在日记里详细地叙述了他们的第一次约会。
+
+2 Except from a delicate constitution, he had a particularly happy childhood. 
+
+除了体弱多病之外，他的童年还算幸福。
+
+3 Soon after we met each other, Niky and I were on good terms.
+
+尼基和我认识不久就很熟了。
+
+4 Please drop your work in hand for a while, I'd like to have a word with you.
+把手头的事情放一下，我有事和你说。
+
+5 His testimony has thrown new light on the case. 
+他的证词对案件提供了新的解释。
 
 ## 2019.6.12
+1 George tried to appear airy. 
+乔治竭力装出一副无所谓的样子。
+
+2 I’m only just back from leave.
+我才刚休假回来。
+
+3 His manner is gentle and polite. 
+他举止温和，彬彬有礼。
+
+4 I went to bed early last night, but I feel sleepy today all the same.
+尽管我昨天睡得早，今天还是很困。 
+
+5 A siren rang out somewhere in the distance.
+远处传来了警报声。
+
+6 Though Laura gave way then,  she has regretted it ever since.
+劳拉虽然让步了，但事后一直后悔不已。
+
+7 In the interview she set out some of her grounds.
+她接受采访时详细说明了自己的理由。
+
+8 To prove that study is a happy thing to do, the professor cited a Chinese proverb to that effect. 
+
+为了证明学习使人快乐，教授引用了一句中国谚语。
+
+9 He appeals to increase the tax.
+他呼吁提高税收。
 
 ## 2019.6.13
+1 She gained every happiness.
+她幸福得不得了。
+
+2 Mahsa is not concerned with this issue.
+玛莎与这件事无关。
+
+3 The professor gave the classroom an once-over.
+
+教授匆匆扫视了一下教室。
+
+4 He doesn't want to be implicated in any illegal activities.
+他不想和任何非法活动有牵连。
+
+5 She sat there fiddling with her handbag nervously. 
+她坐在那里紧张地摆弄着手提包。
+
+6 I fell into the habit of getting up early and jogging in the morning.
+我开始习惯早起跑步。
+
+7 She has no use for people who are lazy.
+她讨厌懒惰的人。
+
+8 He is a reliable man, so to speak. 
+可以说他是个可靠的人。 
+
+9 My feeling was hard to pin down.
+我的感觉很难确切描述。
+
 
 ## 2019.6.14
+1 I couldn't sleep with the tattoo in the next door.
+隔壁传来的敲打声让我睡不着觉。
+
+2 The signature of this company is solidarity. 
+这家公司的特点是团结。
+
+3 I'll take this check shirt.
+我要买这件格子衬衫。 
+
+4 Roughly half of them are British subjects.
+他们中大约有一半是英国国民。
+
+5 Her friends put her wise to her husband's affairs.
+她的朋友让她知道她的丈夫有了外遇。
+
+6 She came about all her feelings recklessly.
+她不顾一切，把心事和盘托出。
+
+7 You have said a mouthful! 
+你的描述恰当好处。
 
 ## 2019.6.15
+1 an intelligence operative   
+情报人员
+
+2 You could try a different line of argument.
+你可以换一种说理方式。
+
+3 I have found a woman who answers to the description.
+我看到了一个符合描述的女人。
+
+4 On the hearing of the news, I was plumb startled.
+听到消息，我彻底震惊了。
+
+5 The receptionist said he'd see she got the message.
+接待员说他一定会把话传给她。
+
+6 He dived into his pocket and produced a packet of cigarettes.
+他猛地把手伸进衣袋里掏出一包烟。
+
+7 I felt a right idiot. 
+我觉得自己就像个十足的白痴。 
+
+8 He had a hard job to make himself heard. 
+他好不容易才使别人听见他的声音。 
+
+9 I have been doing some quiet investigating in the meantime and had an ace up my sleeve.
+与此同时，我不动声色地展开了调查，掌握了一张王牌。
+
+10 His ex-wife is out for his blood.
+他前妻恨不得伤害他。
+
+11 Every eye was fixed on the new girl.
+每双眼睛都盯着新来的这位小姑娘。
+
+12 She's always had it in for George.
+她总是跟乔治过不去。
+
+13 Make sure that the cupboard is flush with the wall.
+要确保碗橱与墙面齐平。
+
+14 He and his friends used to get drunk and raise hell on the weekends.
+他和他的朋友以前常常在周末喝得大醉并且大吵大闹的。
 
 ## 2019.6.16
+1 The Dean told him to straighten his room.
+宿管让他把自己的房间整理干净。
+
+2 The two companies have initialled a new co-operation agreement.
+两家公司签署了新的合作协议。
+
+3 Mahsa decided to cable the news to Janene.
+玛莎决定拍封电报给詹宁告诉她这个消息。 
+
+4 Her voice broke with the heat of emotion.
+她激动地声音颤抖。
+
+5 So long, and remember me.
+再见，不要忘了我啊。
+
+6 They had cycled on and off for a couple of weeks along Sichuan-Tibet Highway.
+他们沿着川藏线断断续续骑行了几个星期。
+
+7 Her athletic career was cut short by a leg injury.
+她的体育生涯因为腿伤而中断了。
+
+8 He did not confine himself to the one subject.
+他没把自己局限于这一门学科。
+
+9 She talked with a long face.
+她说话时拉长了脸。
+
+10 He waved to draw our attention with a flourish.
+他动作夸张地挥手引起我们注意。
 
 ## 2019.6.17
+1 A teacher should have a correct estimate of his or her students.
+老师要对学生的能力有正确的评价。
 
+2 He prosecutes his study after graduation.
+他毕业以后继续学习。
+
+3 When you're a customer service officer, receiving complaints of customers is all in a day's work.
+对客服来说，顾客的抱怨是家常便饭。
+
+4 She looked him full in the face as she spoke.
+她一边说一边直视他的脸。
+
+5 She’s so arrogant that I have hysterics.
+她傲慢的态度让我暴跳如雷。
+
+6 The whole thing has been cut-and-dried.
+整个事情已成定局。
+
+7 With a snarl, another dog pounced on his leg. 
+随着一声嚎叫，又一只狗扑上了他的腿。
+
+8 My words seem to take her aback.
+我的话似乎让她很吃惊。
 ## 2019.6.18
+1 Politicians say it could invite demonstration.
+政客们说这会导致示威游行。
+
+2 The waiters were stiff and rude.
+ 这些服务员态度生硬粗鲁。
+
+3 She was in need of medical attention. 
+她需要治疗。 
+
+4 I've been running about  all morning trying to find you.
+我跑了一个早上到处找你。
+
+5 Everyone could bear me out. 
+每个人都可以为我作证。
+
+6 Can you vouch for him that all his statements are trustworthy? 
+你能担保他的话都可靠吗？
+
+7 He suggested that class size has a bearing on academic performance of students. 
+他认为学生的分数和班级规模有关系。
+
+8 Her account of the visit sent us into fits of laughter. 
+她讲述参观的经过，我们听得一阵阵大笑。 
 
 ## 2019.6.19
+1 The risk of cardiovascular disease would mount because of smoking. 
+吸烟会使患心血管疾病的风险增加。
+
+2 Lost in her own minds, she barely ran into me.
+她魂不守舍地，差点撞上我。
+
+3 Several scraps of colorful cloth are covering the sofa.
+沙发上铺着几块彩色的布。
+
+4 At a stroke she could make things vanish into thin air. 
+她用手碰到什么就能让它消失于无形之中。
+
+5 She couldn't help but turn upon her mother.
+她没忍住对妈妈发了火。 
+
+## 2019.6.20
+1 The situation as it stands is not so optimistic.
+目前的形势不是很乐观。
+
+2 According to his account, there are two suspicious characters about the neighborhood.
+根据他的叙述，附近有两个形迹可疑的人。 
+
+3 Almost all fictional detectives are inventions.
+几乎所有小说中的侦探都是虚构的。
+
+4 Seeing her finishing all the snacks alone, I was a shade put out.
+看到她独自吃完了零食，我有些不高兴。
+
+5 He died of a heart attack arising from his lifestyle. 
+他死于由他的生活方式引起的心脏病突发。
+
+6 It is proved that he is acquitted of burglar. 
+经证实他没有入室盗窃。 
+
+7 She attaches great value to being financially independent.
+她特别看重经济独立。
+
+8 Take it slowly, don’t put the cart before the horse.
+慢慢来，不要前后颠倒。
+
+## 2019.6.21
+1 Her clothes give her personality.
+她穿的衣服很有个人风格。
+
+2 I deposited my backpack on the luggage rack. 
+我把我的背包放在了行李架上。 
+
+3 He was, how shall I put it, not intimately acquainted with his work.
+他有些，怎么说呢，对工作不是很熟悉。
+
+4 The side door of the bank flew open and three men burst in.
+
+银行的侧门猛地开了，三个男人闯了进来。
+
+5 After four glasses of wine his head was spinning.
+他四杯酒下肚后晕乎乎的。
+
+6 She retailed the neighbours' activities with relish. 
+她饶有兴趣地对邻居们的活动说三道四。 
+
+7 We have already discussed this matter at great length. 
+我们已经十分详尽地讨论了这个问题。 
+
+## 2019.6.22
+1 He had no one in the world save her.
+除了她，他再没有别的亲人。
+
+2 He found a fast foothold and pulled himself up.
+他找到了一个稳固的踏脚处爬了上去。 
+
+3 She crossed the room with the deliacte light.
+
+她穿过了灯光柔和的房间。
+
+4 There is nothing out of the way about the work.
+这个作品没有什么罕见的地方。
+
+## 2019.6.23
+
+## 2019.6.24
+
+## 2019.6.25
+
+## 2019.6.26
+
+## 2019.6.27
+
+## 2019.6.28
+
+## 2019.6.29
