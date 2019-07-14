@@ -745,15 +745,420 @@
 这个作品没有什么罕见的地方。
 
 ## 2019.6.23
+1 One can hang one's clothes on the projections of the wardrobe. 
+这个衣柜的突出部分可以用来挂衣服。
+
+2 I feel a bit funny today—I don't think I'll go to work. 
+我今天感到有点不舒服，不想上班去。
+
+3 We didn't 'fix' anything. It'll be seen as it happens.
+我们没做任何手脚，该什么样就会什么样。
+
+4 He describes the events with a passion that no other writer can touch.
+他以一种其他作者都无法比拟的热情描述了这些事件。
+
+5 She seems to set on marrying him.
+她似乎已打定主意要嫁给他。
+
+
+6 All investigations of the police have drawn a blank so far.
+到目前为止警方的调查毫无结果。
+
+7 The place looked a mite expensive.
+这地方看上去稍微有点儿贵。
+
+8 Mum was a great believer in herbal medicines.
+妈妈特别相信草药。
+
+9 Please stop making that noise! It really gets on my nerves.
+请不要再发出那种噪声了！它吵得我很心烦。
 
 ## 2019.6.24
+1 He rose, his eyes still fastened on the piece of paper.
+他站起身，眼睛仍盯着那张纸。
+
+2 Rachel had spent longer than usual over her toilet that evening, with pleasing results.
+那天晚上瑞秋梳洗打扮的时间比平时要久，效果很好。
+
+3 I don't want you soiling your hands with this sort of work.
+我不希望你干这种事，免得脏了你的手。 
+
+4 Max was lying all the time.' 'I thought as much.'
+“马克斯一直在说谎。”“我也这样认为。”
+
+5 I'd rather not dwell on the past.
+我不想再沉湎于过去了。
+
+6 Whenever he's around, he always manages to stir up trouble.
+什么时候只要有他在，他就总要挑起点事来。
 
 ## 2019.6.25
+1 When he went upstairs five minutes later, she was fast asleep.
+他5分钟后上楼时，她已睡熟。
+
+2 The minister keeps coming out with the same tiring formulas. 
+这个牧师开口便是千篇一律、使人厌倦的套话。
+
+3 We did all the work and she gets all the credit! 
+工作都是我们干的，而功劳却都归了她！ 
+
+4 His voice betrayed the worry he was trying to hide. 
+他的声音掩盖不了内心的担忧。 
+
+5 She spent much time ministering to the sick.
+她花了很多时间照顾病人。
+
+6 Stop putting words in my mouth — I didn't say you looked fat in the red dress —I merely said you looked very slim in black!
+别曲解我的话——我并不是说你穿红色显胖——我只是说你穿黑色显得非常苗条！
+
+7 Stop beating about the bush and tell me what you want. 
+别绕来绕去了，告诉我你想要什么吧。 
+
+8 He fell asleep in spite of himself. 
+他还是不由得睡着了
 
 ## 2019.6.26
+1 He jammed the boxes into the back of the car.
+他把箱子塞进汽车的后车厢。
+
+2 It might have escaped your notice, but I'm very busy at the moment.
+也许你没注意到，可我此刻忙得不可开交。 
+
+3 He is constantly on guard against any threat of humiliation.
+他时刻提防着任何有辱尊严之事。
+
+4 I'd just as soon stay in，as I'm not feeling very well.
+我宁愿待在家里，我有些不舒服。
+
+5 I'm so relieved that I don't have to do the after-dinner speech—it's such a weight off my mind!
+饭后不必作演讲使我舒了一口长气——我终于放下了心头大石！ 
+
+6 She was thrilled to bits when I said I'd come.
+我说我会来，她就兴奋不已。 
 
 ## 2019.6.27
+1 We worked on pronunciation, stress and intonation. 
+我们学习了语音、重读和语调。
+
+2 I couldn't make head nor tail of the damn film.
+这部该死的影片我一点儿都看不懂。
+
+3 Could you say that again in words of one syllable? 
+你能用很简单的言语把这再说一遍吗？ 
+
+4 The coast is clear, you can come out now!
+道路通畅了，你可以出来了！
+
+5 The investigation has only just started so the police haven’t got much to go on at the moment.
+调查才刚刚开始，所以现在警方还没有找到多少线索。
 
 ## 2019.6.28
+1 She was poring over a book.
+她在专心读书。
+
+2 An overwhelming sense of guilt arising from my actions.
+我的行为带来的沉重的罪恶感。
+
+3 We hope the final decision will be in our favor.
+我们希望最后的决定对我们有利。
+
+4 She was proved right, in dramatic fashion, when the whole department resigned. 
+整个部门的人都辞了职，这惹人注目的事证明她是对的。 
+
+5 Which film did you plump for in the end?
+你们最后选择去看哪部电影了？
 
 ## 2019.6.29
+1 Our new teacher's a bit of a joke-he can't even control the class.
+我们的新老师有点荒唐可笑——他连课堂都控制不了。
+
+2 The police officer took down all the particulars of the burglary. 
+这名警察记下了窃案发生的详细情况。
+
+3 well-worn party dogma and ideology.
+迂腐不堪的政党教条和意识形态
+
+4 He asked me if I was ready. I answered in the affirmative.
+他问我是否准备好了，我给出肯定的回答。
+
+5 If we've got an important decision to make, we sometimes spend a whole day thrashing it out in a meeting.
+当我们要作重大决策时，有时会开一整天的会来商定。
+
+6 The frog puffed itself up. 
+这只青蛙胀得鼓鼓的。
+
+## 2019.6.30
+1 A small laugh escaped her.
+她不由得小声地笑了出来。
+
+2 They threw their arms around each other.
+他们用力的抱紧了对方。
+
+3 The symptoms suggest a minor heart attack.    
+症状显示这是轻微心脏病发作。 
+
+4 Jack’s clothes were just a shade too big for me.
+杰克的衣服我穿稍有点大。
+
+5 'Do you mind if I put the television on?' 'No, not in the least.' 
+“我开电视机你介意吗？”“不，一点也不介意。”
+
+6 You can't just turn up and expect a meal.
+你不能说来就来，还想吃饭。
+
+7 a blob of honey
+一滴蜂蜜
+
+8 Place the jar in warm water to soak the label off. 
+把罐子放到温水中泡掉标签。
+
+9 The town is still trying to cast off its dull image. 
+该市镇仍在努力改变自己的单调形象。 
+
+10 Finally, he could do no more, which is where he came in.
+最后，他再也无能为力了，这也正是他发挥作用的时候。
+
+## 2019.7.1
+1 Some say the investigation is a blind to keep the public's attention off the governor.
+有些人说调查只是一个幌子，让公众的视线远离统治者。
+
+2 I felt free from the cares of the day as soon as I left the building. 
+我一离开那栋大楼便觉得轻松自在，不再为那天的事烦心了。
+
+3 The articles found in the car helped the police to identify the body. 
+在汽车上发现的物品有助于警方辨认死者身份。 
+
+4 Sarah bought some chocolate for her three young charges.
+萨拉给自己照顾的三个小孩买了些巧克力。
+
+5 The notes are intended for the course. 
+这些笔记是为了这门课程而记的。 
+
+6 If you would like to send a donation, you can make a cheque out.
+您如果有捐款的意愿，可以填写一张支票。
+
+## 2019.7.2
+1 Let me be brutally frank about this. 
+让我把这件事无情地挑明说吧。
+
+2 The article was nothing but a tissue of lies.
+这篇文章简直是胡说八道，一无是处。   
+
+3 Jack took it upon himself to hand the press a list of names.
+杰克自作主张给了媒体一份名单。
+
+4 She didn't get too wrought up about things.
+她对这些事并不感到太多不安。
+## 2019.7.3
+1 She's a real old dragon.
+她真是个老恶婆。
+
+2 Okay, that clinches it, I'll come with you. 
+好，就这么说定了，我跟你一起去。
+
+3 Our ultimate end in sponsoring the event is to raise money for charity.
+我们赞助这个活动的最终目的是为了慈善事业筹钱。
+
+4 His manner was polite but cool. 
+他举止彬彬有礼而又冷漠。
+
+5 She spoke to both sides in the dispute in an attempt to smooth things over. 
+她和争执双方谈话，试图进行调解。
+
+6 The truth was dug out.
+真相被揭露出来了。
+## 2019.7.4
+1 The next day was warmer still. 
+第二天更暖和了。
+
+2 He wore a puzzled look on his face. 
+他脸上流露出迷惑不解的神情。
+
+3 He outlined his plans and then proceeded to explain them in more detail. 
+他简单介绍了他的计划，接着又进行了较详细的解释。  
+
+4 Please acquaint me with the facts of the case. 
+请把这事的实情告诉我。
+
+5 a statue carved from a single block of marble
+一整块大理石雕成的雕像
+## 2019.7.5
+1 She earns her living as a freelance journalist.
+她靠做自由撰稿记者来维持生计。
+
+2 She deserves credit for trying her best.
+她尽了最大的努力，应该得到表扬。
+
+3 We are simply involved in an advisory capacity on the project.
+我们只不过是以顾问身份参与这个项目。
+
+4 It leapt to the eye that she was really upset. 
+一眼就可以看出她确实心绪烦乱。 
+
+5 She spoke without a trace of bitterness. 
+她说话时一点儿也不伤感。 
+
+6 Her mouth curved in a smile.
+她嘴儿弯弯微笑了。
+
+7 He had been cheating the taxman but it was years before he was found out.
+他过去一直在欺骗税务部门，只是多年以后才被查出来。
+
+## 2019.7.6
+1 This guitar is a delight to play. 
+这吉他弹起来很惬意。 
+
+2 She wheeled round to face him and saw him take out a gun.
+她快速转身面对他，看到他掏出了手枪。
+
+3 They flung up their hands in horror at the cost of the trip.
+看到旅行的花费，他们不由吃了一惊。
+
+4 All the fight seemed to go out of him. 
+他身上的所有斗志似乎都已丧失殆尽。 
+
+5 Once and for all, will you switch off that television!
+最后说一次，把那电视关掉！
+
+6 She made a clean breast of it and admitted that she had stolen the money.
+她最终坦白了，承认是她偷了钱。
+
+7 They face death by the electric chair. 
+他们面临着被电刑处死。
+
+## 2019.7.7
+1 They added a lot of fancy footwork to the dance. 
+他们给这个舞蹈增加了许多复杂的舞步。
+
+2 He hovered nervously in the doorway. 
+他在门口紧张地来回踱步。 
+
+3 If you do end up going somewhere, we can just use our pass key. 
+如果你要出门，我们就用备用钥匙。
+
+4 He cocked an eye at her.
+他凝神细看她。
+
+5 They've got eight children! Can you beat that?
+他们有八个孩子！你想得到吗？
+
+6 You have to hand it to her. She's really made a success of that company.
+你不得不佩服她，她的确把那家公司经营得很成功。
+
+7 If you're going out tonight you'll have to count me out. 
+假如你们今晚要出去，就别把我算在内。 
+
+8 We all crowded into her office to sing 'Happy Birthday'. 
+我们全都涌进她的办公室，唱“祝你生日快乐”。 
+
+9 He only mentioned it in passing and didn't give any details. 
+他只是随口提及而已，并没有谈任何细节。
+
+10 Panic took hold of him and he couldn't move. 
+他突然惊慌得动弹不得。   
+
+11 Sometimes I feel I'm losing my grip. 
+有时我感到自己无能为力。
+
+12 There was an interesting collection of people at the wedding.
+婚礼上有一群很有趣的人。
+
+13 We should be able to fit one more in.
+我们应该可以再装进一个。
+
+14 What beats me is how it was done so quickly.
+使我困惑不解的是这事怎么这么快就完成了。 
+
+15 He thought he could fool me but I got wise to him. 
+他以为能耍得了我，其实我清楚他是怎么一号人。
+
+## 2019.7.8
+1 I don't want my colleagues to get wind of the fact that I'm leaving.
+我不想让我的同事知道我要离开的消息。
+
+2 The gunmen opened fire with automatic weapons.
+歹徒用自动武器开火了。
+
+3 This argument simply cannot hold water in Europe.
+这个论点在欧洲根本就站不住脚。
+
+4 I'm sixty-two. I feel sixty-two, neither more nor less.
+
+我现在62岁了，感觉自己也确实到这把年纪了。
+
+5 The house was very much as I'd remembered it.
+那房子和我记忆中的几乎完全一样。
+
+6 The play is being cast in both the US and Britain. 
+目前正在英美两国挑选这部戏的演员。
+
+## 2019.7.9
+1 Sending advertisement by email is very successful as a marketing device. 
+作为一种营销手段，用电子邮件发送广告是非常成功的。 
+
+2 How can you be so dense? 
+你怎么会这么笨？ 
+
+3 Do the same rules apply to part-time workers?
+这些规定对兼职人员也适用吗？
+
+4 After days of reflection she decided to write back.
+想了几天之后她决定回信。
+
+5 He is known for his elaborate costumes.
+他以着装精致而闻名。
+
+6 Don't go to any trouble for my benefit! 
+别为我费工夫！ 
+
+7 She plumed herself on being cosmopolitan.
+她以自己见多识广而引以为豪。
+
+8 You came right out and told him? I don't know how you dared!
+你直截了当地对他说了？ 我不懂你怎么敢这样！
+
+9 At last doctors have seen the light!
+医生们终于明白过来了！
+
+10 New evidence has recently come to light. 
+新的证据最近已披露出来。
+
+11 Happy New Year to one and all! 
+祝各位新年快乐！
+
+12 As last week's riots bear witness, the political situation is very unstable.
+上周的暴乱证明了政治局势非常不稳定。
+
+13 We were very surprised to learn that she had got married again. 
+我们听说她再婚了，感到很惊讶。 
+
+## 2019.7.10
+1 We allow he's straight.
+我们猜想他是坦率的。
+
+2 The company apologized for slipping up so badly.
+这家公司为这么严重的疏忽表示歉意。
+
+3 He has laid himself wide open to political attack.
+他在政治上已经处于极易受到攻击的境地。 
+
+4 She's the one and only person for the job. 
+她是这项工作的不二之选。 
+
+5 Computers have taken the place of typewriters in most offices. 
+在大多数办公室，电脑已经取代了打字机。 
+
+6 She fell back on her usual excuse of having no time. 
+她以她惯用的办法推说没有时间。 
+
+7 They had to draw lots to decide who would go.
+他们只得抽签决定谁去。 
+
+8 A good lawyer might be able to get you off. 
+请位好律师或许能使你免受惩罚。 
+
+9 The police have so far failed to track down the attacker. 
+警方至今未能追捕到攻击者。
+
+10 Many a parent has had to go through this same painful process.
+很多父母亲都被迫经历了这一痛苦的过程。
