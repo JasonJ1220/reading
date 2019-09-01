@@ -1394,14 +1394,615 @@ stare at 盯着
 那个女孩发出恐怖的尖叫。
 
 ## 2019-08-17
+sooner or later 迟早、早晚有一天
+tend to 照料、照管
+be apt to 易于、有...倾向
+bring...back 把...送回、归还
+think of 考虑、打算
+come true 实现
+live on 继续活着
 
+1 She had told me her name before, but it didn't register.
+
+她以前告诉过我她的名字，不过我没在意。
+
+2 She was ironing when I arrived.
+
+我到的时候她正在熨衣服。
+
+3 A slight breeze is stirring the branches.
+
+微风吹动着树枝。
+
+4 He dropped to his knees in the mud.
+
+他在泥浆中跪了下来。
+
+5 She is picking at her skirt.
+
+她揪扯着自己的裙子。
+
+6 Guess who I ran into today!
+
+猜猜我今天碰见谁了！
+
+7 The two things are one and the same.
+
+这两个东西是完全一样的。
+
+8 The students should be coaxed out of their comfort zone.
+
+应该劝导学生走出舒适区。
+
+9 I am not much of a dancer.
+
+我不怎么会跳舞。
 ## 2019-08-18
+at the most 至多、不超过
+contribute to 为...做贡献
+be dotted with 布满
+after all 毕竟、终究
+a series of 一系列
+defend...from 防御、保护
+hold out 伸出
+hold on to 紧紧抓住（抱住）
+lay out 铺开、展开
+
+1 He beamed at the journalists.
+
+他笑容满面地面对记者。
+
+2 All students arrived, barring two who were ill.
+
+除了两名生病的学生，其它所有学生都到了。
+
+3 We are going to visit the soaring skyscraper tomorrow.
+
+明天我们要去参观那座高耸入云的摩天大厦。
+
+4 I inched the car forward on snowy days.
+
+下雪天，我开着车缓慢前行。
+
+5 In spring this area is carpeted with bluebells.
+
+春天，这里满是风信子。
+
+6 He was asked to pull his car over for speeding.
+
+他因超速行驶被要求停在路边。
+
+7 They are a friendly bunch of people.
+
+他们是一群友好的人。
+
+8 The crowd started running every which way.
+
+人群开始向四面八方散去。
+
+9 I tried to make out what he was saying.
+
+我试着分辨出他在说什么。
 
 ## 2019-08-19
+used to (do) 过去常常
+a tad 一点儿
+help out 帮…分担工作、帮…一把
+turn into 变成
+now that 既然
+pack up 收拾行装
+
+1 'You will never understand,' he breathed.
+
+“你永远不会明白，”他低声说道。
+
+2 Her parents were overcome with grief at the funeral.
+
+葬礼上，她的父母悲痛欲绝。
+
+3 I won't be broken by the failure.
+
+我不会被失败击垮的。
+
+4 Blood welled from a gash in his thigh.
+
+鲜血从他大腿上的一个口子里涌了出来。
+
+5 Rest your head against my shoulder.
+
+把你的头靠在我的肩膀上。
+
+6 You need someone to take the pressure off to get back on your feet.
+
+你需要有人帮你分担压力才能恢复元气。
+
+7 I looked up and down the corridor.
+
+我来回扫视着走廊。
 
 ## 2019-08-20
+on the edge of 在...边缘
+dip...into... 把...浸在...里
+a group of 一组、一群
+cope with 处理、对付
+go on 继续
+every now and then 有时、偶尔
+pull down 拉下来
 
+1 I can tear the package open.
+我能把包裹撕开。
 
+2 I felt that time dragged terribly.
+我感到时间过得很慢。
+
+3 They wanted to win so badly in the match.
+在比赛中他们求胜心切。
+
+4 He stole down to the kitchen at midnight.
+他半夜偷偷走进厨房。
+
+5 Parents have voiced concern about their children's safety.
+家长对他们子女的安全表示关注。
+
+6 Don't clown around in the library.
+别在图书馆胡闹。
+
+7 The end of the drama came all too soon.
+这个电视剧结局太仓促了。
+
+8 Keep your hands off me.
+别碰我。
+
+9 How did you manage to eke out the food?
+你是怎样想方设法节约食物的呢？
+
+## 2019-08-21
+burst out 突然开始（做某事）
+turn around 转身、翻转
+be aware of 意识到、明白
+portray sb as 将人描写成
+long for 期待
+
+1 Her face betrayed nothing.
+她脸上不露声色。
+
+2 Traditional marriage is crumbling fast.
+传统婚姻正在迅速瓦解。
+
+3 The gates opened and the soldiers marched into their military compound.
+大门打开了，士兵们走进了军营。
+
+4 I want a full refund and I won't settle for anything less.
+我想全额退款，少一分也不行。
+
+5 He comes from a country in the grip of famine.
+他来自一个受饥荒困扰的国家。
+
+6 The dispute has dragged on for months.
+这场争辩已经持续了好几个月。
+
+7 A notice has been nailed up on the wall.
+墙上钉了一张告示。
+
+## 2019-08-22
+put on 穿上
+in order 准备好
+set about 开始做、着手做
+roll up 卷起
+off guard 不提防
+by the way 顺便说一句
+think of 考虑、打算
+gossip about 说闲话
+
+1 I left my clothes outside to air.
+
+我把衣服放在外面透透风。
+
+2 He quited his job in a fit of depression.
+
+他一时情绪消沉辞了职。
+
+3 His eyes are his best feature.
+
+他五官中眼睛长得最好看。
+
+4 These countries lay claim to the islands.
+
+这些国家宣称对岛屿拥有主权。
+
+5 I don't see what he is getting at.
+
+我不明白他想说什么。
+
+6 He turned up at my office with two lawyers in tow.
+
+他出现在我办公室，身后跟着两名律师。
+
+7 I feel like I have been cooped up in this flat for days.
+
+我感觉自己好像被囚禁在这间公寓里好几天了。
+
+## 2019-08-23
+scrunched up 皱起脸
+in turn 轮流、依次
+do away with 消除、终止
+pick up 拿起、捡起
+present sb with sth 把某物交给某人
+once in a while 偶尔地、间或
+take pleasure in... 以...为乐事
+bounce up 反弹、弹起
+steal a glance at 偷偷看一眼
+
+1 A car tore past the gates.
+
+一辆汽车从门前疾驰而过。
+
+2 The sky was streaked yellow and purple.
+
+天空布满黄色和紫色的条纹。
+
+3 For an instant I was infected by her fear.
+
+有那么一瞬间她的恐惧也影响了我。
+
+4 As the food looked so good, she decided to sample a little from each dish.
+
+这些食物看起来很诱人，于是她决定每样菜都尝一点。
+
+5 He gently pushed the locks from her eyes.
+
+他轻轻地为她撩开眼前的头发。
+
+6 His reason for investing in the company is to take it over.
+
+他投资这家公司的原因是想接管它。
+
+7 It seemed that someone was listening in on us.
+
+好像有人偷听我们谈话。
+
+8 She was not hungry and picked at a plate of cheese for supper.
+
+她不饿，晚饭只吃了一盘奶酪。
+
+9 She occupied herself with washing the coffee cups.
+
+她忙着把咖啡杯洗干净。
+## 2019-08-24
+pick sth up （偶然）听到、学会
+take off（突然）离开、走开
+throw punches 挥拳猛击、出拳
+
+1 The dancers arched their backs.
+
+舞者们弯起了背部。
+
+2 Writing helps to crystallize our thoughts.
+
+写作有助于使我们的思维明晰。
+
+3 This dish comes out from the marriage of African food and Mexican food.
+
+这道菜是非洲菜和墨西哥菜的结合。
+
+4 A cry of warning rang out from the crowds.
+
+人群中有人大叫一声警告大家小心。
+
+5 You've no need to worry. I only have eyes for you.
+
+你不用担心，我只爱你一个。
+
+5 He was completely at odds with the solution adopted.
+
+他完全不同意采取的这项措施。
+
+6 The critics think the two countries will come to blows over this.
+
+评论家认为两国会因此发生冲突。
+
+7 My father's completely thrown himself into parenting me and my brother.
+
+父亲完全投身于我和我弟弟的教育之中。
+## 2019-08-25
+make a face 做了个鬼脸
+lean over 身体倾斜到一边
+call off 取消、撤销（原计划的活动）
+hold one's breath 屏住呼吸
+
+1 The best gun cannot shoot with an unloaded magazine.
+弹匣空空，枪再好也不行。
+
+2 Explosives rained down on the city's streets.
+炸药雨点儿似地落在这座城市的街道上。
+
+3 According to the word of mouth, my idol is going to have a concert in this city.
+根据口头消息，我的偶像即将来这个城市开演唱会。
+
+4 I was only trying to help, not that it mattered.
+我只是试着帮忙，而并不是说这有什么重要的。
+
+5 The whole reaction reeks of indifference.
+整个反应充满了彻头彻尾的冷漠。
+
+## 2019-08-26
+break in 闯入
+gouge out 挖出
+pay attention to 注意
+drop out 退学、辍学
+a roomful of 一屋子的人（或物）
+
+1 Just as they were leaving the army started shelling.
+
+他们正撤离时，军队开始炮击。
+
+2 His joints ache if he exercises.
+
+他一运动关节就疼。
+
+3 If not for modern science, fewer babies would survive.
+
+如果没有现代科学，婴儿存活率将会更低。
+
+4 Humour can be helpful to get round possible embarrassing scenarios.
+
+幽默对于应对可能的尴尬场景有帮助。
+
+5 Despite objection from the whole class, I, for one, would like to go for this plan.
+
+即使全班同学都持反对意见，我还是想要选择这个方案。
+
+## 2019-08-27
+break out 爆发
+head for 前往
+be furious with 对某人感到愤怒
+not anymore 不再
+end up 结果
+wipe away 擦去
+give up 放弃
+
+1 His clan will leave for Italy.
+
+他一家子要离开去意大利了。
+
+2 My boots have been sitting unused in the car.
+
+我的靴子搁在车里，一直没用过。
+
+3 Jane's pads of fingers are covered with ink.
+
+Jane的指头肚儿上全是墨水。
+
+4 Her hunger for knowledge is the key to her success.
+
+她的求知欲是她成功的关键。
+
+5 Button your shirt, it's cold out.
+
+把衬衫扣上，外面很冷。
+
+6 I can't make out what is saying in the radio.
+
+我听不清广播里在说什么。
+
+7 The flu set in early this year.
+
+今年流感来得特别早。
+
+8 The research team is setting out for the Arctic in March.
+
+研究小组打算三月份去北极。
+
+9 The house is empty save for us.
+
+这个房子除了我们，没有别人。
+
+## 2019-08-28
+a string of sth 一系列、一连串
+conjure up 想象出、联想起
+set off 引起、激发
+pick at （反复地）揪、扯
+as if 好像
+
+1 My camera has sat in the drawer for a year.
+
+我的相机在我的抽屉里闲置一年了。
+
+2 I panted my congratulations to the champion.
+
+我上气不接下气地向冠军道贺。
+
+3 A plane zipped past over my head.
+
+一架飞机快速地从我头上掠过。
+
+4 They feasted well into the afternoon on mutton.
+
+他们吃羊肉一直吃到下午。
+
+5 Drunk driving costs lives.
+
+酒后驾车会付出生命的代价。
+
+6 Mother dusted off the table with a cloth.
+
+母亲用一块布掸掉桌子上的灰尘。
+
+7 She was so nervous that she kept picking at her skirt.
+
+她太紧张了以至于一直拉扯自己的裙子。
+## 2019-08-29
+rob...of... 剥夺（某人所需或应得之物）
+in the distance 在远处、在远方
+be identical to 完全相同的、非常相似的
+do away with 废除、取消
+a pile of 一摞、一沓
+drown...out 压过、淹没
+a shower of 一大批
+
+1 He had a row with his wife.
+
+他跟妻子大吵了一架。
+
+2 There is a faraway look in his eyes.
+
+他的双眼流露出若有所思的神情。
+
+3 He deposited two bottles of water and a glass in front of me.
+
+他把两瓶水和一个玻璃杯放在我面前。
+
+4 The knife gleams as it catches the light.
+
+刀在阳光下闪闪发亮。
+
+5 A branch whipped across the window.
+
+一条树枝突然划过窗户。
+
+6 We know nothing about him save for his name.
+
+除名字外，我们对他一无所知。
+
+7 He paced back and forth in front of the door.
+
+他在门前来回踱步。
+
+8 The plane slammed into a tall building shortly after take-off.
+
+飞机起飞不久便撞到了一座高楼上。
+
+## 2019-08-30
+move about 四处走动
+wave at... 向...招手
+a flock of 一大群
+come to life 开始动起来
+kick off 踢开、踢掉
+come at 扑向
+lean against 倚靠
+turn...into... 使...变成...
+turn out 结果是、原来是
+hold on 坚持
+
+1 Philip mouthed something through the glass, but she did not hear.
+
+Philip隔着玻璃说了些什么，可是她没有听见。
+
+2 There has been a long spell of rainy weather.
+
+很长一段时间以来一直下雨。
+
+3 She was taken to hospital after her collapse at home.
+
+她在家晕倒后被送进了医院。
+
+4 The smell made him want to throw up.
+
+这味道使得他想呕吐。
+
+5 He was in no shape to leave the house because of his illness.
+
+因为生病，他出不了家门。
+
+6 She could feel the tension drop away.
+
+她感到紧张情绪缓和了下来。
+
+7 He was down on all fours playing with the puppy.
+
+他趴在地上跟小狗玩。
+## 2019-08-31
+in front of... 在...前面
+back and forth 反复来回
+be supposed to do sth 应该做某事
+speed up 加速
+enroll in 选课、参加
+head for 朝着（某一地点）行进
+upside down 颠倒、翻转
+
+1 He produced a ring from his pocket.
+
+他从口袋里掏出一枚戒指。
+
+2 My friend had an urge to open a shop of his own.
+
+我朋友突然想自己开一家店。
+
+3 She positioned herself on a chair.
+
+她坐在一把椅子上面。
+
+4 No ambulances had as yet managed to get there.
+
+到目前为止还没有救护车顺利到达。
+
+5 I've tried every means to lose weight—you name it, I've tried it.
+
+我尝试过各种减肥方法——只要你说得出的，我都试过。
+
+6 They went at each other furiously.
+
+他们相互猛烈攻击。
+
+7 Suffice it to say that they had marital problems.
+
+无须多说，他们的婚姻出现了问题。
+
+8 He steeled himself not to look away.
+
+他硬下心不把目光移开。
+## 2019-09-01
+take out 切除、摘除
+finish up 完成、做完
+make out （勉强地）辨认出、看出、听出
+wipe...with... 用...擦、拭...
+wake up 唤醒、醒来
+be full of 充满（某一情感或特质）的
+call for 需要、要求
+be fond of 喜爱
+turn around 转身
+
+1 He was heavily drugged to ease the pain.
+
+给他打了大量的麻醉剂来缓解疼痛。
+
+2 She put it very tactfully.
+
+她的话说得很巧妙。
+
+3 The child seat belt should be properly anchored to the car.
+
+儿童坐椅的安全带要牢牢固定在车上。
+
+4 She kept toying nervously with her clothes.
+
+她一直精神紧张地摆弄着衣服。
+
+5 He has had his fair share of success in the past.
+
+过去他已经取得了应有的成功。
+
+6 The effects of the drug will soon wear off.
+
+这麻醉药的作用将很快消失。
+
+7 He said he'd come by later.
+
+他说他会晚些时候来拜访。
+
+## 2019-09-02
+
+## 2019-09-03
+
+## 2019-09-04
+
+## 2019-09-05
+
+## 2019-09-06
+
+## 2019-09-07
+
+## 2019-09-08
 
 
 
