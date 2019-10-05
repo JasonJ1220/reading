@@ -1991,18 +1991,924 @@ turn around 转身
 他说他会晚些时候来拜访。
 
 ## 2019-09-02
+look on 旁观
+shoot up 猛长、迅速上升
+ask sb for... 请求、恳求（给予）
+let...out 呼气
+go on 继续
+ball up 使成球状
+
+1 Threads of silver ran through the hair at his temples.
+他的鬓发里夹杂着缕缕银丝。
+
+2 The company has just managed to weather the recession.
+这家公司成功渡过了衰退期。
+
+3 I want to learn German but I don't know how to go about it.
+我想学德语，但我不知道怎样开始学。
+
+4 If you can work up energy, your talents can be put to good use.
+如果你能让自己精力充沛起来，你的天赋能得到充分发挥。
+
+5 It is easy to see who has the upper hand.
+不难看出谁占上风。
 
 ## 2019-09-03
+get to 到达
+gaze at 凝视、注视
+bring in 吸引、引入
+afford to 经得住、承受得起
+trade in 折价贴换
+pull away 远离、离开
+can't help doing sth 忍不住（无法抑制）做某事
+
+1 Business is a competitive activity which is very unforgiving.
+商场竞争激烈，难以应付。
+
+2 The countryside flashed past the train windows.
+乡村景色在火车窗外飞掠而过。
+
+3 The wedding guests arrived at the party, bearing gifts.
+参加婚礼的宾客们带着礼物来了。
+
+4 Many black cats sprouted a few white hairs.
+许多黑猫长出一些白毛。
+
+5 The countryside is spectacularly beautiful.
+乡下的风景美不胜收。
+
+6 There was a big truck in my way.
+有一辆大卡车挡着我的路。
+
+7 At every turn she met with disappointment.
+她事事都不顺心。
+
+8 He would kill for a smoke right now.
+现在他极想吸口烟。
+
+9 She let on that she was leaving.
+她透露说她要离开。
+
+10 I'd just as soon you didn't smoke while I'm gone.
+我倒希望我不在的时候你不要吸烟。
 
 ## 2019-09-04
+turn out 关掉、熄灭
+no more than 只不过、仅仅
+a pair of 一双、一对
+grow up 长大、成熟
+put down 放下
+
+1 The cheese has a distinctively sharp taste.
+这奶酪味道很冲。
+
+2 She gathered her skirts and climbed the steps.
+她提起裙子，走上台阶。
+
+3 She is a short, sturdy woman in her early sixties.
+她是一个六十岁出头，身材矮小结实的女人。
+
+4 I recalled the sting of his betrayal.
+我回想起他的背叛给我带来的痛苦。
+
+5 I am afraid I can't bring myself to talk about the matter at the moment.
+恐怕现在我还无法开口谈论此事。
+
+6 I ran into Moira on the way home.
+我在回家的路上与Moira邂逅。
+
+7 I suppose we might as well get started.
+我想我们不妨开始吧。
+
+8 She really believes that you should never speak ill of the dead.
+她的确认为你绝不该说死人的坏话。
 
 ## 2019-09-05
+worry about 担心、担忧
+in return 作为对...的回报
+be prone to 易于、有...的倾向
+pick up 拿起、提起
+turn around 转身、翻转
+get rid of 摆脱、丢弃、扔掉
+throw out 轰走、撵走、逐出
+heal up 康复、复原
+take care of 照顾、照料
+
+1 She sent the kids to bed early.
+她早早打发孩子们上床睡觉。
+
+2 She shot an angry glance at me.
+她很生气地瞪了我一眼。
+
+3 She strikes me as a very efficient leader.
+在我眼里，她是个很干练的领导。
+
+4 The full cost of the wedding falls on him.
+整个婚礼费用由他承担。
+
+5 Science plays the role of casting out superstition.
+科学发挥着破除迷信的作用。
+
+6 He has no use for a single glove.
+单个手套对他没用。
+
+7 I just can't get on without coffee.
+没有咖啡我简直难以过活。
 
 ## 2019-09-06
+a platter of 一大盘
+the same as 和...一样
+a handful of 一把
+fall on sb （责任或工作）落在某人身上
+burst into tears 突然哭起来
+no sooner...than 一...就
+for the time being 目前
+
+1 His uncle has been decent to me since I went to the UK.
+自从我到英国之后，他叔叔一直对我不错。
+
+2 These trees seem to shed few leaves.
+这些树似乎很少落叶。
+
+3 You can see the muted green of the far pasture.
+你能看见远处牧场淡淡的绿色。
+
+4 David shovelled all the biscuits into his mouth.
+大卫把所有的饼干都塞到嘴里。
+
+5 I nearly passed out when I saw the mess in the room.
+看到房间一团乱的时候，我差点儿昏过去。
+
+6 Mary sprang a new idea on me.
+玛丽突然告诉我一个新想法。
+
+7 He is usually excused from his duties during the holidays.
+在放假期间，他通常不必担负职责。
+
+8 Originally we are going to buy John's old car, but thought better of it.
+我们原计划买约翰的旧车，但后来觉得还是不买好。
 
 ## 2019-09-07
+the rim of （圆形物的）边缘
+stumble over 给...绊倒
+be littered with sth 充满某物
+fill sb with sth 使充满（某种感情）
+on the brink 处在边缘
+purse one's lips 撅起嘴唇
+
+1 Children used to trade cartoon cards.
+以前孩子们常常互相交换动漫卡片。
+
+2 They had their championship hopes dashed by a 5-0 defeat.
+遭遇0比5的失利后，他们的冠军梦就此破灭。
+
+3 Children's laughter rang in the house.
+孩子们的笑声在房子里回荡。
+
+4 She wheeled and headed for the police station.
+她突然转身，朝警察局走去。
+
+5 A storm turned the earth to mud yesterday.
+昨天一场暴雨把泥土变成了泥浆。
+
+6 Watch your step and hold on tightly.
+当心脚下，抓紧了。
+
+7 He is restlessly casting about for his new novel.
+他为了新小说而不停思索。
+
+8 She willed her eyes to stay open in class.
+上课时她使劲睁着眼睛。
+
+9 You can call me names, but I won't change my decision.
+你可以咒骂我，但我依然不会改变决定。
 
 ## 2019-09-08
+give birth to 生下（某人）
+pay good money for sth 在...上花了许多钱
+a pinch of 一小撮
+marvel at 对...感到惊讶
+snap your fingers 打响指
 
+1 The branch sprang back and hit him in the hand.
+树枝弹回来打在他手上。
 
+2 She needs a decent night's sleep.
+她需要一晚舒适的睡眠。
+
+3 The father knew absolutely nothing about holding or feeding a baby.
+这位父亲对如何抱婴儿、如何给婴儿喂食一无所知。
+
+4 We can hear their fits of laughter.
+我们能听见他们的阵阵笑声。
+
+5 Ignoring their protests, she brushed past waiting journalists.
+她不顾等候记者的抗议，从他们身边径直走过。
+
+6 I have to say I don't much care for classical music.
+我必须说我不太喜欢古典音乐。
+
+7 He was the head of the organization until his fall from grace.
+失去人们的信任之前，他是该组织的负责人。
+## 2019-09-09
+a stream of 一连串
+lunge at 向...冲过去
+make one's point（清楚地，有说服力地）阐明观点
+let go 放手
+
+1 She had to learn to temper her enthusiasm.
+
+她得学着给自己的热情降温。
+
+2 These fallen trees had left a clear impression in the mud.
+
+这些倒下的树木在泥地上留下了清晰的压痕。
+
+3 She was hardened by the rigours of the Arctic.
+
+北极的艰苦环境使她变得坚强起来。
+
+4 She stared at them with wide eyes.
+
+她睁大了眼睛瞪着他们。
+
+5 Lying in bed we often see dark shapes of magpies.
+
+躺在床上，我们常看到喜鹊的黑色身影。
+
+6 She let loose a string of four-letter words.
+
+她骂出一连串脏话来。
+
+7 I heard that the troops were advancing on the capital.
+
+我听说部队正向首都前进。
+
+8 The noise came at them from all sides.
+
+噪音从四面八方向他们袭来。
+## 2019-09-10
+a mouthful of 一满口
+cluck one's tongue（人用舌）发啧啧声
+rise to one's feet 站起身
+
+1 She picked up the sheets of paper, and balled them tightly in her fists.
+
+她抓起那几张纸，在手里紧紧攥成团。
+
+2 The fire left our oil industry in a sorry state.
+
+这场大火使我们的石油产业陷入悲惨的境地。
+
+3 I always forget to run the scanner over the barcodes.
+
+我总是忘记用扫描器扫描条形码。
+
+4 I had a bad corn on my left foot.
+
+我左脚上有一个很疼的鸡眼。
+
+5 Impatiently, he drummed his fingers on the box.
+
+他不耐烦地用手指嗒嗒地敲击箱子。
+
+6 He had pins and needles in the tips of his fingers.
+
+他的指尖有针刺的感觉。
+
+7 She tried to undo the knot by picking at it with her fingers.
+
+她用手指不停地扯,想把绳结解开。
+
+8 It's wrong to speak ill of friends.
+
+说朋友的坏话是不对的。
+## 2019-09-11
+stand up for sb/sth 维护
+clean up 打扫干净
+be left over 剩下、残留
+be deprived of 被剥夺...
+
+1 Cook for fifteen minutes until the sugar browns.
+
+煮15分钟，直到糖变成褐色。
+
+2 The short, strong style haircut frames his face.
+
+短而刚劲的发型衬托着他的脸形。
+
+3 "I adore drumstick. " said she, smacking her lips.
+
+“我喜欢鸡腿。”她边咂着嘴唇边说道。
+
+4 She has her hands full with five kids in the house.
+
+她为家里的五个孩子忙得团团转。
+
+5 Suddenly she just turned on me and accused me of neglecting her.
+
+她突然开始攻击我，指责忽视她。
+
+## 2019-09-12
+look forward to 急切等待
+marvel at 对...感到惊讶
+fire on 朝...开（枪）、开（炮）
+
+1 She likes to bounce her youngest son on her knee.
+
+她喜欢把最小的儿子放在膝盖上摇晃。
+
+2 I don't like onions because chopping onions makes my eyes water.
+
+我不喜欢洋葱，因为切洋葱会使我的眼睛流泪。
+
+3 A few strokes of her pen brought out the features of her father clearly.
+
+她寥寥数笔就清晰地刻画出了她父亲的容貌特征。
+
+4 The army has been shelling the town for three days.
+
+军队持续炮轰这座镇子三天了。
+
+5 He tried to bolster his bruised pride.
+
+他试图重振起受损的自尊。
+
+6 Yesterday, few students turned up because most slept in.
+
+昨天，没有几个学生露面，因为大多数都睡了懒觉。
+
+7 She and her two daughters were held at gunpoint by two strangers who burst into their home.
+
+闯入她家的两个陌生人用枪胁迫她和她的两个女儿。
+## 2019-09-13
+coop sb/sth up 把…关起来、把…囚禁在狭小的空间
+at the foot of 在…脚下
+break out 突然发生、爆发
+turn out 最终成为、最终发现
+be packed with 挤满、塞满
+
+1 The hunter carries a loaded shotgun on his shoulder.
+
+猎人肩上背着一把装满子弹的猎枪。
+
+2 The boy stuffed his bag with toys.
+
+男孩把书包里塞满了玩具。
+
+3 She pictured her husband playing her favorite song.
+
+她想象着她的丈夫演奏她最喜欢的曲子的样子。
+
+4 Scientists discounted the importance of the data.
+
+科学家们对这些数据的重要性不以为然。
+
+5 I curled up alone in my bed at this freezing winter night.
+
+在寒冷的冬夜里我一个人蜷缩在床上。
+
+6 A lion turned on the hunter from his back.
+
+一头狮子突然从背后袭击那位猎人。
+
+7 My aunt takes me for her own son.
+
+姑姑把我当成亲生儿子一样对待。
+## 2019-09-14
+ticket booth 售票亭
+here and there 到处
+at best 最多
+humanitarian ground 人道主义原因
+do sb a favor 帮忙
+good deed 高尚的行为
+
+1 She motioned the child to sit down.
+
+她示意孩子坐下。
+
+2 He fished a can of beer out of the fridge.
+
+他从冰箱里找出一罐啤酒。
+
+3 She closed her hand over my arm.
+
+她紧紧抓住我的胳膊。
+
+4 He posed as her boyfriend to please her parents.
+
+他扮作她男朋友让她父母开心。
+
+5 I will hold on to your bag until you get back.
+
+在你回来之前我将替你保管你的包。
+
+6 The patient is throwing up.
+
+病人正在呕吐。
+## 2019-09-15
+squeeze through （使）挤入、塞入
+pick up 抱起
+perch on 坐在...边沿
+hurry up 赶紧、赶快
+fall asleep 入睡、睡着
+seize an opportunity 抓住机会、把握时机
+put down 搁在（桌子上等）、放下
+maintain order 维持秩序
+
+1 We motioned to the waiter.
+
+我们向服务员示意。
+
+2 The two roads meet at the intersection.
+
+这两条路在路口交汇。
+
+3 A bird is poising in mid-air.
+
+一只鸟在半空中盘旋。
+
+4 There is always a parade of friends coming to visit her.
+
+总是有一个又一个的朋友来看她。
+
+5 You are holding everyone up.
+
+你是在耽搁所有人。
+
+6 We might as well go home.
+
+我们倒不如回家去。
+
+7 He said that you were waiting for him — I thought as much.
+
+他说你在等他——我也是这么想的。
+
+8 His words gave her a bubble of hope.
+
+他的话给了她一丝希望。
+
+## 2019-09-16
+slip off 滑落
+curl up 蜷缩
+now and then 偶尔
+turn over 翻转
+at the sight of 看见
+at the foot of 在...的底部
+
+1 He wanted to shed the wet clothes.
+
+他想要脱掉湿衣服。
+
+2 I will drive to the southern tip of China.
+
+我将开车去中国的最南端。
+
+3 He wanted to hit me with a club.
+
+他想用棍棒打我。
+
+4 He didn't have to bite his tongue.
+
+他没有必要忍住不说的。
+
+5 A truck pulled up outside the house.
+
+一辆卡车停在了房子外面。
+
+6 Please let go of my hand.
+
+请松开我的手。
+
+7 I doubled over in pain.
+
+我疼得直不起身。
+
+## 2019-09-17
+use up 用光
+a crate of 一箱
+be flooded with （使）充满
+fall on 降临、发生
+in protest 抗议
+be accountable for 对...负责
+be worthy of 值得（应得）...的
+
+1 The sound of the aircraft's engine drowned his voice.
+飞机的引擎声盖过了他的声音。
+
+2 He turned to address the man on his right.
+他转过去对右边的人说话。
+
+3 He heard a cry of warning rang out.
+他听见有人大叫一声警告大家小心。
+
+4 The news came on two minutes ago.
+两分钟前开播新闻了。
+
+5 The doctor checks on the patients regularly.
+医生定期检查患者的情况。
+
+## 2019-09-18
+settle in 安顿下来
+a handful of 一把
+pound sth on sth 用...猛击...
+switch to 转向...
+grow one's beard 蓄胡须
+abide by 遵守
+under any circumstances 在任何情况下
+make eye contact with 与…目光交流
+
+1 He craned out of the window and waved to me.
+
+他把头探出窗外朝我挥手。
+
+2 A burst of applause punctuated her speech.
+
+一阵掌声打断了她的演讲。
+
+3 The policemen spotted us when we weaved our way through the streets.
+
+当我们在街上穿行时，警察发现了我们。
+
+4 The child beamed with delight.
+
+那个孩子高兴得眉开眼笑。
+
+5 He let out a cry of sadness.
+
+他难过地大叫了一声。
+
+6 He tried to convert me to Catholicism.
+
+他试图让我皈依天主教。
+
+## 2019-09-19
+close down 停止营业
+be accused of 被指控...
+eye for an eye 以眼还眼
+tooth for a tooth 以牙还牙
+keep sth off sth 使免受...的侵害
+
+1 How long have you been practising as a doctor?
+你从事医生这一行有多久了？
+
+2 I wanted to be a dancer, but stage fright crippled me.
+我想成为一名舞蹈家，但因怯场而心生畏惧。
+
+3 They use a lot of big words.
+他们使用很多生僻的词汇。
+
+4 For once, he did not complain.
+他破天荒没有抱怨。
+
+5 The supermarket went up in smoke.
+这家超市付之一炬。
+
+6 He rolled over and kissed me.
+他翻过身来吻了吻我。
+
+7 He would kill to a smoke right now.
+他现在极想吸口烟。
+
+## 2019-09-20
+push forward 奋力向前
+send back 送回
+claw at 撕、抓
+take sb for a walk 带某人去散步
+
+1 The girl was treated for a minor head wound.
+那个女孩因头部轻伤接受了治疗。
+
+2 My voice rose an octave or two as I screamed.
+我尖叫时，嗓门升高了一两个八度。
+
+3 The boys charged noisily into the water.
+男孩们闹哄哄地冲进水里。
+
+4 The streets were teeming with pedestrians.
+街道上充满了行人。
+
+5 It stinks of smoke in here.
+这儿有股烟味。
+
+6 He was pacing back and forth.
+他在来回踱步。
+
+7 There are a horde of people in the meeting room.
+在会议厅有一大群人。
+
+## 2019-09-21
+call in 召来、叫来
+let out 发出（声音）
+write down 写下
+be/get arrested for sth 因...而逮捕
+keep watch 放哨
+
+1 My aunt delivered a child yesterday.
+我的阿姨昨天生了一个孩子。
+
+2 The wheels suddenly locked.
+轮子突然卡住不动了。
+
+3 They were unable to produce any statistics to verify their claims.
+他们拿不出任何统计数据来证明他们的说法。
+
+4 How can they tend to themselves abroad?
+他们怎么能够在国外照顾自己呢？
+
+5 'When?' she asked with a hint of impatience.
+“什么时候？”她带着一丝不耐烦问道。
+
+## 2019-09-22
+take turns 轮流、依次
+stand over sb （站在某人身后）严密监督（监视）
+in sb's presence 当着某人的面
+approve of 赞成
+keep an eye on sb 注视某人（的举动）
+
+1 These fuels include wood, coal, animal waste, crop waste and charcoal.
+
+这些燃料包括木材、煤、动物粪便、作物秸秆和木炭。
+
+2 Business is often slow in the afternoon.
+
+下午生意通常清淡。
+
+3 She planted her feet firmly to the spot and refused to move.
+
+她双脚钉在那里，不肯移动。
+
+4 She could never entertain the idea of living in the city.
+
+她从来不曾有过住到城里去的想法。
+
+5 They sell off leftover cakes before they close.
+
+他们关门前把剩下的蛋糕削价出售。
+
+6 His baby teeth are starting to fall out.
+
+他的乳牙开始掉了。
+
+7 The parents dote on their only daughter and try to satisfy her desires at all costs.
+
+这对父母溺爱他们的独生女儿，不惜一切代价满足她的要求。
+
+8 They've been deprived of the fuel necessary to heat their homes.
+
+他们没法得到家里取暖所必需的燃料。
+
+## 2019-09-23
+turn into （使）变成
+on account of sth 因为某事
+keep an eye on sb 注视某人（的举动）
+to one's astonishment 令某人惊讶的是
+catch up with 赶上
+cut down 减少、缩减
+
+1 She had blue eyes and light brown hair.
+
+她有一双蓝眼睛和一头浅棕色的头发。
+
+2 A ringing phone silenced her.
+
+响起的电话铃声让她安静了下来。
+
+3 Children would settle disputes by trading punches or insults in the schoolyard.
+
+儿童会通过在操场上对打或互骂的方式解决争端。
+
+4 The force of the impact knocked the breath out of her.
+
+撞击力使她喘不过气来。
+
+5 Actors have to learn their lines by heart.
+
+演员们必须记住台词。
+
+## 2019-09-24
+a herd of 一群
+search for 查找、搜寻
+die off 相继死去
+long for 渴望
+happen to sb/sth 某人/某事发生什么事情
+run out 用尽、耗尽
+
+1 The whole country seems to be in the grip of football fever.
+
+全国似乎都陷入了对足球的狂热中。
+
+2 She burst into tears and stormed off.
+
+她突然大哭起来并气冲冲地走开了。
+
+3 When she was young chocolate was a treat.
+
+她年轻的时候，吃巧克力是一种难得的享受。
+
+4 He's always finding fault with the way she works.
+
+他总是批评她的工作方式。
+
+5 I couldn't help thinking about the past.
+
+我不禁回想起过去。
+
+6 We don't want to cast a pall over the festivities.
+
+我们不想给庆典蒙上阴影。
+
+7 Reputable charities spend the lion's share of donations on aid.
+
+声誉好的慈善机构将捐款的大部分都花在援助上。
+
+## 2019-09-25
+pick up 捡起、拿起
+put on 穿上
+be familiar with sth 熟悉某事物
+make out （勉强）看出、辨认出
+concentrate on 专注、专心
+a glimpse of 一瞥、扫视
+let sb in 让某人进来
+
+1 There's the house, right in front of you.
+
+就是那所房子，就在你面前。
+
+2 She crossed to the window of the sitting-room and parted the curtains.
+
+她走到客厅窗户边，拉开了窗帘。
+
+3 Everything seemed to be going fine when suddenly disaster struck .
+
+一切看起来都很正常，但这时灾难突然发生了。
+
+4 The army's commanders were beginning to lose their nerve.
+
+军队的指挥官开始胆怯了。
+## 2019-09-26
+tend to sb/sth 照料、照顾某人/某物
+hang up 悬挂
+look like 相似、像
+be dotted with sth 布满
+go ahead 着手、开始做
+
+1 There is something wrong with the fans in the classroom.
+
+教室里的风扇坏了。
+
+2 I can't picture him skiing. He's so clumsy!
+
+我想象不出他滑雪的样子，他那么笨手笨脚的！
+
+3 The hills are scarred by quarries.
+
+采石场破坏了山里的景观。
+
+4 Linda pleaded with him to stay.
+
+Linda恳求他留下。
+
+## 2019-09-27
+a stick of 一片、一条
+marvel at 感到惊讶、敬佩
+call for 要求、呼吁
+struggle to do sth 奋力做某事
+fall apart 崩溃、破裂
+clean up 打扫干净、清理
+put down 放下
+
+1 You need strength of mind to stand up for yourself.
+
+你需要用精神力量来支持自己。
+
+2 She looked at him with a determined air.
+
+她看着他，神态坚定果断。
+
+3 He chipped a bone in his knee.
+
+他撞碎了一块膝盖骨。
+
+4 The children pelted him with snowballs.
+
+孩子们向他投掷雪球。
+
+5 Tears welled up in John's eyes.
+
+John的眼里涌出了泪水。
+
+## 2019-09-28
+call in 召来、叫来
+look after 照顾、照料
+put down 放下
+make/earn a living 谋生
+plead with sb (to do sth) 恳请某人做某事
+be short of 缺少
+look for 寻找
+by oneself 独自地
+
+1 "Where is my backpack?"Mary said thickly.
+
+“我的书包哪去了？”Mary粗声道。
+
+2 They were angry to the point of erupting into riot.
+
+他们气愤得快到了发生骚乱的地步。
+
+3 She trusted him so little that she had him tailed.
+
+她十分不信任他，所以派人跟踪他。
+
+4 In that case I was partly to blame for his death.
+
+要是那样的话，对他的死我就要负部分的责任。
+
+5 I'm paid by the hour, so I spin out the work as long as I can.
+
+我拿计时工资，所以我就尽量把工作拖长。
+## 2019-09-29
+assortment of 各种各样
+take to 养成习惯
+in case of 如果、假使
+pretend to do sth 假装、佯装做某事
+forbid sb from doing sth 禁止、不准某人做某事
+make up 形成、构成
+turn in 朝内、向内拐
+all the way 一路上、自始至终
+
+1 He is accustomed to wearing a beard.
+
+他习惯留胡须。
+
+2 The fault line is capable of generating a major earthquake once in a hundred years.
+
+这个断层带能引发百年一遇的大地震。
+
+3 If gold is discovered under your lot, you can sell the mineral rights.
+
+如果在你这块地底下发现了金子，你可以把采矿权卖掉。
+
+4 The army controlled the city apart from a few pockets of resistance.
+
+除了一些零星的抵抗外，部队已控制了城市。
+
+5 His whole life revolves around dancing.
+
+他一生都以跳舞为中心展开。
+
+6 Her writing was slow and riddled with mistakes.
+
+她写字很慢而且错误百出。
+
+7 After a ruinous strike, the union suddenly caved in.
+
+一场破坏性的罢工之后，工会突然让步了。
+
+8 I make it a point to practice piano for at least five minutes each day.
+
+我每天会特地抽空练习钢琴至少五分钟。
+## 2019-09-30
+meet sth with sth （对某事）作出反应、以...作为回应
+more than a little 十分、非常
+report back （为汇报、工作等）返回（某地）、回归
+mop up 擦去、拭去（表面的液体）
+save up 储蓄、攒钱
+dole out to sb 发放、施舍
+cling to 附着、粘住
+thrust at 刺、戳
+on the lookout for 寻找
+take up 再次开始、（停止后）继续，接下去
+
+1 The total distance, allowing for detours, is about 10 miles.
+
+把绕路计算在内，总距离约为10英里。
+
+2 She bought a hot dog from a stand on the street.
+
+她从街边的小摊上买了个热狗。
+
+3 He quoted a price for the repairs.
+
+他给出了维修费用的报价。
+
+4 It is agreed that another round of talks will be held in Beijing.
+
+经协商，新一轮的会谈将在北京举行。
+
+5 It is hard to explain away the difference in the treatment they received.
+
+很难为他们受到的不同待遇作出辩解。
+
+6 Why do you pick on him?
+
+你为什么故意刁难他？
+
+7 Everyone pitched in with the work.
+
+每个人都参与了这项工作。
+
+8 He was burning to go climbing again.
+
+他渴望再去爬山。
 
