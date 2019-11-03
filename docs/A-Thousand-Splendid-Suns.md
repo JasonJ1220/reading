@@ -2912,3 +2912,686 @@ take up 再次开始、（停止后）继续，接下去
 
 他渴望再去爬山。
 
+## 2019-10-08
+back and forth 来来回回
+cut sb off 打断
+run sth through/across/down sth（顺着某物）移动，揉擦
+stretch out 伸出、伸开
+long to do sth 渴望做某事
+come up 突然发生
+have the last laugh（历经别人的嘲笑和怀疑之后的）最后的胜利
+
+1 He is wearing a coat with bold white dots.
+
+他穿着有醒目白色圆点的外套。
+
+2 She rocked the baby gently in her arms.
+
+她抱着孩子轻轻摇晃。
+
+3 Sara was crushed by their insults.
+
+Sara因他们的侮辱而非常伤心。
+
+4 The soles of his feet are caked in mud.
+
+他的脚掌上粘满了泥巴。
+
+5 We eventually wound up staying in a little hotel a few miles from town.
+
+我们最后在离城几英里的一家小旅馆里落脚。
+
+6 He was about to shut the door when an idea came to him.
+
+他正准备关门，突然想到一个主意。
+
+7 My teacher is knowledgeable about all manner of things.
+
+我的老师知识广博，通晓万事。
+
+8 She never takes offense at anything.
+
+什么事都不会让她生气
+
+## 2019-10-09
+tie sth to sth 把...绑/捆在...上
+fall apart 瓦解
+dry up 枯竭、耗尽
+in plain view 显眼之处
+you name it 凡是你说得出（或想得到）的
+
+1 Please accept this gift with our compliments.
+
+这份礼物聊表我们的心意，请收下。
+
+2 Her voice wavered badly.
+
+她的声音颤得厉害。
+
+3 This is a safe retreat for him.
+
+这对他来说是一个安全的隐居地。
+
+4 The pencil you lent me was dull.
+
+你借我的铅笔是钝的。
+
+5 His parents have passed on.
+
+他父母过世了。
+
+6 National pride is at stake in next week's game against America.
+
+下星期对美国队的比赛关乎民族尊严。
+
+7 She spent the whole day just lying around.
+
+她一整天都无所事事。
+
+## 2019-10-10
+in exchange for 作为交换
+tally up 结算
+make light of 轻视、对…等闲视之
+grit sb's teeth 咬紧牙关
+take sb for（尤指错误地）以为、把…看作、误认为
+save that 除了
+let on（对某人）说出秘密、泄密
+turn out 最后是、结果是
+
+1 The man was finally cornered by police in a room.
+
+那个人最终被警方逼到了一间屋子里。
+
+2 They evenly said that they were not terrorists.
+
+他们镇静地表示，他们并不是恐怖分子。
+
+3 The document is an account of the country's reasons for going to war.
+
+这份文件介绍了这个国家参战的种种原因。
+
+4 The rain left a deposit of mud on the windows.
+
+雨水在窗上留下一层泥。
+
+5 She knows of no professional person who has ever sat on a jury.
+
+据她所知，陪审团的成员中从未有过专业人员。
+
+6 He is so excellent that his rivals don't stand a chance of winning.
+
+他太优秀了，他的对手根本没有获胜的可能。
+
+7 You should not pass up the opportunity to go to university.
+
+你不该错过上大学的机会。
+
+8 You have to pay your dues.
+
+你必须吃些苦头。
+
+9 His lawyer tried to get him off with a light sentence.
+
+他的律师尽力使他被轻判。
+## 2019-10-11
+clear one's throat 清清嗓子
+on the verge of 接近于、濒于
+show up 到达、露面
+mean to do sth 意欲、打算
+
+1 The air was fresh and crisp.
+
+空气清新又凉爽。
+
+2 I got a few days' grace to finish my paper.
+
+我被宽限了几天来完成论文。
+
+3 There was a suggestion of boredom in his tone of voice.
+
+从他的语调里能听出一丝厌倦。
+
+4 Tony's face was grave as he told them about the accident.
+
+Tony在告诉他们这次事故时表情十分严肃。
+
+5 If there is no president, power will be assumed by the most extremist forces.
+
+如果没有主席，权力就会落入最极端的过激分子手中。
+
+6 This park is built to cater to senior citizens.
+
+修建这个公园是为了迎合老年人的需要。
+
+7 The refugees cannot get on any more in this place.
+
+难民们无法再在这里生活下去。
+## 2019-10-12
+at one point 在某时刻
+let go of 放手松开
+thrash about 激烈扭动
+
+1 Runners will be pounding the pavement this Friday during the London Marathon.
+
+这周五选手们将跑上街头参加伦敦马拉松比赛。
+
+2 John saw his father coming and ducked quickly behind the wall.
+
+John看到他父亲来了，就赶快弓身躲到墙后面。
+
+3 I could hear the blows landing as she appealed for help.
+
+在她求救的同时我能听到拳头落下的声音。
+
+4 The cat bit me but it didn’ t draw blood.
+
+那只猫咬了我，但没咬出血。
+
+5 Why are they all turning on me?
+
+他们怎么突然都冲我来了？
+
+6 I looked up to see the horse bearing down on me.
+
+我一抬头，看见那匹马正向我冲过来。
+
+7 It's a difficult job but he's the person to carry it through.
+
+这是一项艰巨的工作,但他是能够顺利完成它的人。
+## 2019-10-13
+mean to do sth 打算、意欲、有...的目的
+occur to sb（主意或想法突然）浮现于脑中
+heavy with sth 充满（满载）某物
+make out 看清、分清
+
+1 "I can't give you an answer now." she hedged.
+
+“我现在不能回答你，”她闪避道。
+
+2 There was a trace of anxiety in her voice.
+
+她的声音中带着一丝焦虑。
+
+3 The liquor burned my throat as it went down.
+
+这酒喝下去的时候，我的喉咙火辣辣的。
+
+4 The movie was so loud it made my ears ring.
+
+电影的声音太大了，震得我的耳朵嗡嗡响。
+
+5 She has a pain in the small of her back.
+
+她后腰痛。
+
+6 John covered his face as the blows rained down on him.
+
+John在遭到雨点般的击打时护住了自己的脸。
+
+7 The sky is dark now because clouds blot out the sun.
+
+天很暗，因为云遮住了太阳。
+## 2019-10-14
+absorbed in 全神贯注于
+back up 向后移动、往后退
+run sth through/across/down sth（顺着某物）移动、揉擦
+think over 仔细考虑
+tend to 打理、照管、照料
+stumble around 跌跌撞撞地走
+in charge 主管、掌管、照管、职责、责任
+
+1 He willed himself to stay awake.
+
+他努力使自己保持清醒。
+
+2 Those children in the slum were so thin their ribs stuck out.
+
+贫民窟的那些儿童瘦得肋骨都突了出来。
+
+3 Just as I approached the entrance, my legs finally gave out.
+
+就在我快到入口时，双腿彻底走不动了。
+
+4 He was badly cut up in the car accident.
+
+他在车祸中伤得不轻。
+
+5 Every time she tried to speak, her throat closed up with fear.
+
+每当她试图讲话时，都害怕得喉咙发紧说不出话来。
+## 2019-10-15
+finish off 吃光、喝光（剩下的东西）
+have nothing to do with sb/sth 与某人/某事毫不相干
+engrave sth with sth 把...雕刻在...
+associate sb/sth (with sb/sth) 联想、联系
+blend in 协调、和谐
+hide out 躲藏起来
+deprive sb of sth 剥夺、使丧失
+bring oneself to do sth 强迫自己做某事
+
+1 She held it in her cupped hands for us to see.
+
+她双手捧着它给我们看。
+
+2 Suddenly his heart lifted and he could have wept with relief.
+
+他突然变得高兴起来，差点儿如释重负地哭出来。
+
+3 There is a restaurant with a welcoming atmosphere.
+
+那儿有一家气氛宜人的餐馆。
+
+4 A pall of oily black smoke drifted over the clifftop.
+
+一团油腻的黑色烟雾飘到悬崖顶上。
+
+5 Everyone became embarrassed and conversation dried up.
+
+大家都很尴尬，谈话停了下来。
+
+6 John is on the run from a juvenile detention center.
+
+John从少年犯拘留所逃了出来。
+## 2019-10-16
+a heap of 一堆
+pull back 退出、退却
+make up 编造、假装
+compete to do sth 竞争做某事
+send back 退还、送回
+
+1 She pursed her lips in disapproval.
+
+她撅起嘴唇，表示不赞成。
+
+2 Bars of sunlight shafted through the broken windows.
+
+一道道阳光从破窗射进来的。
+
+3 No matter what happens, do not abandon your post.
+
+无论出现什么情况，都不要擅自离岗。
+
+4 He's serving two years for robbery.
+
+他因抢劫罪要服刑两年。
+
+5 Tom eyed Mary with interest.
+
+Tom饶有兴趣地打量着Mary。
+
+6 She has been promised to John.
+
+她已许配给John。
+
+7 Toby’s aunt planted a big, wet kiss on his cheek.
+
+Toby的姑妈在他的脸颊上印了一个大大的、湿漉漉的吻。
+
+8 She bent over and let him get an eyeful of her tattoos.
+
+接着她弯下身子，让他好好看清楚她的文身。
+
+9 The witch cast a spell on him to turn him into a beast.
+
+巫婆念动咒语，把他变成了野兽 。
+## 2019-10-17
+take place 发生
+carry out 实行、执行
+can't help but do sth 某人忍不住做某事
+pay for 付代价、遭受惩罚
+
+1 He has lodged an appeal against the size of the fine.
+
+他就罚款金额提出上诉。
+
+2 A job analysis should also include what skills and personal qualities are required.
+
+工作岗位分析也应当包括必备技能与个人素质。
+
+3 She turned to address the man on her left.
+
+她转过头对左边的男士说话。
+
+4 He's a shallow, disagreeable man.
+
+他是个肤浅、脾气坏的人。
+
+5 We will abide by their decision.
+
+我们愿意遵从他们的决定。
+
+6 He threw up his hands in despair.
+
+他绝望地举起双手表示放弃。
+
+## 2019-10-18
+burst into sth 突然迸发（尤指开始唱歌、哭、笑等）
+be ashamed of 对...感到羞愧
+bear down on sb/sth 冲向、咄咄逼近
+make a fool of oneself 使...出丑
+
+1 The moon was riding high in the sky.
+
+月亮高高地挂在空中。
+
+2 The horses laboured up the steep slope.
+
+那些马费力地爬上了陡坡。
+
+3 When the excitement had died down, he felt lonely.
+
+当兴奋过去后，他感到寂寞。
+
+4 He felt he had atoned for what he had done to his son.
+
+他觉得他对儿子已无亏欠。
+
+5 She nearly wet herself because she was so scared.
+
+她吓得都快尿出来了。
+## 2019-10-19
+tighten up 加紧、加强
+sb can't help but do sth 某人忍不住做某事
+pull sb aside 把某人拉到一旁
+in silence 沉默
+
+1 The style you choose is of no consequence.
+你选择什么样式无关紧要。
+
+2 There was a throbbing in her temples.
+她的太阳穴直跳。
+
+3 He covered his face, rocking to and fro in his grief.
+他捂住脸，悲痛得身体不住地颤动。
+
+4 When he passed the exam, a feeling of joy washed over him.
+当他通过考试，一股喜悦之情油然而生。
+
+5 Britain was in the grip of a nostalgia boom.
+英国被突然盛行的怀旧情结所控制。
+
+## 2019-10-20
+wake up 睡醒、醒来
+fill with 装满、充满
+beat sb up 痛打某人、毒打某人
+run away（尤指秘密地）逃跑，出逃
+scramble for 争夺、争抢
+
+1 Her flashlight was still clipped to her belt.
+
+她的手电筒还别在皮带上。
+
+2 The pond was well stocked with fish.
+
+池塘里养了许多鱼。
+
+3 It's important to vacuum regularly.
+
+定期用吸尘器吸尘很重要。
+
+4 I let him tag along because he had not been too well recently.
+
+我让他跟着走，因为他最近一直感到不太舒服。
+
+5 Both countries laid claim to the islands.
+
+两国都公开声称对这些岛屿拥有主权。
+
+6 Foreign investment may dry up.
+
+外资可能枯竭。
+## 2019-10-21
+pass by 经过
+burst into sth 突然迸发（尤指开始唱歌、哭、笑等）
+break out 爆发、突然发生
+less than 不少于
+
+1 This product is free from service charge.
+
+这件商品不含服务费。
+
+2 He caught a glimpse of himself in the mirror.
+
+他看了一眼镜子中的自己。
+
+3 A film of dust coated the table.
+
+桌上覆盖着一层灰尘。
+
+4 He cocked a quizzical eyebrow at her.
+
+他扬起眉毛惊诧地看着她。
+
+5 The bomb went off in a crowded street.
+
+炸弹在挤满人群的大街上爆炸了。
+
+6 Much as I like Tom, I wouldn't want to live with him.
+
+虽然我喜欢Tom，但我不想和他生活在一起。
+
+## 2019-10-22
+declare war 宣战
+to begin with 首先
+share sth with sb 和别人分享（自己的东西）
+be wary of (doing) sth 小心翼翼（做某事）
+back and forth 前后地、来回地
+remind sb of sth 使（某人）想起
+
+1 The outlines of animals were cut into the rock.
+动物的外形被刻在岩石上。
+
+2 He refuses to resign, intending to weather the storm.
+他拒绝辞职，想要经受住这次风暴的考验。
+
+3 He lay propped against the pillows.
+他靠着枕头躺着。
+
+4 Alice lashed out at the media.
+Alice痛斥媒体。
+
+5 He couldn't bring himself to pull the trigger.
+他没法勉强自己扣动扳机。
+
+## 2019-10-23
+come true（愿望、梦想等）实现、成真
+die for sth 为某事物献出生命
+sit up 坐直
+fall in love with sb 爱上、倾心于某人
+
+1 She was plagued by weakness, fatigue, and dizziness.
+
+她感觉体虚、疲倦、头昏眼花。
+
+2 They have not seen him of late.
+
+他们最近没见到他。
+## 2019-10-24
+settle back（使）平静、（使）安定
+be popular with 在...受欢迎
+a cluster of 一串
+be accustomed to (doing) sth 习惯于（做）某事
+except for 除了...之外
+come along 一起来
+pull away（车辆）开始驶离、（驾车者）开走车辆
+look back 回忆起、回顾
+
+1 She arrived home exhausted and collapsed on her bed.
+
+她精疲力竭地回到家，倒在了床上。
+
+2 There are notes from years ago taped to the walls.
+
+墙上有多年前用胶带粘上去的字条。
+
+3 He parts his hair in the middle.
+
+他梳着中分头。
+
+4 I pried the top off a can of chilli.
+
+我揭开一罐辣椒的盖子。
+
+## 2019-10-25
+lay out 铺展、展开
+send in 派遣、调来（警察、军队等以应付危机或困难）
+marvel at（尤指对某人的行为）感到惊讶、钦佩
+give chase 追赶、追捕、追踪
+pull over 使（车辆或司机）停靠在路边
+in gear 挂上挡
+pass on 去世、离开人世
+fond of sb 喜爱（尤指认识已久的人）
+
+1 They have been pounding the area for six months.
+
+他们六个月来一直在轰炸那个区域。
+
+2 His face lit up with pleasure.
+
+他高兴得满面春风。
+
+## 2019-10-26
+dab at（多次）轻触、轻拍
+out of breath（尤指运动后）喘不过气来
+dry up 干涸
+take one's time 从容做、慢慢来
+a swarm of 一大群
+look back 回忆起、回顾
+rip sth up 把...撕成碎片
+back and forth 来回地
+
+1 The road levels off just before the river.
+
+就在河的前面道路变得平坦了。
+
+2 We found a clearing in the forest.
+
+我们在森林里发现了一块空地。
+
+3 He tripped and fell.
+
+他绊了一下，摔倒了。
+
+4 The ground was thickly carpeted with pine needles.
+
+地上落了厚厚的一层松针。
+
+## 2019-10-27
+put down 放下
+get to one's feet 站起来
+pitch forward（猛地）向前跌倒
+peck at（鸟）啄、啄食
+pass away 去世
+for a while 一会儿
+
+1 A sports car zipped past us.
+
+一辆跑车从我们身边呼啸而过。
+
+2 He crouched down so he couldn't be spied.
+
+他蹲下来好让别人看不见他。
+
+3 He should be able to claim the price of the ticket back.
+
+他应该能够要回票款。
+
+4 I'd been standing there for several minutes before he registered my presence.
+
+我在那儿站了几分钟之后他才注意到我。
+
+5 She likes eating tender young dwarf beans.
+
+她喜欢吃幼嫩的四季豆。
+
+## 2019-10-28
+be in good health 健康状况好
+have oneself to blame 只能怪某人自己、是某人自己的错
+stray bullet 流弹
+dream of/about 梦想
+be in fear of sth 生活在（某事的）恐惧之中
+to come 将来的、未来的
+
+1 She's just trying to spare Ana's feelings.
+
+她只是想尽量不让Ana难过。
+
+2 I do my share of the housework.
+
+我做我那份家务活。
+
+3 I had cried oceans of tears.
+
+我泪流成河。
+
+4 I took the liberty of cancelling your reservation.
+
+我擅自取消了你的预订。
+
+5 They are crediting science with power it doesn't possess.
+
+他们过分夸大了科学的力量。
+
+6 Liberty seemed to be in sight.
+
+自由似乎指日可待。
+
+## 2019-10-29
+wash sth away 冲走、冲掉
+complain about/of 抱怨
+in charge of 管理、照管、负责
+cling to（情感上）依赖、依恋
+make one's way to（通常指沿着某一路线）去、前往
+teem with sb/sth 充满（移动着的人或动物等）
+move on 开始做（别的事）、换话题
+
+1 He and William patched the barn roof.
+他和William补好了谷仓顶。
+
+2 The match will be screened live on television.
+这场比赛将在电视上直播。
+
+3 Pot the seedlings after 2–3 weeks.
+两三周后再把幼苗栽入盆中。
+
+4 He is a spoiled child who always gets his (own) way.
+他是个被宠坏的孩子，总是想怎么样就怎么样。
+
+5 I hope he's told the truth for his own sake.
+为了他自己好，我希望他已经说出了真相。
+
+## 2019-10-30
+pick up 捡起、拿起
+cover sth with sth 用...遮盖住...
+calm sb down（使）平静、镇静、安静
+for the time being 暂时、目前
+line up（使）排成行
+free throw（篮球）罚球
+
+1 A local TV station ran her story.
+
+一个地方电视台报道了她的故事。
+
+2 The parts are cemented together by glue.
+
+零部件用胶粘在一起。
+
+3 You should sand the surface softly and carefully.
+
+你应该用砂纸仔细而轻柔地打磨表面。
+
+4 The teacher convinced her that she could grow up to be somebody.
+
+老师的话使她相信，她长大后一定会出人头地。
+
+5 He charged full tilt down the slope.
+
+他全速冲下斜坡。
+
+6 A nurse ushered us into the hospital room.
+
+一名护士把我们领进了病房。
+
+7 They have since knocked down the shack.
+
+从那以后他们拆掉了简陋的棚屋。
