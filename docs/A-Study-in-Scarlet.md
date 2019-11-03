@@ -27,6 +27,16 @@ had better do 最好做某事
 have one's eyes on sth 看中……
 
 ## 2019.11.03
+there and then 当场，立即
+for days on end 连续、一连几天
+be reluctant to do 不愿意做
+know next to nothing of sth. 对....一无所知
+confide in sb. 向...吐露心思
+a point-blank question 直截了当的问题
+take in 吸收，领会
+have no difference to sb./sth. 对...来说没有影响
+now and again 时不时，偶尔
+come across 偶遇；无意中发现的
 
 ## 2019.11.04
 
