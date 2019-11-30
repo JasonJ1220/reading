@@ -39,8 +39,32 @@ now and again 时不时，偶尔
 come across 偶遇；无意中发现的
 
 ## 2019.11.04
+pick up 捡起，偶然学会
+far-fetched  牵强的，不着边际的
+figure out sth 弄清楚…….
+manage to do sth 成功的做了某事
+put sb on the right scent 使某人找到正确线索
+get into a mess 陷入困境
+undo knot 解开谜题
+turn up 出现
+lay down 阐述
+second nature 第二天
+nothing of the sort! 哪有这回事！
+arrive at a conclusion 得出结论
+be aware of 意识到
+catch sight of 看见
 
 ## 2019.11.05
+pre-arranged 提前安排好的
+in the world=on earth 究竟
+cast an eye over sth 迅速浏览.....
+out of the common 非同寻常
+on the beat 执勤
+meet one's death 死去
+insist upon doing sth 坚持做.....
+at once 立即
+walk up and down 来回走动
+draw one's own conclusion 得出自己的结论
 
 ## 2019.11.06
 
