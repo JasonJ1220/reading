@@ -130,18 +130,68 @@ burst into 突然开始
 at a disadvantage 处于不利地位
 
 ## 2019.12.02
+catch a glimpse of 一瞥
+despair of 对...绝望
+make no objection to doing sth.不反对做某事
+bear sth. in mind 记住
+be conscious of 留意到，意识到
 
 ## 2019.12.03
+lose sight of sb. 看不见某人
+would sooner do sth. 宁愿做某事
+harmonize with sth. 与...协调
+be to blame 该受责备
+but for 倘若没有
+marvel at... 对...感到惊奇
+fit in with sth. 与...一致
+be identical with 与...一致/相同
 
 ## 2019.12.04
+on one’s deathbed 生命垂危，临终
+from one’s point of view 从某人的观点来看
+at intervals 每隔一段时间
+to one’s disgust 让某人气愤
+bear grudge against sb. 对某人怀恨在心
+be condemned for sth. 因......被判刑
+a pile of 一堆
 
 ## 2019.12.05
+many a time 许多次
+think nothing of 不重视，把...视为平常
+stay over 过夜
+under protest 不情愿地
+devote one`s life to献身，致力于
+beyond one`s reach 够不着，高不可攀
+urge sb. on 激励，鼓励
+call sb. In 找某人帮忙
+show a leg 起床
 
 ## 2019.12.06
+freshen sb. up 焕然一新
+have enough of （对某人或某事）感到厌烦
+be on the scene 到现场
+be acquainted with sth 对……熟悉
+stretch one's hand up 撑开手掌
+look upon as看作是...
 
 ## 2019.12.07
+at stake 处于危险境地 ；在危险中；利害[生死]攸关
+out of breath 喘不过气 ；上气不接下气；气喘吁吁
+none the worse 没受到损害；并不更坏；一点也不差
+come to nothing  等于零；失败；没有结果；毫无结果；落空
+wink at   睁一眼闭一只眼；假装没看见；纵容
+hand over 转交；递给；送交(警察或有关当局)处理；移交(权力等)
+be master of  能自由处理；掌握；控制
+Insist upon 坚持
 
 ## 2019.12.08
+speak on 评论
+as though 仿佛
+mark the reaction from 体现了从……的变化
+cast off 解开 
+in spite of 尽管 
+be in one’s shoes 处于某人的境地
+run errands 跑腿 
 
 ## 2019.12.09
 
