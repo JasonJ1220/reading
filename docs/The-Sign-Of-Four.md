@@ -194,8 +194,63 @@ be in one’s shoes 处于某人的境地
 run errands 跑腿 
 
 ## 2019.12.09
+make no secret of sth. 对…不加隐瞒
+have a claim to sth. 有对...要求权
+catch up with 追赶
+to one's utmost 最大程度
+give sb. my word 我承诺
+have sth. to do with与...有关
 
 ## 2019.12.10
+owe sth. to sb. 将... 归功于某人
+get permission to do sth. 获得允许可以做...
+gaze in astonishment 吃惊地望着
+weigh sb. down 使某人焦虑、使某人看起来忧心忡忡
+cloud over 看起来忧愁
+give sth. up to sb. 放弃...给某人
 
 ## 2019.12.11
+black sheep 害群之马
+strike a match 划火柴
+snatch（sth.）up 夺取……
+ring of truth 听起来像是真的
+heart and soul 全心全意
+middle way 中间办法，折中办法
+provided that 只要
+be binding upon sb. 某人必须遵守
+raise no hand and speak no word against sb. 没有异议
+
+## 2019.12.12
+be true to sb. 对某人忠心耿耿
+dry up 干涸
+in cold blood 冷酷无情地，残忍地
+at sb.'s heels. 紧跟某人
+in sb.'s favor 有利于某人
+
+## 2019.12.13
+come to light 为人所知，被披露
+as likely as not 很有可能
+on a charge of sth. 以......的罪名
+eat sb.'s heart out （因希望不会实现而）极度不快
+put up with sth. 忍受......
+
+## 2019.12.14
+I.O.U. 欠条
+far apart 相距甚远
+rave about 激愤地说
+throw out 逐出
+pay off 还清
+come to an arrangement 达成协议
+tie up 停靠
+settle down 安定下来
+lose sight of 忘记
+
+## 2019.12.15
+do sb. a good turn 为某人做好事，做有利于某人的事
+hold back sth. 隐瞒...
+under lock and key 在押，被囚禁
+be obliged to sb. for sth. 因...对某人表示感谢
+do sb. the honor of doing sth. 赏某人的光做某事
+be opposed to sth. 与...对立
+none other than 不是别的而正是
 
