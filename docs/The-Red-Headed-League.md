@@ -129,10 +129,104 @@ promise to be…预计会是…
 for the benefit of … 为了…
 
 ## 2019.12.29
-
+the immediate neighborhood  近邻
+take in 接待
+get on sb’s nerves 使某人心神不宁
+have some kind of design upon sb  对某人有所图谋
+wear away 人日渐消瘦
+take the plunge 冒险尝试
+throw some light upon 为...提供解释 
+ 
 ## 2019.12.30
+throw into  使处于，使陷于（某种状态）
+be absorbed in 全神贯注
+spring to one`s feet  一跃而起，突然站起
+chain of events  一连串事件
+how matters stand  实际情况如何
+point to  指向，表明
+regain consciousness  苏醒，恢复知觉
+be ignorant of  对....一无所知
+justice is done 正义得以伸张
+send for sb. 请某人来
 
 ## 2019.12.31
+a fixed purpose  坚定的目标
+be about to solve  正要解决
+wake sb. from one's sleep  将某人从睡梦中惊醒、叫醒
+fresh evidence  新证据
+
+## 2020.01.01
+once and for all 彻底地，一劳永逸地
+would do well to do sth. 应该去做某事（用于建议或推荐）
+stand for sth. （缩写或符号）是...意思，代表着...
+owe sb. an apology 得向某人道歉
+be out of one's hands 不由某人说了算
+## 2020.01.02
+speak frankly to sb. 向某人坦白
+come/walk up the path 走过来
+take up one's position 各就各位
+set a trap for sb. 给某人设陷阱
+fair play 公正处理，公平对待
+happen to do… 碰巧做…
+get the better of sb.（感情）战胜某人的理智/占上风
+
+## 2020.01.03
+take on sth. 接受（工作），决定做…
+for anything 无论如何
+throw on sth. 仓促穿上（衣服）
+in the hour of one's need 在某人急需帮助的时候
+
+## 2020.01.04
+in a fit of anger 盛怒之下
+learn of sth. 知道某事
+offer no objection to sth. 不反对某事
+deprive sb of sth. 使某人和某物分离，剥夺
+
+## 2020.01.05
+come out of 由…产生
+throw one's arms round sb.  用双臂搂住某人
+bend over 弯腰
+send for 召唤
+look around 四下观望
+die of 死于
+
+## 2020.01.06
+
+## 2020.01.07
+
+## 2020.01.08
+
+## 2020.01.09
+
+## 2020.01.10
+
+## 2020.01.11
+
+## 2020.01.12
+
+## 2020.01.13
+
+## 2020.01.14
+
+## 2020.01.15
+
+## 2020.01.16
+
+## 2020.01.17
+
+## 2020.01.18
+
+## 2020.01.19
+
+## 2020.01.20
+
+## 2020.01.21
+
+## 2020.01.22
+
+## 2020.01.23
+
+
 
 
 
