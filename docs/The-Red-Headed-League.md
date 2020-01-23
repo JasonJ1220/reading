@@ -191,40 +191,38 @@ look around 四下观望
 die of 死于
 
 ## 2020.01.06
+deep-set  眼睛凹陷的
+put sb. off 分散某人的注意力
+get on the wrong side of sb. 令某人厌恶
+mention A in the same breath as B 把A和B想相提并论
+shade one's eyes 为眼睛挡住光线
+good heavens 天哪
 
 ## 2020.01.07
+without success 失败
+present some difficulties 有些难度
+throw any light upon 阐释
+meet one's death 死去
+give it a hard pull 硬拉，猛地一拉
+be plainly furnished 装修得很朴素
+with one's permission 在...允许下
 
 ## 2020.01.08
+in every respect 在各个方面
+at dusk 黄昏时分
+undo the heavy iron gate 打开沉重的大铁门
+fasten sth. to sth. 把...固定到...上
+in the same relative position to sth. 位置上对着...
 
 ## 2020.01.09
-
-## 2020.01.10
-
-## 2020.01.11
-
-## 2020.01.12
-
-## 2020.01.13
-
-## 2020.01.14
-
-## 2020.01.15
-
-## 2020.01.16
-
-## 2020.01.17
-
-## 2020.01.18
-
-## 2020.01.19
-
-## 2020.01.20
-
-## 2020.01.21
-
-## 2020.01.22
-
-## 2020.01.23
+on the dark road 走夜路
+blow in 被风吹进来，偶然拜访
+look around 到处观察
+be fatal to 对......是致命的
+fall asleep 入睡
+in case 万一
+stick out 突出，醒目
+couple A with B 结合A和B
 
 
 
